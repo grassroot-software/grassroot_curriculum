@@ -76,7 +76,7 @@ Success!
   <a href="http://i.imgur.com/nPZpeHY.png"><img class="tutorial-img" src="http://i.imgur.com/nPZpeHY.png" title="Click Compare & Pull Request" /></a>
 15. Click on the Compare & Pull Request button. Optionally, you can add a message to the person who is going to accept or reject the pull request. In this case the standard message is fine.
   <a href="http://i.imgur.com/PEfej8w.png"><img class="tutorial-img" src="http://i.imgur.com/PEfej8w.png" title="Click Create Pull Request" /></a>
-16. The Odin moderator viewing the pull request can see a summary of all the lines you've changed before merging it into `TheOdinProject/curriculum:Main`.
+16. The Grassroot moderator viewing the pull request can see a summary of all the lines you've changed before merging it into `TheOdinProject/curriculum:Main`.
   <a href="http://i.imgur.com/XaRdf46.png"><img class="tutorial-img" src="http://i.imgur.com/XaRdf46.png" title="View changes to files" /></a>
 17. Success! Now all that is needed is for TheOdinProject to approve your submission. You've completed your first contribution to an open source project on GitHub. Although this was minor, the process for any contribution to a GitHub repository is the same as outlined here. So, when you have suggestions to improve the TheOdinProject's curriculum you can now create a pull request and help your fellow students. It's a team effort, go forth and help the open source community!
 

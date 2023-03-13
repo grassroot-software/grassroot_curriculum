@@ -7,7 +7,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
   - Introduction to Web Development - [lesson](introduction/introduction_to_web_development.md)
   - Motivation and Mindset - [lesson](introduction/motivation_and_mindset.md)
   - Asking For Help - [lesson](introduction/asking_for_help.md)
-  - Join the Odin Community - [lesson](introduction/join_the_odin_community.md)
+  - Join the Grassroot Community - [lesson](introduction/join_the_odin_community.md)
 - Prerequisites
   - Computer Basics - [lesson](installations/computer_basics.md)
   - How Does the Web Work? - [lesson](installations/how_does_the_web_work.md)

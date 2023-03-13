@@ -49,7 +49,7 @@ If you would like to propose a change that is not covered in an open issue, plea
 	$ git push origin <your branch name here>
 	```
 	**Create a pull request**
-	* Go to your fork on Github after you have pushed up your branch. A new button should be visible near the top of the page. It will allow you to create a pull request to the original Odin Project repo.
+	* Go to your fork on Github after you have pushed up your branch. A new button should be visible near the top of the page. It will allow you to create a pull request to the original Grassroot Project repo.
 
 	* Please fill out the pull request template in its entirety.
 

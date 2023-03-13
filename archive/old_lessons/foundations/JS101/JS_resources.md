@@ -30,7 +30,7 @@ The following is a list of great resources that we've found for deepening your J
 1. [Javascript 30](https://javascript30.com)
       - A great series of video tutorials that mainly deal with DOM manipulation and plain JavaScript.
 1. [exercism - website](https://github.com/exercism/javascript)
-      - This one is a favorite of many Odin grads.. tons of Code Exercises to work up your skills. (They have many other languages too)
+      - This one is a favorite of many Grassroot grads.. tons of Code Exercises to work up your skills. (They have many other languages too)
 1. [That JS dude interview questions](http://www.thatjsdude.com/interview/js1.html)
 1. [Eloquent JS](http://eloquentjavascript.net/) has some interesting code exercises at the end of each chapter.. Even if you don't read the book, they might be worth a look.
 1. [CodeWars](https://www.codewars.com/).

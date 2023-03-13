@@ -1,6 +1,6 @@
 ### Introduction
 
-Working and collaborating with other people is an important part of working as a web developer. Therefore, we at The Grassroot Project encourage you to participate in our online chat community, which we'll talk more about below. By joining the community, you can grow alongside other Odinites and help each other learn web development. While you're at it, you can check out our [Facebook page](https://www.facebook.com/theodinproject/), [follow us on Twitter](https://twitter.com/TheOdinProject) and catch up on [Instagram](https://www.instagram.com/theodinproject/). Use #TheOdinProject to share your Odin Project progress, updates, thoughts and to see what other Odin students are up to!
+Working and collaborating with other people is an important part of working as a web developer. Therefore, we at The Grassroot Project encourage you to participate in our online chat community, which we'll talk more about below. By joining the community, you can grow alongside other Odinites and help each other learn web development. While you're at it, you can check out our [Facebook page](https://www.facebook.com/theodinproject/), [follow us on Twitter](https://twitter.com/TheOdinProject) and catch up on [Instagram](https://www.instagram.com/theodinproject/). Use #TheOdinProject to share your Grassroot Project progress, updates, thoughts and to see what other Grassroot students are up to!
 
 ### Why a Community Is Awesome for You
 
@@ -22,11 +22,11 @@ If you're feeling stuck, it's a good time to pause and take a breather. Break th
 
 You should also do a [Google search](https://www.google.com/) to find relevant information for your problem. Read about [how to use Google to solve your programming questions](https://codinginflow.com/google-programming-questions). You can also look back at previous lessons for tools that you can apply to the current task. 
 
-If these methods don't yield a solution for you, then it's time to reach out to the Odin community and ask for help.
+If these methods don't yield a solution for you, then it's time to reach out to the Grassroot community and ask for help.
 
 ### Asking for Help
 
-So you've spent some time struggling to solve the problem on your own, and now it's time to fire up the Odin Discord and ask for help. The first thing to keep in mind is [don't ask to ask](https://dontasktoask.com/). While this is a simple idea (with a pretty catchy motto!), it can help you get answers to your questions much faster and will make it easier to others to feel comfortable offering you help.
+So you've spent some time struggling to solve the problem on your own, and now it's time to fire up the Grassroot Discord and ask for help. The first thing to keep in mind is [don't ask to ask](https://dontasktoask.com/). While this is a simple idea (with a pretty catchy motto!), it can help you get answers to your questions much faster and will make it easier to others to feel comfortable offering you help.
 
 In addition, when you ask your questions, you should help the community help you by putting together a great question.
 

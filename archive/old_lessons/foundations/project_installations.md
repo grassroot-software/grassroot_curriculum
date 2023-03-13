@@ -33,7 +33,7 @@ The programmers who created Rails had a preference for unix based operating syst
 
 * **Bonus**  Experience with Linux will look great on your CV.
 
-We at Odin don't have anything against Windows, we simply want you to succeed at your goal of learning to program. We don't want to see you get majorly frustrated and giving up on this first hurdle of getting everything installed. Therefore we unequivocally recommend using Linux or a Mac for this curriculum.
+We at Grassroot don't have anything against Windows, we simply want you to succeed at your goal of learning to program. We don't want to see you get majorly frustrated and giving up on this first hurdle of getting everything installed. Therefore we unequivocally recommend using Linux or a Mac for this curriculum.
 
 ### Installing Linux
 The good news is installing Linux is not as hard as you might have imagined, first of all Linux is free so you don't have to pay for anything, Yay! Secondly there are three different options that you can choose from to use Linux on your machine alongside Windows, so you can choose the one that suits your situation best.

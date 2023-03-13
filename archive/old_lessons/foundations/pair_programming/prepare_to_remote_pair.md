@@ -26,7 +26,7 @@ As you learned in the last lesson, pairing in person is the best option, but if 
 
 ### Finding a Partner
 
-Of course all this preparation is pointless without someone to pair with. Perhaps you already have someone in mind, but if you are having trouble finding someone, The Grassroot Project has a Forum Category just for that. If you haven't [joined the Odin community](http://www.theodinproject.com/courses/foundations/lessons/join-the-odin-community), now is a good time to do that, and then post in the [Pair Category](https://forum.theodinproject.com/c/pairs). There should be other people there at about the same place you are in the curriculum looking to find someone to pair with as well.
+Of course all this preparation is pointless without someone to pair with. Perhaps you already have someone in mind, but if you are having trouble finding someone, The Grassroot Project has a Forum Category just for that. If you haven't [joined the Grassrot community](http://www.theodinproject.com/courses/foundations/lessons/join-the-odin-community), now is a good time to do that, and then post in the [Pair Category](https://forum.theodinproject.com/c/pairs). There should be other people there at about the same place you are in the curriculum looking to find someone to pair with as well.
 
 ### Things to keep in mind
 * Your pair is a living breathing human being. Don't forget the manners your mama taught you.
