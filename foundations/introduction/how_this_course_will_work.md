@@ -1,6 +1,6 @@
 ### Introduction
 
-The Odin Project is an open-source community dedicated to providing the best information sources to take you from zero to a full-stack developer.  More information can be found at The Odin Project's [about page](https://www.theodinproject.com/about).
+The Grassroot Project is an open-source community dedicated to providing the best information sources to take you from zero to a full-stack developer.  More information can be found at The Grassroot Project's [about page](https://www.theodinproject.com/about).
 
 In this unit, we'll learn about how the web works and start thinking about the basics of computer and web programming.
 
@@ -18,11 +18,11 @@ This curriculum works by pulling together the best content from across the inter
 
 Most lessons will contain questions that you should be able to answer before moving on.  Some of the lessons will ask you to complete exercises. In addition, we provide several projects throughout the curriculum to help you grow your understanding by actually building things.
 
-Try not to think of The Odin Project, or programming, as a class in school. It's not material you learn all at once to take a test, and then pass or fail. You can think of it as a snowball. You, yourself, are a snowball. You're rolling down a hill full of snow; the further you roll, the more snow will stick to you. Sure, snow will also fall off you, and you'll forget things often, but that's just part of the process. Don't be scared if you get to a project and you feel like you haven't retained or memorized anything. That's natural and happens to everyone. The information will come back to you as you start solving your problems one at a time, relying on Google and the Odin Community for help.
+Try not to think of The Grassroot Project, or programming, as a class in school. It's not material you learn all at once to take a test, and then pass or fail. You can think of it as a snowball. You, yourself, are a snowball. You're rolling down a hill full of snow; the further you roll, the more snow will stick to you. Sure, snow will also fall off you, and you'll forget things often, but that's just part of the process. Don't be scared if you get to a project and you feel like you haven't retained or memorized anything. That's natural and happens to everyone. The information will come back to you as you start solving your problems one at a time, relying on Google and the Odin Community for help.
 
 ### A Note About Language
 
-The Odin Project attracts people from all over the world who aspire to learn how to become developers. Please be aware that this curriculum is written in English and maintained by English speakers who are not able or expected to translate it for you. As you develop into a programmer, you will find that the world you are entering into is firmly rooted in the English language. This means that the syntax of your programming language, the documentation that teaches you how to use it, and the majority of the people in the community are all expecting to communicate with you in English.
+The Grassroot Project attracts people from all over the world who aspire to learn how to become developers. Please be aware that this curriculum is written in English and maintained by English speakers who are not able or expected to translate it for you. As you develop into a programmer, you will find that the world you are entering into is firmly rooted in the English language. This means that the syntax of your programming language, the documentation that teaches you how to use it, and the majority of the people in the community are all expecting to communicate with you in English.
 
 If you are a non-English speaker, or English is not a primary language for you, this fact is not meant to discourage you, but to prepare you. 
 
@@ -37,7 +37,7 @@ Once you've completed this course, you should feel comfortable with the building
 The last lesson of this course will give you an opportunity to choose between a Full Stack JavaScript and Full Stack Rails path, both of which are designed
 to take the foundation built in this course and build it into an applied understanding of the material. Each path will focus on taking these raw building blocks and honing them into a highly functional skillset.
 
-The Odin Project is maintained by professionals.  We have chosen some of the best resources available and curated a guide on how to go through them. If there are no good resources, we write our own. With that said, know that **everything** in the curriculum is intentionally included and vital for you to become a successful programmer. 
+The Grassroot Project is maintained by professionals.  We have chosen some of the best resources available and curated a guide on how to go through them. If there are no good resources, we write our own. With that said, know that **everything** in the curriculum is intentionally included and vital for you to become a successful programmer. 
 
 As you move forward in the curriculum, each portion is built on everything that came before it, so skipping things will create pockets of non-understanding in your knowledge that start to affect your ability to solve problems and understand the task at hand. 
 

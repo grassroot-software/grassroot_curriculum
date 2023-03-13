@@ -1,19 +1,19 @@
-# Welcome to The Odin Project Curriculum
+# Welcome to The Grassroot Project Curriculum
 
-The Odin Project (also known as TOP) is an open-source community for learning full-stack web development. Our mission is to provide a comprehensive curriculum to learn web development for free. We help our students learn the skills and build the impressive portfolio of projects they need to get hired as a web developer.
+The Grassroot Project (also known as TOP) is an open-source community for learning full-stack web development. Our mission is to provide a comprehensive curriculum to learn web development for free. We help our students learn the skills and build the impressive portfolio of projects they need to get hired as a web developer.
 
 The curriculum is divided into distinct courses, each covering the subject language in depth. Each course contains a listing of lessons interspersed with multiple projects. These projects give students the opportunity to practice what they are learning, thereby reinforcing and solidifying the theoretical knowledge learned in the lessons. Completed projects may then be included in the student's portfolio.
 
 Lessons are structured through a combination of original written content and a compilation of carefully curated resources from the web. This is where the contributing happens!
 
-This repository houses the curricular content used in [The Odin Project](http://theodinproject.com) website. (cf. [this repository](https://github.com/TheOdinProject/theodinproject) which houses the front-end and back-end code.)
+This repository houses the curricular content used in [The Grassroot Project](http://theodinproject.com) website. (cf. [this repository](https://github.com/TheOdinProject/theodinproject) which houses the front-end and back-end code.)
 
 
 The TOP community can be found in our [Discord chat rooms](https://discord.gg/fbFCkYabZB).
 
 ## Contributing
 
-The Odin Project depends on open-source contributions to improve, grow, and thrive. We welcome contributors of all experience levels and backgrounds to help maintain this awesome curriculum and community.
+The Grassroot Project depends on open-source contributions to improve, grow, and thrive. We welcome contributors of all experience levels and backgrounds to help maintain this awesome curriculum and community.
 
 ### Lessons/Courses in Development
 We are constantly making improvements to the curriculum, and new lessons are always in the works. However, writing new lessons is very time consuming and is done for free. If you would like to know specifics about work on new lessons, ask in the [Discord chat](https://discord.gg/fbFCkYabZB), or keep an eye on this repo.
@@ -35,9 +35,9 @@ To find out more about how you can contribute, please read our [contributing gui
 
 ## Other helpful links
 
-*For more information about The Odin Project, go to [theodinproject.com](http://theodinproject.com).*
+*For more information about The Grassroot Project, go to [theodinproject.com](http://theodinproject.com).*
 
-*For the source code to The Odin Project's main website (which pulls in this curriculum), check out the [github repo here](http://github.com/theodinproject/theodinproject).*
+*For the source code to The Grassroot Project's main website (which pulls in this curriculum), check out the [github repo here](http://github.com/theodinproject/theodinproject).*
 
 **Happy Coding!**
 
@@ -47,7 +47,7 @@ ___
 Created by [Erik Trautman](http://www.github.com/eriktrautman)
 
 
-# The Odin Project - JavaScript Curriculum
+# The Grassroot Project - JavaScript Curriculum
 
 ## Mission statement
 

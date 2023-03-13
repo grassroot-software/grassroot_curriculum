@@ -1,6 +1,6 @@
 # Project: Git Remotes
 
-In this project we will fork The Odin Project's curriculum repository to add your name and a link to your GitHub Profile through a pull request. This is a common way to contribute to open source software on GitHub and valuable skill. Your pull request will be reviewed by the team at TheOdinProject and once approved it will appear on TheOdinProject/Curriculum. It might even be used to create an honor roll (so pay attention!).
+In this project we will fork The Grassroot Project's curriculum repository to add your name and a link to your GitHub Profile through a pull request. This is a common way to contribute to open source software on GitHub and valuable skill. Your pull request will be reviewed by the team at TheOdinProject and once approved it will appear on TheOdinProject/Curriculum. It might even be used to create an honor roll (so pay attention!).
 
 ## Learning Outcomes
 *By the end of this project you should be able to:*

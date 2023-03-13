@@ -7,7 +7,7 @@ With Ruby installed, you're all set to install Rails and create our first Rails 
 Before continuing, let's review a few best practices to keep in mind:
 
 * Follow the directions closely, and don't skip over any sections.
-* **Do NOT use `sudo` unless The Odin Project specifically says to do so.** Failing to follow this advice can cause *a lot* of headaches. In some instances, you might see a message in the terminal telling you to use `sudo` and/or to install something with `apt`. **Ignore what the terminal says** and follow the instructions below.
+* **Do NOT use `sudo` unless The Grassroot Project specifically says to do so.** Failing to follow this advice can cause *a lot* of headaches. In some instances, you might see a message in the terminal telling you to use `sudo` and/or to install something with `apt`. **Ignore what the terminal says** and follow the instructions below.
 * Copy and paste the commands to avoid typos.
 * If you stop working on this project partway through and come back to it later, be sure to use `cd` to move back inside your project directory so that the commands will work.
 
@@ -17,7 +17,7 @@ In this project, we're going to build a fully functional Rails application. The 
 
 ### Step 1: Create Your First Ruby on Rails Web Application
 
-Don't worry if you don't totally understand what you are doing in these next steps. You will learn what all of this does later in The Odin Project curriculum. As long as the commands complete successfully, just keep going. The main reason we're doing this is to ensure everything is properly installed and configured.
+Don't worry if you don't totally understand what you are doing in these next steps. You will learn what all of this does later in The Grassroot Project curriculum. As long as the commands complete successfully, just keep going. The main reason we're doing this is to ensure everything is properly installed and configured.
 
 #### Step 1.1: Install Rails
 

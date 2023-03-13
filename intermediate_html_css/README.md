@@ -1,6 +1,6 @@
 # Intermediate HTML and CSS
 
-This folder contains lesson markdown files that make up the Intermediate HTML and CSS course. This course exists in the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) and the [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) paths on the Odin Project Website.
+This folder contains lesson markdown files that make up the Intermediate HTML and CSS course. This course exists in the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) and the [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) paths on The Grassroot Project Website.
 
 ## Course Outline
 

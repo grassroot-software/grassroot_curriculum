@@ -2,7 +2,7 @@
 
 Learning to code is incredibly rewarding but can also be difficult and frustrating. Like any skill worth knowing, it takes time to acquire, and it can't be learned in a weekend or even a month. With that said, we believe anyone can learn how to program as long as they are willing to put in the time and effort.
 
-So before we get into the meat of the curriculum, we're going to go over the following to help you get the most out of The Odin Project: the things that will help you succeed in your goal of learning to code and the pitfalls that you should try to avoid.
+So before we get into the meat of the curriculum, we're going to go over the following to help you get the most out of The Grassroot Project: the things that will help you succeed in your goal of learning to code and the pitfalls that you should try to avoid.
 
 ### Motivation
 
@@ -28,7 +28,7 @@ However, there is a wide body of research showing that intelligence is not fixed
 
 What does this mean for you? It means you can learn new skills and develop new talents with **persistence and grit**. 
 
-There will be many times throughout The Odin Project that you will get stuck on a concept or a programming problem and may find yourself questioning your ability to learn programming. When you find yourself in this position, remind yourself that you may not get it *yet* but that with persistence and grit you will. Struggling with something is growth. It doesn't matter how long you struggle with a concept or project; all that matters is that you have the grit and tenacity to see it through. That's how
+There will be many times throughout The Grassroot Project that you will get stuck on a concept or a programming problem and may find yourself questioning your ability to learn programming. When you find yourself in this position, remind yourself that you may not get it *yet* but that with persistence and grit you will. Struggling with something is growth. It doesn't matter how long you struggle with a concept or project; all that matters is that you have the grit and tenacity to see it through. That's how
 real learning happens.
 
 While you're working through the curriculum, embrace the struggles you encounter with difficult concepts and complex projects. Be sure to celebrate your persistence at overcoming those struggles!
@@ -73,9 +73,9 @@ You will have more success with Odin by putting **consistent** time into it rath
 
 It may take you longer than others to grasp concepts, or it may take you less time. This doesn't mean you're smarter or dumber than others, it means you've had differing life experiences that may or may not have prepared you for learning this stuff. Someone who grew up around an engineer may have some advantages over someone who didn't, but it doesn't mean you can't learn those skills.
 
-The Odin Project isn't like college or university, it is self paced and allows you to get a really solid grasp of concepts before moving on. In school, you're forced to keep up or you will fail. The difference here is that coming into The Odin Project, you're not expected to have much knowledge; there are no prerequisites. We've had people be successful coming through here who only knew how to check their email with a computer. We've also seen success from computer science degree holders. Treating The Odin Project like a static timeline is understandable, but is a sign of misplaced expectations. You simply don't know what you don't know yet, and that's OK! There are no due-dates on things in The Odin Project so you can spend the time to do it right and discuss the topics.
+The Grassroot Project isn't like college or university, it is self paced and allows you to get a really solid grasp of concepts before moving on. In school, you're forced to keep up or you will fail. The difference here is that coming into The Grassroot Project, you're not expected to have much knowledge; there are no prerequisites. We've had people be successful coming through here who only knew how to check their email with a computer. We've also seen success from computer science degree holders. Treating The Grassroot Project like a static timeline is understandable, but is a sign of misplaced expectations. You simply don't know what you don't know yet, and that's OK! There are no due-dates on things in The Grassroot Project so you can spend the time to do it right and discuss the topics.
 
-Deadlines cause un-needed stress. Since The Odin Project is a free and open platform, you are not beholden to a deadline. Creating your own deadlines is a good way to rush concepts that should not be rushed. This course is very research based, meaning you will have to do research to complete tasks and projects. There's no telling if you can find the article or post that helps you in the right way, quickly to meet your deadlines, but we bet you learned a TON along the way that you can use in the future. People that do this kind of research and strive to write better solutions tend to become better developers in the future. There's no knowing how long it could take you to learn how to query stuff to find your answers. There are no solid guidelines on that. If you're doing The Odin Project because you need a high paying job _right-now_, you're not going to become a solid developer within the timeframe you have set. Stress and anxiety absolutely do not help you learn either. Relax and just enjoy the ride.
+Deadlines cause un-needed stress. Since The Grassroot Project is a free and open platform, you are not beholden to a deadline. Creating your own deadlines is a good way to rush concepts that should not be rushed. This course is very research based, meaning you will have to do research to complete tasks and projects. There's no telling if you can find the article or post that helps you in the right way, quickly to meet your deadlines, but we bet you learned a TON along the way that you can use in the future. People that do this kind of research and strive to write better solutions tend to become better developers in the future. There's no knowing how long it could take you to learn how to query stuff to find your answers. There are no solid guidelines on that. If you're doing The Grassroot Project because you need a high paying job _right-now_, you're not going to become a solid developer within the timeframe you have set. Stress and anxiety absolutely do not help you learn either. Relax and just enjoy the ride.
 
 Long story short: Don't worry, just go learn!
 
@@ -128,7 +128,7 @@ Physical distractions are distractions from your environment, like a TV in the b
 
 #### Rabbit Holes
 
-Because we cover so much material on The Odin Project and link to so many high quality courses and tools, it is easy for students to get pulled into rabbit holes by spending time trying to learn all there is to know about a subject that they aren't ready for or won't benefit them much. **We have put a lot of effort into structuring the curriculum** so that all of the important things that you need to know about web development are covered exactly when you need to know them.
+Because we cover so much material on The Grassroot Project and link to so many high quality courses and tools, it is easy for students to get pulled into rabbit holes by spending time trying to learn all there is to know about a subject that they aren't ready for or won't benefit them much. **We have put a lot of effort into structuring the curriculum** so that all of the important things that you need to know about web development are covered exactly when you need to know them.
 
 **Solution:** Stick to the path laid out as much as possible. Try to limit time spent going down rabbit holes as these sidetracks can really ruin your momentum.
 
@@ -140,7 +140,7 @@ Students often compare themselves to others who are farther along in their codin
 
 ### Conclusion
 
-Learning any new skill is a journey full of speed bumps and obstacles to be overcome. We hope that the principles laid out here will put you in a much better position to succeed and get the most out of The Odin Project.
+Learning any new skill is a journey full of speed bumps and obstacles to be overcome. We hope that the principles laid out here will put you in a much better position to succeed and get the most out of The Grassroot Project.
 
 ### Additional Resources
 

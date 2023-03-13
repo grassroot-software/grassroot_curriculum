@@ -1,6 +1,6 @@
-# The Odin Project Curriculum
+# The Grassroot Project Curriculum
 
-[The Odin Project](https://www.theodinproject.com/) (TOP) is an open-source curriculum for learning full-stack web development. Our curriculum is divided into distinct courses, each covering the subject language in depth. Each course contains a listing of lessons interspersed with multiple projects. These projects give users the opportunity to practice what they are learning, thereby reinforcing and solidifying the theoretical knowledge learned in the lessons. Completed projects may then be included in the user's portfolio.
+[The Grassroot Project](https://www.theodinproject.com/) (TOP) is an open-source curriculum for learning full-stack web development. Our curriculum is divided into distinct courses, each covering the subject language in depth. Each course contains a listing of lessons interspersed with multiple projects. These projects give users the opportunity to practice what they are learning, thereby reinforcing and solidifying the theoretical knowledge learned in the lessons. Completed projects may then be included in the user's portfolio.
 
 Lessons are structured through a combination of original written content and a compilation of carefully curated resources from the web. This is where the contributing happens!
 
@@ -10,7 +10,7 @@ Our community can be found on the [TOP Discord server](https://discord.gg/fbFCkY
 
 ## Contributing
 
-The Odin Project depends on open-source contributions to improve, grow, and thrive. We welcome contributors of all experience levels and backgrounds to help maintain this awesome curriculum and community. If you would like to contribute to our curriculum, be sure to thoroughly read our [contributing guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md) in our main TOP repo.
+The Grassroot Project depends on open-source contributions to improve, grow, and thrive. We welcome contributors of all experience levels and backgrounds to help maintain this awesome curriculum and community. If you would like to contribute to our curriculum, be sure to thoroughly read our [contributing guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md) in our main TOP repo.
 
 Some of the things you can do to contribute to our curriculum include:
 * Correct typos and other grammar errors.

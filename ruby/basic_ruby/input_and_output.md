@@ -54,12 +54,12 @@ I love drinking coffee
 ### Input Commands
 To accept input from a user, we can use the `gets` command. When we use `gets`, program execution will stop and wait for user input. After the user presses `Enter`, the program will continue its execution.
 
-Let's give this a go. Open irb, type `gets`, and then type `The Odin Project`. You should see something like the following:
+Let's give this a go. Open irb, type `gets`, and then type `The Grassroot Project`. You should see something like the following:
 
 ~~~ruby
 irb(main):001:0> gets
-The Odin Project
-=> "The Odin Project\n"
+The Grassroot Project
+=> "The Grassroot Project\n"
 ~~~
 
 How about that? Let's break this process down a bit.

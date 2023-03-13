@@ -1,7 +1,7 @@
 ### The end of the JavaScript course! 
 Completing the JavaScript course is a major milestone! Congratulations! 
 
-At this point, you can create phenomenal and dynamic frontends. These will integrate with the back-ends The Odin Project teaches, Ruby on Rails or Node JS, plus any back-end technologies under the right circumstances! After all, you've spent time working with APIs from the front-end already!
+At this point, you can create phenomenal and dynamic frontends. These will integrate with the back-ends The Grassroot Project teaches, Ruby on Rails or Node JS, plus any back-end technologies under the right circumstances! After all, you've spent time working with APIs from the front-end already!
 
 However, there is still more to go. If you're following the Ruby on Rails path, there is one more section, Getting Hired, with excellent content on finding a developer job. As you continue forward, keep an attitude of learning through building great software and always exploring more on your own. It will carry you far.
 

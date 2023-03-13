@@ -17,12 +17,12 @@ Let's take a look at two different examples of a link:
 <a href='...'>Click here</a> to start your career in web development!
 
 <!-- Example 2: I love that place! -->
-Visit <a href='...'>The Odin Project</a> to start your career in web development!
+Visit <a href='...'>The Grassroot Project</a> to start your career in web development!
 ~~~
 
 To a sighted user, the link in Example 1 makes perfect sense. However, in addition to being able to navigate a page via landmarks and headings (as mentioned in the Semantic HTML lesson), a screen reader may be able to navigate between each element of a specific type, such as links. If a user were to navigate between all of the links on a page, the only thing that would get announced in Example 1 is, "Click here, link." Where's "here" exactly? Without any surrounding context, the link is meaningless. Not only that, but if you have multiple links on a page with that same text content, then users will be told to "click here" many times.
 
-The link in Example 2, however, not only makes sense in context for all users, but it also makes sense *out of context* for screen reader users when it gets announced: "The Odin Project, link." 
+The link in Example 2, however, not only makes sense in context for all users, but it also makes sense *out of context* for screen reader users when it gets announced: "The Grassroot Project, link." 
 
 <span id="meaningful-links-rules">When you add links to a page, there are a few rules you should be following:</span>
 

@@ -28,7 +28,7 @@ Installing a VM is a simple process. This guide uses Oracle's VirtualBox program
 
 #### IMPORTANT
 
-Once you have completed these instructions, **you are expected to work entirely in the VM.** Maximize the window, add more virtual monitors if you have them, fire up the Internet Browser in the **Whisker Menu** <img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/96d534641514fe4d62aabe2919fac3c52cb286e7/foundations/installations/installations/imgs/00_whisker_icon.png" alt="The blue-white rodent Whisker Menu Icon" style="display: inline; margin: auto;"> on the top left of the desktop. You should not be using anything outside of the VM while working on The Odin Project. If you feel like you have a good understanding after using the VM for a while, and or want to improve your experience, we recommend dual-booting Ubuntu, which there are instructions for below.
+Once you have completed these instructions, **you are expected to work entirely in the VM.** Maximize the window, add more virtual monitors if you have them, fire up the Internet Browser in the **Whisker Menu** <img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/96d534641514fe4d62aabe2919fac3c52cb286e7/foundations/installations/installations/imgs/00_whisker_icon.png" alt="The blue-white rodent Whisker Menu Icon" style="display: inline; margin: auto;"> on the top left of the desktop. You should not be using anything outside of the VM while working on The Grassroot Project. If you feel like you have a good understanding after using the VM for a while, and or want to improve your experience, we recommend dual-booting Ubuntu, which there are instructions for below.
 
 #### Step 1.1: Download VirtualBox
 
@@ -258,7 +258,7 @@ If you encounter an error requesting you to disable **Intel RST** while attempti
 <summary class="dropDown-header">ChromeOS/ChromeOS Flex
 </summary>
 
-With the recent addition of being able to run a Linux terminal, the ChromeOS platform has been opened up to the ability to install native Linux applications. If you wish to use your Chromebook to complete The Odin Project, you will need to ensure you meet a couple requirements:
+With the recent addition of being able to run a Linux terminal, the ChromeOS platform has been opened up to the ability to install native Linux applications. If you wish to use your Chromebook to complete The Grassroot Project, you will need to ensure you meet a couple requirements:
 
 1.  You have a supported Chromebook:
     -   [Official Chromebooks](https://www.chromium.org/chromium-os/chrome-os-systems-supporting-linux)

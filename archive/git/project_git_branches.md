@@ -1,6 +1,6 @@
 # Project: Git Branches
 
-In this project we will be forking The Odin Project's `git_branches` repository and learning to create a branch to work in and trial a new feature for the `git_branches` web page.. If you want to try adding an experimental feature to your project, branching allows you to add and change code whilst not modifying the `main` branch.. Should the feature be successful, it can be included in `main` branch with a merge. Should the feature be deemed unnecessary, the branch can be deleted and development can continue on the `main` branch without having to remove any code added for the feature branch.
+In this project we will be forking The Grassroot Project's `git_branches` repository and learning to create a branch to work in and trial a new feature for the `git_branches` web page.. If you want to try adding an experimental feature to your project, branching allows you to add and change code whilst not modifying the `main` branch.. Should the feature be successful, it can be included in `main` branch with a merge. Should the feature be deemed unnecessary, the branch can be deleted and development can continue on the `main` branch without having to remove any code added for the feature branch.
 
 ## Learning Outcomes
 

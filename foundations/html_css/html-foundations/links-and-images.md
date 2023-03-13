@@ -61,7 +61,7 @@ Generally, there are two kinds of links we will create:
 
 Links to pages on other websites on the internet are called absolute links. A typical absolute link will be made up of the following parts: `protocol://domain/path`. An absolute link will always contain the protocol and domain of the destination.
 
-We've already seen an absolute link in action. The link we created to The Odin Project's About page earlier was an absolute link as it contains the protocol and domain.
+We've already seen an absolute link in action. The link we created to The Grassroot Project's About page earlier was an absolute link as it contains the protocol and domain.
 
 `https://www.theodinproject.com/about`
 
@@ -143,7 +143,7 @@ To display an image in HTML we use the `<img>` element. Unlike the other element
 
 Instead of wrapping content with an opening and closing tag, it embeds an image into the page using a src attribute which tells the browser where the image file is located. The src attribute works much like the href attribute for anchor tags. It can embed an image using both absolute and relative paths.
 
-For example, using an absolute path we can display an image located on The Odin Project site:
+For example, using an absolute path we can display an image located on The Grassroot Project site:
 
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="gORbExZ" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/gORbExZ">
@@ -198,7 +198,7 @@ Using the metaphor we used earlier, using `../` in a filepath is kind of like st
 
 The alt attribute is used to describe an image. It will be used in place of the image if it cannot be loaded. It is also used with screen readers to describe what the image is to visually impaired users.
 
-This is how the The Odin Project logo example we used earlier looks with an alt attribute included:
+This is how the The Grassroot Project logo example we used earlier looks with an alt attribute included:
 
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="ExXjoEp" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/ExXjoEp">

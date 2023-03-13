@@ -2,7 +2,7 @@
 
 The first step for building any website is having the right tools. For us, that means setting up a development environment for writing good code.
 
-Many online development courses use in-browser code editors or "sandboxes," which give you the tools and programs needed to accomplish the task at hand and nothing else. You'll use some of these sandboxes throughout the early stages of The Odin Project since they're great for getting started quickly. However, the best way to set yourself up for long-term success is to operate in a real development environment. 
+Many online development courses use in-browser code editors or "sandboxes," which give you the tools and programs needed to accomplish the task at hand and nothing else. You'll use some of these sandboxes throughout the early stages of The Grassroot Project since they're great for getting started quickly. However, the best way to set yourself up for long-term success is to operate in a real development environment. 
 
 We won't lie to you: installing packages, editors, and even entire operating systems can be very frustrating. However, having the experience of setting up a development environment to run the code you'll write is an invaluable, real-world skill you'll carry with you for the rest of your career.
 
@@ -29,7 +29,7 @@ For Chromebook users, your OS choice has effectively been made for you. However,
 
 #### macOS
 
-If you're using a Mac, you're in great shape. The Odin Project instructions assume a Unix-based system. By installing just a few programs, you will be up and running with your education in no time!
+If you're using a Mac, you're in great shape. The Grassroot Project instructions assume a Unix-based system. By installing just a few programs, you will be up and running with your education in no time!
 
 #### Linux (Official Ubuntu Flavors)
 
@@ -37,7 +37,7 @@ If you're using a Mac, you're in great shape. The Odin Project instructions assu
 
 #### Windows
 
-Windows **is not natively supported** by The Odin Project, or on our Discord server; however, if you're currently using Windows you can use either a virtual machine or dual boot to keep your Windows install while creating your development environment in Linux.
+Windows **is not natively supported** by The Grassroot Project, or on our Discord server; however, if you're currently using Windows you can use either a virtual machine or dual boot to keep your Windows install while creating your development environment in Linux.
 
 A **virtual machine** is an emulation of a computer that runs within your existing OS. It allows you to use another operating system inside of a program on your current operating system (e.g. Running Linux inside of Windows). Virtual machines are as simple to install as any other program and are risk free. If you don't like Linux, you can easily remove the virtual machine. Virtual machines are a great way for new developers to get started quickly.
 
@@ -59,7 +59,7 @@ Still not convinced? Here are a few great reasons to install Linux:
 
 - **Tested** - We've tested our directions with macOS, Ubuntu, and official Ubuntu flavors. We did the research so that you can get tools installed with as few issues as possible, getting you to coding sooner. Time spent wrestling with your operating system is time taken from learning how to code.
 - **Community Support** - Using the tools we recommend makes it easier for us to help when you run into trouble.
-- **Development Tools Are Built for Linux** - Ruby (on Rails) and Node.js, popular backend technologies covered by The Odin Project and widely used in the larger web development community, are open source projects that explicitly *expect* to run on an open-source (UNIX-based) platform like Linux.
+- **Development Tools Are Built for Linux** - Ruby (on Rails) and Node.js, popular backend technologies covered by The Grassroot Project and widely used in the larger web development community, are open source projects that explicitly *expect* to run on an open-source (UNIX-based) platform like Linux.
 - **Work Like The Pros** - Many developers use a Unix-based operating system.
 - **Performance** - You are worried about installing Linux because your machine is slow/older and has limited space? When performance is a priority, Linux is a great choice. It uses fewer system resources than Windows and will occupy less hard drive space.
 

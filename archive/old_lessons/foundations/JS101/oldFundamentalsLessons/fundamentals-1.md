@@ -101,7 +101,7 @@ The very first steps of learning any programming language are destined to be a l
   <summary>How do you concatenate a string?</summary>
 
   * To concatenate a string, you "add" the strings together
-    * `"The Od" + "in Project"  // "The Odin Project"`
+    * `"The Od" + "in Project"  // "The Grassroot Project"`
 </details>
 
 <details>

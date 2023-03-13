@@ -1,12 +1,12 @@
 ### Introduction
 
-Working and collaborating with other people is an important part of working as a web developer. Therefore, we at The Odin Project encourage you to participate in our online chat community, which we'll talk more about below. By joining the community, you can grow alongside other Odinites and help each other learn web development. While you're at it, you can check out our [Facebook page](https://www.facebook.com/theodinproject/), [follow us on Twitter](https://twitter.com/TheOdinProject) and catch up on [Instagram](https://www.instagram.com/theodinproject/). Use #TheOdinProject to share your Odin Project progress, updates, thoughts and to see what other Odin students are up to!
+Working and collaborating with other people is an important part of working as a web developer. Therefore, we at The Grassroot Project encourage you to participate in our online chat community, which we'll talk more about below. By joining the community, you can grow alongside other Odinites and help each other learn web development. While you're at it, you can check out our [Facebook page](https://www.facebook.com/theodinproject/), [follow us on Twitter](https://twitter.com/TheOdinProject) and catch up on [Instagram](https://www.instagram.com/theodinproject/). Use #TheOdinProject to share your Odin Project progress, updates, thoughts and to see what other Odin students are up to!
 
 ### Why a Community Is Awesome for You
 
 Learning web development will be a long and arduous journey, but you can make the marathon a lot more fun by getting involved in our Discord community. No matter what pace you are doing our curriculum, there will always be people a few steps ahead of you that are willing to help. Furthermore, helping others that are a few steps behind you is a great way to deepen your own understanding and make your learning stick.
 
-When you're slogging through the [desert of despair](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/), where your code doesn't work or even make sense to you anymore, you can find an oasis of knowledge and encouragement in our community. Veterans at The Odin Project love to help fill in knowledge gaps and provide new insights and perspectives on how to improve your code. We've all been there before!
+When you're slogging through the [desert of despair](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/), where your code doesn't work or even make sense to you anymore, you can find an oasis of knowledge and encouragement in our community. Veterans at The Grassroot Project love to help fill in knowledge gaps and provide new insights and perspectives on how to improve your code. We've all been there before!
 
 Remember that project you struggled so hard to figure out and that you're so proud of finishing? Through our community, you will get to share your work and progress with those who fully appreciate how much hard work went into it.
 

@@ -20,7 +20,7 @@ Front-end developers use HTML, CSS, JavaScript, and their relevant frameworks to
 The **back end** refers to the guts of the application, which live on the server. The back end stores and serves program data to ensure that the front end has what it needs. This process can become very complicated when a website has millions of users.
 Back-end developers use programming languages like Java, Python, Ruby, and JavaScript to work with data.
 
-**Full-stack developers** are comfortable working with both the front and back ends. At The Odin Project, we focus on teaching you full-stack development, covering all aspects of web development.
+**Full-stack developers** are comfortable working with both the front and back ends. At The Grassroot Project, we focus on teaching you full-stack development, covering all aspects of web development.
 
 For more detail, Udacity has a great blog post on this topic: [3 Web Dev Careers Decoded: Front-End vs Back-End vs Full Stack](https://www.udacity.com/blog/2020/12/front-end-vs-back-end-vs-full-stack-web-developers.html)
 
@@ -63,13 +63,13 @@ I want you to know that this will not be easy.
 
 There are plenty of other online curriculums for beginners, but they are often taught in an extremely isolated and controlled environment and cover only a specific topic.
 
-The Odin Project takes a realistic view of what you need to know and has you set up and work in your own environment, much like what you'll be doing when you get a job.
+The Grassroot Project takes a realistic view of what you need to know and has you set up and work in your own environment, much like what you'll be doing when you get a job.
 
 It acknowledges that you need a wide variety of skillsets and languages to reach an employable level.
 
-The Odin Project is constantly evolving because of people like you who get further along in the curriculum and pay it forward by incrementally improving our content over time.
+The Grassroot Project is constantly evolving because of people like you who get further along in the curriculum and pay it forward by incrementally improving our content over time.
 
-Once you start to feel comfortable with the tools, start hacking on open source projects [(like The Odin project itself)](/contributing). The more you contribute, the more you will learn about what you can do, and the closer you will get to being hireable. These projects will also look great on your resume!
+Once you start to feel comfortable with the tools, start hacking on open source projects [(like The Grassroot Project itself)](/contributing). The more you contribute, the more you will learn about what you can do, and the closer you will get to being hireable. These projects will also look great on your resume!
 
 ### Conclusion
 

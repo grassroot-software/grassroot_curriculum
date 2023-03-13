@@ -282,7 +282,7 @@ Will result in the following output:
 
 ### Unordered lists
 
-The preferred way to create unordered lists for The Odin Project is by using hyphens `-`. Both hyphens and asterisks give the same results, but sticking to one way keeps the source markdown consistent.
+The preferred way to create unordered lists for The Grassroot Project is by using hyphens `-`. Both hyphens and asterisks give the same results, but sticking to one way keeps the source markdown consistent.
 
 ~~~markdown
 - This is a list item made using a hyphen.

@@ -1,5 +1,5 @@
 # Ruby
-This folder contains lesson markdown files that make up the Ruby course. This course exists in the [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/) path on the Odin Project Website.
+This folder contains lesson markdown files that make up the Ruby course. This course exists in the [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/) path on The Grassroot Project Website.
 
 ## Course Outline
 
