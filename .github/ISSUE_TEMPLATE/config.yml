@@ -1,10 +1,10 @@
 blank_issues_enabled: true
 contact_links:
   - name: 🖥️ Website Bugs or Feature Requests
-    url: https://github.com/TheOdinProject/theodinproject
-    about: "This repository is for curriculum content. For changes to the site itself, check out Odin's web app repository"
+    url: https://github.com/grassroot-software/grassroot_project
+    about: "This repository is for curriculum content. For changes to the site itself, check out Grassroot's web app repository"
   - name: 💡 Ideas, Content Requests and Questions
-    url: https://github.com/TheOdinProject/curriculum/discussions
+    url: https://github.com/grassroot-software/grassroot_curriculum/discussions
     about: "Have an idea? Want to see content on a particular topic? Open a discussion here"
   - name: 💬 Join the Discord Community
     url: https://discord.gg/
