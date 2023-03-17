@@ -24,9 +24,9 @@ All in all, both animations and transitions have their use, so in addition to co
 
 Let's see an animation in action to see what we've been talking about.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="jOGENZz" data-editable="true" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/jOGENZz">
-  keyframes 1 longhand</a> by TheOdinProject (<a href="https://codepen.io/TheOdinProjectExamples">@TheOdinProjectExamples</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="jOGENZz" data-editable="true" data-user="grassroot-softwareExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/grassroot-softwareExamples/pen/jOGENZz">
+  keyframes 1 longhand</a> by grassroot-software (<a href="https://codepen.io/grassroot-softwareExamples">@grassroot-softwareExamples</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -77,9 +77,9 @@ The `@keyframes` at-rule also defines one animation cycle. So if we were to chan
 
 Now it's time to introduce the shorthand notation for our animation properties and glimpse a little into the added flexibility of the keyframe notation. Check out the live example below then have a look at the notation.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="zYExOLQ" data-editable="true" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/zYExOLQ">
-  keyframes 2 shorthand</a> by TheOdinProject (<a href="https://codepen.io/TheOdinProjectExamples">@TheOdinProjectExamples</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="zYExOLQ" data-editable="true" data-user="grassroot-softwareExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/grassroot-softwareExamples/pen/zYExOLQ">
+  keyframes 2 shorthand</a> by grassroot-software (<a href="https://codepen.io/grassroot-softwareExamples">@grassroot-softwareExamples</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -121,7 +121,7 @@ Hopefully this gives you a glimpse into the power the `@keyframes` syntax provid
 
 ### Practice
 
-Now let's make some cool animations! Go to the [CSS exercises repository](https://github.com/TheOdinProject/css-exercises) and do the exercises in the 'animation' folder in this order:
+Now let's make some cool animations! Go to the [CSS exercises repository](https://github.com/grassroot-software/css-exercises) and do the exercises in the 'animation' folder in this order:
 
 1. button-hover
 2. pop-up

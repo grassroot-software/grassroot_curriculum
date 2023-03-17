@@ -28,7 +28,7 @@ The first thing to know is that import maps are not a Rails specific solution. T
 In order to be ESM compatible, you must provide one of the following specifiers when loading JavaScript code
 
 - Absolute path:
-    `import React from "/Users/Odin/projects/TOP/node_modules/react"`
+    `import React from "/Users/Odin/projects/The Grassroot Project/node_modules/react"`
 
 - Relative path:
     `import React from "./node_modules/react"`

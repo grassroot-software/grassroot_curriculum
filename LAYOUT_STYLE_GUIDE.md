@@ -2,13 +2,13 @@
 
 [Inspired by google's styleguide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md)
 
-TOP uses Markdown for the layout and formatting of lesson and project files to get properly formatted HTML for the TOP website. 
+The Grassroot Project uses Markdown for the layout and formatting of lesson and project files to get properly formatted HTML for the The Grassroot Project website. 
 
 **The goals of this style guide are to help create Markdown that is:**
 
 -   Readable for as many users as possible.
 -   Editable by any contributor.
--   Consistent across the TOP website.
+-   Consistent across the The Grassroot Project website.
 
 **Contents:**
 
@@ -389,12 +389,12 @@ Links to required reading should not be scattered throughout a lesson, and shoul
 Images in Markdown follow the same syntax as links, except they begin with an exclamation point `!`:
 
 ~~~markdown
-![flex shorthand](https://cdn.statically.io/gh/TheOdinProject/curriculum/495704c6eb6bf33bc927534f231533a82b27b2ac/html_css/v2/foundations/flexbox/imgs/10.png)
+![flex shorthand](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/495704c6eb6bf33bc927534f231533a82b27b2ac/html_css/v2/foundations/flexbox/imgs/10.png)
 ~~~
 
 The text in square brackets will be included as the image's alt text. Similar to link titles, the alt text should be informative, but shouldn't be overly verbose.
 
-In order to properly add images to a lesson, follow the instructions in our [Adding Images to the Curriculum](https://github.com/TheOdinProject/curriculum/wiki/Adding-Images-to-the-Curriculum) Wiki page to get a statically URL as seen in the codeblock above.
+In order to properly add images to a lesson, follow the instructions in our [Adding Images to the Curriculum](https://github.com/grassroot-software/grassroot_curriculum/wiki/Adding-Images-to-the-Curriculum) Wiki page to get a statically URL as seen in the codeblock above.
 
 ## Codepen embeds
 
@@ -411,10 +411,10 @@ Finally, the **HTML (Recommended)** code option must be the one that is copy + p
 
 ### Maintainer instructions
 
-When a user adds a Codepen embed to a lesson, a maintainer should fork the embed to the official [TOP Codepen](https://codepen.io/TheOdinProjectExamples/) account. When necessary, the name of new pens should be updated to better reflect their purpose, e.g. `Simple SVG Example` for a pen showing a simple SVG or `max-width | CSS Responsiveness` for a pen about the `max-width` property.
+When a user adds a Codepen embed to a lesson, a maintainer should fork the embed to the official [The Grassroot Project Codepen](https://codepen.io/grassroot-softwareExamples/) account. When necessary, the name of new pens should be updated to better reflect their purpose, e.g. `Simple SVG Example` for a pen showing a simple SVG or `max-width | CSS Responsiveness` for a pen about the `max-width` property.
 
-After forking a pen to the TOP account and ensuring the embeds options from above are selected, the lesson the original embed is from should be updated to include the forked, TOP version instead.
+After forking a pen to the The Grassroot Project account and ensuring the embeds options from above are selected, the lesson the original embed is from should be updated to include the forked, The Grassroot Project version instead.
 
 ## English writing style
 
-As a general note, TOP follows American English and American style punctuation. When adding content to the curriculum, be sure to follow this practice for consistency across lessons.
+As a general note, The Grassroot Project follows American English and American style punctuation. When adding content to the curriculum, be sure to follow this practice for consistency across lessons.

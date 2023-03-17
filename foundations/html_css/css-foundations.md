@@ -15,7 +15,7 @@ This section contains a general overview of topics that you will learn in this l
 
 At the most basic level, CSS is made up of various rules. These rules are made up of a selector (more on this in a bit) and a semi-colon separated list of declarations, with each of those declarations being made up of a property:value pair.
 
-![Basic CSS syntax](https://cdn.statically.io/gh/TheOdinProject/curriculum/05ce472eabf8e04eeb2cc9139e66db884074fd7d/foundations/html_css/css-foundations/imgs/00.jpg)
+![Basic CSS syntax](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/05ce472eabf8e04eeb2cc9139e66db884074fd7d/foundations/html_css/css-foundations/imgs/00.jpg)
 
 <div class="lesson-note" markdown="1">
 
@@ -537,7 +537,7 @@ If you need to add a *unique* style for a *single* element, this method can work
 
 <div class="lesson-content__panel" markdown="1">
 
-1.  Go to our [CSS exercises repository](https://github.com/TheOdinProject/css-exercises), read the README, and only do the exercises in the `foundations` directory in the order they're listed, starting with `01-css-methods` and ending with `06-cascade-fix`.
+1.  Go to our [CSS exercises repository](https://github.com/grassroot-software/css-exercises), read the README, and only do the exercises in the `foundations` directory in the order they're listed, starting with `01-css-methods` and ending with `06-cascade-fix`.
 
 2.  Remember the Recipe page you created as practice from the previous lesson? Well, it's rather *plain* looking, isn't it? Let's fix that by adding some CSS to it!
 

@@ -12,7 +12,7 @@ For the moment we are not going to teach you how to write these tests, because i
 
 1. JS test-first exercises \(roll our own\)
 
-   * We have a repo for these: [https://github.com/TheOdinProject/javascript-exercises](https://github.com/TheOdinProject/javascript-exercises "We have a repo for these").  There are instructions on downloading and running them there!
+   * We have a repo for these: [https://github.com/grassroot-software/javascript-exercises](https://github.com/grassroot-software/javascript-exercises "We have a repo for these").  There are instructions on downloading and running them there!
    * Complete the following exercises:
 
      * helloWorld

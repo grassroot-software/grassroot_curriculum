@@ -1,15 +1,15 @@
 # Welcome to The Grassroot Project Curriculum
 
-The Grassroot Project (also known as TOP) is an open-source community for learning full-stack web development. Our mission is to provide a comprehensive curriculum to learn web development for free. We help our students learn the skills and build the impressive portfolio of projects they need to get hired as a web developer.
+The Grassroot Project (also known as The Grassroot Project) is an open-source community for learning full-stack web development. Our mission is to provide a comprehensive curriculum to learn web development for free. We help our students learn the skills and build the impressive portfolio of projects they need to get hired as a web developer.
 
 The curriculum is divided into distinct courses, each covering the subject language in depth. Each course contains a listing of lessons interspersed with multiple projects. These projects give students the opportunity to practice what they are learning, thereby reinforcing and solidifying the theoretical knowledge learned in the lessons. Completed projects may then be included in the student's portfolio.
 
 Lessons are structured through a combination of original written content and a compilation of carefully curated resources from the web. This is where the contributing happens!
 
-This repository houses the curricular content used in [The Grassroot Project](http://grassroot.herokuapp.com) website. (cf. [this repository](https://github.com/TheOdinProject/grassroot.herokuapp) which houses the front-end and back-end code.)
+This repository houses the curricular content used in [The Grassroot Project](http://grassroot.herokuapp.com) website. (cf. [this repository](https://github.com/grassroot-software/grassroot.herokuapp) which houses the front-end and back-end code.)
 
 
-The TOP community can be found in our [Discord chat rooms](https://discord.gg/fbFCkYabZB).
+The The Grassroot Project community can be found in our [Discord chat rooms](https://discord.gg/fbFCkYabZB).
 
 ## Contributing
 
@@ -20,18 +20,18 @@ We are constantly making improvements to the curriculum, and new lessons are alw
 
 ### In flight curriculum initiatives
 
-You can see what we're working on [here](https://github.com/TheOdinProject/top-meta/projects).
+You can see what we're working on [here](https://github.com/grassroot-software/top-meta/projects).
 
-If you would like to help us develop any lessons, please read our [contributing guide](https://github.com/TheOdinProject/curriculum/blob/main/CONTRIBUTING.md) to find out how you can contribute.
+If you would like to help us develop any lessons, please read our [contributing guide](https://github.com/grassroot-software/grassroot_curriculum/blob/main/CONTRIBUTING.md) to find out how you can contribute.
 
 #### A non-exhaustive list of what you can contribute to help us:
 * Correcting typos and other grammar errors.
 * Rewriting lesson sections to make them clearer and easier to understand.
 * Fixing broken links.
 * Adding new resource links you think would make a lesson better.
-* Working on new lessons and projects. You can choose to work on parts of a lesson that are outlined in the progress list on [lesson plans](https://github.com/TheOdinProject/curriculum/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22new%20lesson%22%20) or you can work on completing an entire lesson yourself.
+* Working on new lessons and projects. You can choose to work on parts of a lesson that are outlined in the progress list on [lesson plans](https://github.com/grassroot-software/grassroot_curriculum/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22new%20lesson%22%20) or you can work on completing an entire lesson yourself.
 
-To find out more about how you can contribute, please read our [contributing guide](https://github.com/TheOdinProject/curriculum/blob/main/CONTRIBUTING.md).
+To find out more about how you can contribute, please read our [contributing guide](https://github.com/grassroot-software/grassroot_curriculum/blob/main/CONTRIBUTING.md).
 
 ## Other helpful links
 
@@ -41,7 +41,7 @@ To find out more about how you can contribute, please read our [contributing gui
 
 **Happy Coding!**
 
-\* See [license.md](https://github.com/TheOdinProject/curriculum/blob/main/license.md) for usage details.
+\* See [license.md](https://github.com/grassroot-software/grassroot_curriculum/blob/main/license.md) for usage details.
 
 ___
 Created by [Erik Trautman](http://www.github.com/eriktrautman)

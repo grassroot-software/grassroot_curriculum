@@ -22,7 +22,7 @@ Build a tic-tac-toe game in the browser where two human players can play against
 </div>
 
 ### Student Solutions
-Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
+Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
 * [Tamerlan1993's solution](https://github.com/Tamerlan1993/03.03.2017-JS-practise/tree/master/tictactoe) - [View in browser](https://rawgit.com/Tamerlan1993/03.03.2017-JS-practise/master/tictactoe/index.html)
@@ -36,8 +36,8 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Marina Sergeyeva's solution](https://github.com/imousterian/OdinProject/tree/master/Project5_5_TicTacToe) - [View in browser](http://htmlpreview.github.io/?https://github.com/imousterian/OdinProject/blob/master/Project5_5_TicTacToe/index.html)
 * [Steve's solution](https://github.com/beesmart/JS_tictactoe) - [View in browser](http://beesmart.github.io/JS_tictactoe)
 * [Ryan Jordan's solution](https://github.com/krjordan/odin-project/tree/master/TicTacToe) - [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/odin-project/tree/master/TicTacToe/index.html)
-* [Rodić's solution](https://github.com/rodic/TOP---js-assignments/tree/master/Project%20-%20Tic%20Tac%20Toe%20in%20Javascript)
-* [Artur Janik's solution](https://github.com/ArturJanik/TOPJS/tree/master/Project5) - [View in browser](https://rawgit.com/ArturJanik/TOPJS/master/Project5/index.html)
+* [Rodić's solution](https://github.com/rodic/The Grassroot Project---js-assignments/tree/master/Project%20-%20Tic%20Tac%20Toe%20in%20Javascript)
+* [Artur Janik's solution](https://github.com/ArturJanik/The Grassroot ProjectJS/tree/master/Project5) - [View in browser](https://rawgit.com/ArturJanik/The Grassroot ProjectJS/master/Project5/index.html)
 * [AtActionPark's solution](https://github.com/AtActionPark/odin_js_tictactoe) - [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_js_tictactoe/blob/master/index.html)
 * [Voreny's solution](https://github.com/Gelio/tic-tac-toe) - [View in browser](http://gelio.github.io/tic-tac-toe/)
 * [Wayne's solution](https://github.com/wayneho/Tic_Tac_Toe) - [View in browser](https://rawgit.com/wayneho/Tic_Tac_Toe/master/index.html)

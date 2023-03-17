@@ -30,7 +30,7 @@ Keep track of how long it takes between when the photo is first loaded and when 
 </div>
 
 ### Student Solutions
-Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
+Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
 * [Phil's solution](https://github.com/pip36/wheres_wally) - [View in browser](https://floating-everglades-97160.herokuapp.com/)

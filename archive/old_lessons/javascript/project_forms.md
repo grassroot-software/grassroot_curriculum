@@ -21,14 +21,14 @@ Do all this using [jQuery's Validate plugin](http://jqueryvalidation.org/) but t
 </div>
 
 ### Student Solutions
-Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
+Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
 * [Mateusz's solution](https://github.com/Emnalyeriar/learning_projects/tree/master/the%20odin%20projects/form%20validation) - [View in browser](http://htmlpreview.github.io/?https://github.com/Emnalyeriar/learning_projects/blob/master/the%20odin%20projects/form%20validation/index.html)
 * [jamie's solution](https://github.com/Jberczel/odin-javascript/tree/master/jquery-form) - [View in browser](http://jsfiddle.net/Jberczel/5dAd3/)
 * [Donald's solution](https://github.com/donaldali/odin-js-jquery/tree/master/form_validation) - [View in browser](http://htmlpreview.github.io/?https://github.com/donaldali/odin-js-jquery/blob/master/form_validation/index.html "Form Validation")
 * [Ryan Jordan's solution](https://github.com/krjordan/HTML-forms) - [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/HTML-forms/blob/master/index.html)
-* [Artur Janik's solution](https://github.com/ArturJanik/TOPJS/tree/master/Project7) - [View in browser](https://rawgit.com/ArturJanik/TOPJS/master/Project7/index.html)
+* [Artur Janik's solution](https://github.com/ArturJanik/The Grassroot ProjectJS/tree/master/Project7) - [View in browser](https://rawgit.com/ArturJanik/The Grassroot ProjectJS/master/Project7/index.html)
 * [dchen71's solution (HTML5/jQuery Validation)](https://github.com/dchen71/odin-form_validations) - [View in browser](http://rawgit.com/dchen71/odin-form_validations/master/Index.html)
 * [AtActionPark's solution](https://github.com/AtActionPark/odin_jquery_validating) - [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_jquery_validating/blob/master/index.html)
 * [Yoshua Elmaryono's solution](https://github.com/dotm/signup) - [View in browser](http://dotm.github.io/signup/)

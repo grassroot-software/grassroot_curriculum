@@ -18,9 +18,9 @@ What if you don't want your image to simply shrink (in both height and width)? `
 
 Here's a little demo you can play with:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="powxJXV" data-editable="true" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/powxJXV">
-  background | CSS Responsiveness</a> by TheOdinProject (<a href="https://codepen.io/TheOdinProjectExamples">@TheOdinProjectExamples</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="powxJXV" data-editable="true" data-user="grassroot-softwareExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/grassroot-softwareExamples/pen/powxJXV">
+  background | CSS Responsiveness</a> by grassroot-software (<a href="https://codepen.io/grassroot-softwareExamples">@grassroot-softwareExamples</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -29,9 +29,9 @@ Here's a little demo you can play with:
 
 Here's a demo of `object-fit` on an image. Open this one up on CodePen and resize the browser to see how the image reacts.
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="NWgOGGX" data-editable="true" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/NWgOGGX">
-  object-fit</a> by TheOdinProject (<a href="https://codepen.io/TheOdinProjectExamples">@TheOdinProjectExamples</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="NWgOGGX" data-editable="true" data-user="grassroot-softwareExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/grassroot-softwareExamples/pen/NWgOGGX">
+  object-fit</a> by grassroot-software (<a href="https://codepen.io/grassroot-softwareExamples">@grassroot-softwareExamples</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

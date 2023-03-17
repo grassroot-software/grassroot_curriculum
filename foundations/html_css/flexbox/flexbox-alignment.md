@@ -12,9 +12,9 @@ This section contains a general overview of topics that you will learn in this l
 
 Let's look at an example.
 
-<p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="MWoyBzR" data-editable="true" data-user="TheOdinProjectExamples" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/MWoyBzR">
-  flex-alignment example</a> by TheOdinProject (<a href="https://codepen.io/TheOdinProjectExamples">@TheOdinProjectExamples</a>)
+<p class="codepen" data-height="400" data-default-tab="html,result" data-slug-hash="MWoyBzR" data-editable="true" data-user="grassroot-softwareExamples" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/grassroot-softwareExamples/pen/MWoyBzR">
+  flex-alignment example</a> by grassroot-software (<a href="https://codepen.io/grassroot-softwareExamples">@grassroot-softwareExamples</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -25,13 +25,13 @@ Adding `flex: 1` to `.item` makes each of the items grow to fill the available s
 
 Remove `flex: 1` from `.item` and add `justify-content: space-between` to `.container`. Doing so should give you something like this:
 
-![space between](https://cdn.statically.io/gh/TheOdinProject/curriculum/495704c6eb6bf33bc927534f231533a82b27b2ac/html_css/v2/foundations/flexbox/imgs/07.png)
+![space between](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/495704c6eb6bf33bc927534f231533a82b27b2ac/html_css/v2/foundations/flexbox/imgs/07.png)
 
 `justify-content` aligns items across the **main axis**. There are a few values that you can use here. You'll learn the rest of them in the reading assignments, but for now try changing it to `center`, which should center the boxes along the main axis.
 
 To change the placement of items along the **cross axis** use `align-items`. Try getting the boxes to the center of the container by adding `align-items: center` to `.container`. The desired result looks like this:
 
-![centered](https://cdn.statically.io/gh/TheOdinProject/curriculum/495704c6eb6bf33bc927534f231533a82b27b2ac/html_css/v2/foundations/flexbox/imgs/08.png)
+![centered](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/495704c6eb6bf33bc927534f231533a82b27b2ac/html_css/v2/foundations/flexbox/imgs/08.png)
 
 Because `justify-content` and `align-items` are based on the main and cross axis of your container, their behavior changes when you change the flex-direction of a flex-container. For example, when you change `flex-direction` to `column`, `justify-content` aligns vertically and `align-items` aligns horizontally. The most common behavior, however, is the default, i.e. `justify-content` aligns items horizontally (because the main axis defaults to horizontal), and `align-items` aligns them vertically. One of the biggest sticking points that beginners have with flexbox is confusion when this behavior changes.
 
@@ -48,9 +48,9 @@ This next Scrim covers the behavior of `align-items`, how to perfectly center an
 
 One more very useful feature of flex is the `gap` property. Setting `gap` on a flex container simply adds a specified space between flex items, very similar to adding a margin to the items themselves. `gap` is a _new_ property so it doesn't show up in many resources yet, but it works reliably in all modern browsers, so it is safe to use and very handy! Adding `gap: 8px` to the centered example above produces the result below.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBjZyea" data-editable="true" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/qBjZyea">
-  flex-alignment example</a> by TheOdinProject (<a href="https://codepen.io/TheOdinProjectExamples">@TheOdinProjectExamples</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qBjZyea" data-editable="true" data-user="grassroot-softwareExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/grassroot-softwareExamples/pen/qBjZyea">
+  flex-alignment example</a> by grassroot-software (<a href="https://codepen.io/grassroot-softwareExamples">@grassroot-softwareExamples</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -65,7 +65,7 @@ Take your time going through the reading. There will be some review of the items
 1. This beautiful [Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) covers everything you need to know. It will help reinforce concepts we've already touched on with some really fun and creative examples. Spend some time here, some of it should be review at this point, but the foundations here are important!
 2.  [Typical use cases of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox) is an MDN article that covers some more practical tips. Don't skip the interactive sections! Playing around with this stuff is how you learn it!
 3.  The [CSS Tricks "Guide to Flexbox"](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) is a classic. There isn't any new information for you here, but the images and examples are super helpful. This one is a great cheat sheet that you'll probably return to often. (Keep it handy for the practice exercises!)
-4.  Go back to our [CSS exercises repository](https://github.com/TheOdinProject/css-exercises) (don't forget that the instructions are in the README). Do the exercises in the 'flex' directory in the order that they are listed. It may take you a while to get through all of them, and the difficulty ramps up as you progress. Stick with it! If you can get through all of them, then you will be in _really_ good shape moving forward.
+4.  Go back to our [CSS exercises repository](https://github.com/grassroot-software/css-exercises) (don't forget that the instructions are in the README). Do the exercises in the 'flex' directory in the order that they are listed. It may take you a while to get through all of them, and the difficulty ramps up as you progress. Stick with it! If you can get through all of them, then you will be in _really_ good shape moving forward.
     -   01-flex-center
     -   02-flex-header
     -   03-flex-header-2

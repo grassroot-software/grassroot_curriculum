@@ -26,7 +26,7 @@ Besides being a quick and handy way to store data, arrays also have a set of fun
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
-At this point you just need a little more practice!  Go back to the [JavaScript exercises](https://github.com/TheOdinProject/javascript-exercises) that we introduced in the Fundamentals 4 project and complete the following:
+At this point you just need a little more practice!  Go back to the [JavaScript exercises](https://github.com/grassroot-software/javascript-exercises) that we introduced in the Fundamentals 4 project and complete the following:
 
 * calculator
 * palindromes

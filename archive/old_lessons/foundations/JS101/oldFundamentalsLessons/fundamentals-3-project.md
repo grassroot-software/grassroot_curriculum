@@ -4,7 +4,7 @@ You have been through a _ton_ of content, and it would not be surprising if you 
 
 ### Your Assignment
 
-At this point you just need a little more practice!  Go back to the [JavaScript exercises](https://github.com/TheOdinProject/javascript-exercises) that we introduced in the Fundamentals 2 project and complete the following:
+At this point you just need a little more practice!  Go back to the [JavaScript exercises](https://github.com/grassroot-software/javascript-exercises) that we introduced in the Fundamentals 2 project and complete the following:
 
 * calculator
 * simonSays

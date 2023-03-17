@@ -19,18 +19,18 @@ The Flex lessons covered positioning items along the two [axes](https://www.gras
 
 You’ll remember you can line up a nice row of flex items like this:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="XWeJbRy" data-editable="true" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/XWeJbRy">
-  Single Row | CSS Flexbox</a> by TheOdinProject (<a href="https://codepen.io/TheOdinProjectExamples">@TheOdinProjectExamples</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="XWeJbRy" data-editable="true" data-user="grassroot-softwareExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/grassroot-softwareExamples/pen/XWeJbRy">
+  Single Row | CSS Flexbox</a> by grassroot-software (<a href="https://codepen.io/grassroot-softwareExamples">@grassroot-softwareExamples</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 Or a column like this:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="MWEYwoX" data-editable="true" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/MWEYwoX">
-  Single Column | CSS Flexbox</a> by TheOdinProject (<a href="https://codepen.io/TheOdinProjectExamples">@TheOdinProjectExamples</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="MWEYwoX" data-editable="true" data-user="grassroot-softwareExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/grassroot-softwareExamples/pen/MWEYwoX">
+  Single Column | CSS Flexbox</a> by grassroot-software (<a href="https://codepen.io/grassroot-softwareExamples">@grassroot-softwareExamples</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -41,15 +41,15 @@ For two-dimensional layouts, you learned a little bit about `flex-wrap`, which a
 
 Remember how much fun you had solving the card layout in this exercise?
 
-[![flex-exercise-desired-outcome.png](https://i.postimg.cc/vZ81HMkB/flex-exercise-desired-outcome.png)](https://github.com/TheOdinProject/css-exercises/tree/main/flex/07-flex-layout-2)
+[![flex-exercise-desired-outcome.png](https://i.postimg.cc/vZ81HMkB/flex-exercise-desired-outcome.png)](https://github.com/grassroot-software/css-exercises/tree/main/flex/07-flex-layout-2)
 
 We know that was a frustrating one, but it's part of the point. While Flexbox allows you to build a layout of rows and columns together, it isn’t always easy.
 
 But setting up a two-dimensional layout of cards would be much simpler using CSS Grid:
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="KKXwpZR" data-editable="true" data-user="TheOdinProjectExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/TheOdinProjectExamples/pen/KKXwpZR">
-  2D Layout | CSS Grid</a> by TheOdinProject (<a href="https://codepen.io/TheOdinProjectExamples">@TheOdinProjectExamples</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="KKXwpZR" data-editable="true" data-user="grassroot-softwareExamples" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/grassroot-softwareExamples/pen/KKXwpZR">
+  2D Layout | CSS Grid</a> by grassroot-software (<a href="https://codepen.io/grassroot-softwareExamples">@grassroot-softwareExamples</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>

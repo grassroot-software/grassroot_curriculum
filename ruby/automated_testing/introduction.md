@@ -2,7 +2,7 @@
 
 Hopefully, you’ve been having fun developing in Ruby so far. Perhaps one thing you may not have been enjoying as much, is the process of manually testing your app to ensure it still works after making any changes. Or even worse running your app, getting far into its execution and discovering you have a bug, and then having to do it all over again to verify that you've fixed the bug.
 
-Automated tests are the alternative to manual testing. You've already seen them in action while doing the [Ruby basic exercises](https://github.com/TheOdinProject/ruby-exercises/tree/main/ruby_basics) earlier in this course. Those exercises tasked you with writing code to make a bunch of existing failing tests pass. Over the next few lessons you will learn how to write those tests yourself and integrate writing them into your workflow.
+Automated tests are the alternative to manual testing. You've already seen them in action while doing the [Ruby basic exercises](https://github.com/grassroot-software/ruby-exercises/tree/main/ruby_basics) earlier in this course. Those exercises tasked you with writing code to make a bunch of existing failing tests pass. Over the next few lessons you will learn how to write those tests yourself and integrate writing them into your workflow.
 
 ### Learning Outcomes
 

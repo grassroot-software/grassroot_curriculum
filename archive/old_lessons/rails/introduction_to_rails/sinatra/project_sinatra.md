@@ -22,7 +22,7 @@ Revisit the caesar cipher ruby script that you created during [Ruby Building Blo
 </div>
 
 ### Student Solutions
-Send us your solution so we can show others! Submit a link to [the GitHub repo](https://github.com/TheOdinProject/curriculum/blob/master/rails_programming/sinatra/project_sinatra.md) with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
+Send us your solution so we can show others! Submit a link to [the GitHub repo](https://github.com/grassroot-software/grassroot_curriculum/blob/master/rails_programming/sinatra/project_sinatra.md) with your files in it here using any of the methods listed on the [contributing page](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 <details markdown="block">
   <summary> Show Student Solutions </summary>
@@ -41,7 +41,7 @@ Send us your solution so we can show others! Submit a link to [the GitHub repo](
 * Chris' Solution [GitHub](https://github.com/CSalois114/project_caesar_cipher) - [Live](https://mysterious-badlands-40427.herokuapp.com/)
 * Uzay-G's solution [GitHub](https://github.com/Uzay-G/simple-cipher) - [Live](https://caesar-ciphers.herokuapp.com/)
 * Onur Temiz's Solution [GitHub](https://github.com/temizonur/ceasar_cipher) - [Heroku](https://afternoon-taiga-26969.herokuapp.com/)
-* Airi Chow's Solution [GitHub](https://github.com/airi-14x/TheOdinProject-Sinastra-and-Basic-Rails/tree/master/sinatra/caesar_cipher) [Heroku](https://fast-crag-35094.herokuapp.com)
+* Airi Chow's Solution [GitHub](https://github.com/airi-14x/grassroot-software-Sinastra-and-Basic-Rails/tree/master/sinatra/caesar_cipher) [Heroku](https://fast-crag-35094.herokuapp.com)
 * Kevin Vuong's Solution [GitHub](https://github.com/fffear/caesar_cipher_application) - [Live](https://obscure-atoll-85647.herokuapp.com/)
 * Braxton Lemmon's Solution [GitHub](https://github.com/braxtonlemmon/caesar_cipher_reloaded) - [Live](https://safe-shelf-68210.herokuapp.com/)
 * Rudi Boshoff's Solution [GitHub](https://github.com/RudiBoshoff/rails-exercises/tree/master/sinatra/caesar-cipher) - [Live](https://mighty-atoll-97084.herokuapp.com/)
@@ -94,7 +94,7 @@ Send us your solution so we can show others! Submit a link to [the GitHub repo](
 * bcasadei's solution [github](https://github.com/bcasadei/caesar_cipher_reloaded) / [see it on the web](https://caesar-cipher-reloaded.herokuapp.com/)
 * codyloyd's solution [github](https://github.com/codyloyd/sinatra-translator) / [see it on the web](https://cryptic-reaches-55962.herokuapp.com/)
 * Oscar Y.'s solution [github](https://github.com/mysteryihs/caesar_cipher) / [see it on the web](https://dry-retreat-16146.herokuapp.com/)
-* J-kaizen's solution [github](https://github.com/J-kaizen/TheOdinProject/tree/master/Rails/sinatra)
+* J-kaizen's solution [github](https://github.com/J-kaizen/grassroot-software/tree/master/Rails/sinatra)
 * chrisnorwood's solution [github](https://github.com/chrisnorwood/caesar-web) / [see it on the web](https://sinatra-caesar-cipher.herokuapp.com/)
 * Jiazhi Guo's solution [github](https://github.com/jerrykuo7727/caesar_cipher) / [see it on the web](https://caesar-cipher-by-jiazhi.herokuapp.com/)
 * AaronGerry's solution [github](https://github.com/AaronGerry/web_guesser) / [see it on the web](https://hidden-taiga-21991.herokuapp.com/)
@@ -155,7 +155,7 @@ Pick either Mastermind or Hangman and build a front end for it.  This one might 
 </div>
 
 ### Student Solutions
-Send us your solution so we can show others! Submit a link to the [GitHub repo](https://github.com/TheOdinProject/curriculum/blob/master/rails_programming/sinatra/project_sinatra.md) with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
+Send us your solution so we can show others! Submit a link to the [GitHub repo](https://github.com/grassroot-software/grassroot_curriculum/blob/master/rails_programming/sinatra/project_sinatra.md) with your files in it here using any of the methods listed on the [contributing page](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 <details markdown="block">
   <summary> Show Student Solutions </summary>
@@ -243,7 +243,7 @@ Send us your solution so we can show others! Submit a link to the [GitHub repo](
 * Jamesredux's solution - Hangman: [GitHub](https://github.com/Jamesredux/sinatra_portfolio) - [See it on the web](https://jredux-sinatra.herokuapp.com/)
 * Calstream's solution - Hangman: [GitHub](https://github.com/Calstream/hangman-sinatra) - [Play here](https://hanged-man.herokuapp.com/)
 * Malaika's Solution For Hangman: [GitHub](https://github.com/malaikaMI/Hangman_with_sinatra)
-* AlexFuro's Solution (Hangman): [GitHub](https://github.com/alexfuro/TOP_hangman) - [Live Demo](https://furohangman.herokuapp.com/)
+* AlexFuro's Solution (Hangman): [GitHub](https://github.com/alexfuro/The Grassroot Project_hangman) - [Live Demo](https://furohangman.herokuapp.com/)
 * ParamagicDev's Solution (Mastermind): [GitHub](https://github.com/ParamagicDev/sinatra_mind) - [See it on the web](https://immense-mesa-98857.herokuapp.com)
 * bchalman's Solution (Hangman): [GitHub](https://github.com/bchalman/sinatra_hangman) - [Live](https://fierce-plains-57125.herokuapp.com/)
 * Tommy's Solution (Hogwarts Hangman): [GitHub](https://github.com/hoangtommy/sinatra_hangman) - [Live](https://powerful-wildwood-91516.herokuapp.com/)

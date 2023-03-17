@@ -9,7 +9,7 @@ assignees: ""
 <!-- Thank you for taking the time to submit a new feature request to The Grassroot Project. In order to get issues closed in a reasonable amount of time, you must include a baseline of information about the feature/enhancement you are proposing. Please read this template in its entirety before filling it out to ensure that it is filled out correctly. -->
 
 Complete the following REQUIRED checkboxes:
--   [ ] I have thoroughly read and understand [The Grassroot Project Contributing Guide](https://github.com/TheOdinProject/grassroot.herokuapp/blob/main/CONTRIBUTING.md)
+-   [ ] I have thoroughly read and understand [The Grassroot Project Contributing Guide](https://github.com/grassroot-software/grassroot.herokuapp/blob/main/CONTRIBUTING.md)
 -   [ ] The title of this issue follows the `location for request: brief description of request` format, e.g. `NodeJS course: Add lessons on XYZ`
 
 The following checkbox is OPTIONAL:

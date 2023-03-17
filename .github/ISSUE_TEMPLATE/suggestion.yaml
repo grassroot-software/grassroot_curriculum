@@ -46,7 +46,7 @@ body:
       label: Checks
       description: Please fill out the following checkboxes
       options:
-        - label: I have thoroughly read and understand [The Grassroot Project Contributing Guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md)
+        - label: I have thoroughly read and understand [The Grassroot Project Contributing Guide](https://github.com/grassroot-software/.github/blob/main/CONTRIBUTING.md)
           required: true
         - label: Would you like to work on this issue?
           required: false

@@ -31,7 +31,7 @@ It's time to build an on-screen calculator
 </div>
 
 ### Student Solutions
-Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
+Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
 * [shadowlighter's Solution](https://codepen.io/shadowlighter/full/MOgpXz/)
@@ -59,12 +59,12 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Vincent's solution](https://github.com/wingyu/Javascript-Calculator) - [View in browser](http://htmlpreview.github.io/?https://github.com/wingyu/Javascript-Calculator/blob/master/index.html)
 * [Kate McFaul's solution](https://github.com/craftykate/odin-project/tree/master/Chapter_06-JavaScript_and_jQuery/calculator) - [View in browser](http://jsfiddle.net/craftykate/k9ewcpvr/embedded/result/)
 * [Meher Chandan's solution](https://github.com/meherchandan/Calculator.git) - [View in browser](http://htmlpreview.github.io/?https://github.com/meherchandan/Calculator/blob/master/calculator.html)
-* [Rodić's solution](https://github.com/rodic/TOP---js-assignments/tree/master/Project%20-%20Building%20An%20On%20Screen%20Calculator%20Using%20Javascript)
+* [Rodić's solution](https://github.com/rodic/The Grassroot Project---js-assignments/tree/master/Project%20-%20Building%20An%20On%20Screen%20Calculator%20Using%20Javascript)
 * [Jason Matthews' solution](https://jsfiddle.net/o9jmrnf9/)
 * [Nikola Čvorović's solution](https://github.com/cvorak/calculator) - [View in browser](http://htmlpreview.github.io/?https://github.com/cvorak/calculator/blob/master/index.html)
 * [Trump's solution](https://github.com/trump812/OdinProject/tree/master/Javascript_and_jQuery/Calculator)
 * [Ryan Jordan's solution](https://github.com/krjordan/odin-project/tree/master/calculator) - [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/odin-project/tree/master/calculator/index.html)
-* [Artur Janik's solution](https://github.com/ArturJanik/TOPJS/tree/master/Project1) - [View in browser](https://rawgit.com/ArturJanik/TOPJS/master/Project1/jq-index.html)
+* [Artur Janik's solution](https://github.com/ArturJanik/The Grassroot ProjectJS/tree/master/Project1) - [View in browser](https://rawgit.com/ArturJanik/The Grassroot ProjectJS/master/Project1/jq-index.html)
 * [Jon Yorg's solution](https://github.com/Yorgg/Javascript/tree/master/calculator) - [View in browser](htmlpreview.github.io/?https://github.com/Yorgg/Javascript/blob/master/calculator/calculator.html)
 * [Greg Park's solution](https://github.com/gregoryjpark/js-calculator) - [View in browser](https://htmlpreview.github.io/?https://github.com/gregoryjpark/js-calculator/blob/master/index.html)
 * [Hutton's Solution](https://github.com/Hutbytheton/js_calculator) - [View in browser](http://hutbytheton.github.io/js_calculator/)
@@ -84,7 +84,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Luke Walker's solution](https://github.com/ubershibs/odin-js-course/tree/master/js-calc) - [View in browser](https://htmlpreview.github.io/?https://github.com/ubershibs/odin-js-course/blob/master/js-calc/index.html)
 * [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/blob/master/javascript/calculator/calculator.html) - [View in browser](https://rawgit.com/cdouglass/odin-project-exercises/master/javascript/calculator/app/calculator.html)
 * [James Brooks's solution](https://github.com/jhbrooks/js-calc) - [View in browser](https://agile-dawn-60299.herokuapp.com/)
-* [J-kaizen's solution](https://github.com/J-kaizen/TheOdinProject/tree/master/JS/jscalc) - [View in browser](https://htmlpreview.github.io/?https://github.com/J-kaizen/TheOdinProject/blob/master/JS/jscalc/index.html)
+* [J-kaizen's solution](https://github.com/J-kaizen/grassroot-software/tree/master/JS/jscalc) - [View in browser](https://htmlpreview.github.io/?https://github.com/J-kaizen/grassroot-software/blob/master/JS/jscalc/index.html)
 * [Artur Okonski's solution](https://github.com/cloudtemplar/js-calculator) - [View in browser](https://jsfiddle.net/c3x67ayp/1/)
 * [Miguel Herrera's solution](https://github.com/migueloherrera/js-calculator) - [View in browser](http://htmlpreview.github.io/?https://github.com/migueloherrera/js-calculator/blob/master/index.html)
 * [Marco the Phoenix's solution](https://github.com/marcsanmi/Learning/tree/master/Calculator) - [View in browser](https://htmlpreview.github.io/?https://github.com/marcsanmi/Learning/blob/master/Calculator/index.html)

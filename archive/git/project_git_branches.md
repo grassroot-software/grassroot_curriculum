@@ -11,7 +11,7 @@ In this project we will be forking The Grassroot Project's `git_branches` reposi
 
 ## Your Task
 
-1. Go to [TheOdinProject's git_branches](https://github.com/TheOdinProject/git_branches) repository on GitHub. This repository is a simple web page `index.html` that has been made specifically for this lesson. Fork the repository by clicking the button shown below.
+1. Go to [grassroot-software's git_branches](https://github.com/grassroot-software/git_branches) repository on GitHub. This repository is a simple web page `index.html` that has been made specifically for this lesson. Fork the repository by clicking the button shown below.
   <a href="http://i.imgur.com/fcJTCJU.png"><img class="tutorial-img" src="http://i.imgur.com/fcJTCJU.png" title="Click Fork icon" /></a>
 2. After a short wait you should now have your own fork of the `git_branches` repository at `https://github.com/Your-GitHub-Username/git_branches`. When you fork on GitHub you can think of it as creating a copy of the original project that you own and can modify as you please without affecting the original.
 3. In terminal `cd`  into the folder where you would like to place your forked copy of the curriculum and use this style of command `git clone https://github.com/Your-GitHub-Username/git_branches.git` to clone it. Don't forget to replace *Your-GitHub-Username* with your own GitHub username. GitHub will supply the URI you need in the clone command if you click on the `Clone or download` drop down menu shown here:

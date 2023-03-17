@@ -26,7 +26,7 @@ Enough talk! Let's build!
 
 
 ### Student Solutions
-Submit a link below to the [github repo](https://github.com/TheOdinProject/curriculum/blob/master/web_development_101/pair_programming/project_pairing.md) with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Don't forget to include your pair's github handle as well!
+Submit a link below to the [github repo](https://github.com/grassroot-software/grassroot_curriculum/blob/master/web_development_101/pair_programming/project_pairing.md) with your files in it by using a pull request.  See the section on [Contributing](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md) for how.  Don't forget to include your pair's github handle as well!
 
 <details markdown="block">
   <summary> Show Student Solutions </summary>
@@ -83,7 +83,7 @@ Submit a link below to the [github repo](https://github.com/TheOdinProject/curri
 * [Ogunmola Israel's Solution](https://github.com/Lippins/pomodoro_timer) - [View in Browser](https://lippins.github.io/pomodoro_timer/)
 * [Tim Shea's Solution](https://github.com/tpsst5/pomodoro_timer) - [View in Browser](https://tpsst5.github.io/pomodoro_timer/)
 * [CharlotteHues' Solution](https://github.com/charlotte-hues/pomodoro) - [View in Browser](https://charlotte-hues.github.io/pomodoro/)
-* [mjwills-inf's Solution](https://github.com/mjwills-inf/-TOP-myPomo) - [View in Browser](https://mjwills-inf.github.io/-TOP-myPomo/)
+* [mjwills-inf's Solution](https://github.com/mjwills-inf/-The Grassroot Project-myPomo) - [View in Browser](https://mjwills-inf.github.io/-The Grassroot Project-myPomo/)
 * [driver fossegrim + navigator darklord's Solution](https://olav35.github.io/pomodoro/)
 * [doskzorak's Solution](https://github.com/doskzorak/Pomodoro-Clock)
 * [Hans Oliveira's Solution](https://github.com/hansnery/banana_timer) - [View in Browser](https://hansnery.github.io/banana_timer/)
@@ -114,7 +114,7 @@ Submit a link below to the [github repo](https://github.com/TheOdinProject/curri
 * [Joe Lee's Solution](https://github.com/JoeDravarol/pomodoro-timer) - [View in Browser](https://joedravarol.github.io/pomodoro-timer/)
 * [Loumarven's Solution](https://github.com/loumarven/pomodoro) - [View in Browser](https://loumarven.github.io/pomodoro/)
 * [Braxton Lemmon's Solution](https://github.com/braxtonlemmon/pomodoro) - [View in Browser](https://braxtonlemmon.github.io/pomodoro/)
-* [Jay Burbyga's Solution](https://github.com/Jaybur1/TOP-pomodoro) - [View in Browser](https://jaybur1.github.io/TOP-pomodoro/)
+* [Jay Burbyga's Solution](https://github.com/Jaybur1/The Grassroot Project-pomodoro) - [View in Browser](https://jaybur1.github.io/The Grassroot Project-pomodoro/)
 * [Kevin Vuong's Solution](https://github.com/fffear/pomodoro_clock) - [View in Browser](https://fffear.github.io/pomodoro_clock/)
 * [ARaut9's Solution](https://github.com/ARaut9/Pomodoro_timer) - [View in Browser](https://araut9.github.io/Pomodoro_timer/)
 * [Leonardo J. Vega's Solution](https://github.com/leonardovega/pomodachi) - [View in Browser](https://leonardovega.github.io/pomodachi/)
@@ -132,7 +132,7 @@ Submit a link below to the [github repo](https://github.com/TheOdinProject/curri
 * [Tim Dowd's Solution](https://github.com/timothydowd/pomodoro) - [View in Browser](https://timothydowd.github.io/pomodoro/)
 * [Mark Bungeroth's Solution](https://github.com/mbungeroth/pomodoro) - [View in Browser](https://mbungeroth.github.io/pomodoro/)
 * [Johan Morin's Solution](https://github.com/MorrisMalone/pomodoro_clock) - [View in Browser](https://morrismalone.github.io/pomodoro_clock/)
-* [SarfrazAnjum's Solution](https://github.com/SarfrazAnjum/TOP_Pairing-Project-Pomodoro) - [View in Browser]( https://sarfrazanjum.github.io/TOP_Pairing-Project-Pomodoro/)
+* [SarfrazAnjum's Solution](https://github.com/SarfrazAnjum/The Grassroot Project_Pairing-Project-Pomodoro) - [View in Browser]( https://sarfrazanjum.github.io/The Grassroot Project_Pairing-Project-Pomodoro/)
 * [Ngo Van Huong's Solution](https://github.com/ngovanhuong94/pomodoro-timer) - [View in Browser](https://ngovanhuong94.github.io/pomodoro-timer/)
 * [autumnchris's Solution](https://github.com/autumnchris/pomodoro-timer-vanilla-js) - [View in Browser](https://autumnchris.github.io/pomodoro-timer-vanilla-js)
 * [Jon Yoo's Solution](https://github.com/jonyoowa/pomodoro-clock) - [View in Browser](https://jonyoowa.github.io/pomodoro-clock/)
@@ -167,7 +167,7 @@ Submit a link below to the [github repo](https://github.com/TheOdinProject/curri
 * [coryparham24's Solution](https://github.com/coryparham24/pomodoro-clock) - [View in Browser](https://cdn.rawgit.com/coryparham24/pomodoro-clock/7b1e6a88/index.html)
 * [Oliver Curting's Solution](https://github.com/Curting/pomodoro) - [View in Browser](https://curting.github.io/pomodoro/)
 * [Santiago Rodríguez Solution](https://github.com/santoxxcc/psychic-pancake) - [View in Browser](https://santoxxcc.github.io/psychic-pancake)
-* [Bruno Parga's Solution](https://github.com/brunoparga/odinproject/tree/master/WebDev101/pomodoro)
+* [Bruno Parga's Solution](https://github.com/brunoparga/grassroot-software/tree/master/WebDev101/pomodoro)
 * [wilPoly's Solution](https://github.com/wilPoly/pomodoro) - [View in browser](https://wilpoly.github.io/pomodoro/)
 * [tonalmasher's Solution](https://github.com/tonalmasher/pomodoro-project) - [View in browser](https://tonalmasher.github.io/pomodoro-project/)
 * [Alexander Luna's Solution](https://github.com/Mycroft1891/my-odin-project/tree/master/web-development-101/pomodoro) - [View in Browser](https://mycroft1891.github.io/my-odin-project/web-development-101/pomodoro/index.html)
@@ -183,7 +183,7 @@ Submit a link below to the [github repo](https://github.com/TheOdinProject/curri
 * [codyMalcolm's Solution](https://github.com/codyMalcolm/odin-pomodoro-clock) - [View in Browser](https://codymalcolm.github.io/odin-pomodoro-clock/)
 * [Husseyexplores' Solution](https://github.com/husseyexplores/odin-pomodoro-clock) - [View in Browser](https://husseyexplores.github.io/odin-pomodoro-clock/)
 * [Emil Dimitrov's Solution](https://github.com/imemdm/pomodoro-clock) - [View in Browser](https://imemdm.github.io/pomodoro-clock/)
-* [Ghassan's Solution](https://github.com/GT001/TOP-Pomodoro-Clock) - [View in Browser](https://gt001.github.io/TOP-Pomodoro-Clock/)
+* [Ghassan's Solution](https://github.com/GT001/The Grassroot Project-Pomodoro-Clock) - [View in Browser](https://gt001.github.io/The Grassroot Project-Pomodoro-Clock/)
 * [mwk913's Solution](https://github.com/mwk913/pomodoro-clock) - [View in Browser](https://mwk913.github.io/pomodoro-clock/)
 * [Dan2D's Solution](https://github.com/Dan2D/Pomodoro) - [View in Browser](https://dan2d.github.io/Pomodoro/html/index.html)
 * [Leila Alderman's Solution](https://github.com/leila-alderman/pomodoro-timer) - [View in Browser](https://leila-alderman.github.io/pomodoro-timer/)
@@ -211,7 +211,7 @@ Submit a link below to the [github repo](https://github.com/TheOdinProject/curri
 * [Rafael Rodriguez Garcia's Solution](https://github.com/rrg1459/pomodoro/) - [View in Browser](https://rrg1459.github.io/pomodoro/)
 * [Husseinhewehii's Solution](https://github.com/Husseinhewehii/Pomodoro) - [View in Browser](https://husseinhewehii.github.io/Pomodoro/)
 * [TuSeMorte's Solution](https://github.com/TuSeMorte/pomodoro) - [View in Browser](https://tusemorte.github.io/pomodoro/)
-* [Jahmzu's Solution](https://github.com/jahmzu/TOP-pomodoro) - [View in Browser](https://jahmzu.github.io/TOP-pomodoro/)
+* [Jahmzu's Solution](https://github.com/jahmzu/The Grassroot Project-pomodoro) - [View in Browser](https://jahmzu.github.io/The Grassroot Project-pomodoro/)
 * [David Watkin's Solution](https://github.com/DavidWatkinCode/web_dev_101/tree/master/javascript/pomodoro_timer) - [View in browser](https://davidwatkincode.github.io/web_dev_101/javascript/pomodoro_timer)
 * [Kevin Charles's Solution](https://github.com/kevinbcharles/pomodoro) - [View in Browser](https://kevinbcharles.github.io/pomodoro/)
 * [AlexGioffDev's Solution](https://github.com/AlexGioffDev/Pomodoro) - [View in Browser](https://alexgioffdev.github.io/Pomodoro/index.html)
@@ -248,7 +248,7 @@ Submit a link below to the [github repo](https://github.com/TheOdinProject/curri
 * [fussykyloren's Solution](https://github.com/fussykyloren/pomodoro) - [View in Browser](https://fussykyloren.github.io/pomodoro/)
 * [Ebenezer Koodi's Solution](https://codepen.io/mrkoodi/pen/VGqPbr) - [View in Browser](https://codepen.io/mrkoodi/pen/VGqPbr)
 * [feseka's Solution](https://github.com/feseka61/chrono-tomato/) - [View in Browser](https://feseka61.github.io/chrono-tomato/)
-* [Dyrit's Solution](https://github.com/Dyrits/WEBDEV-TOP-PP) - [View in Browser](https://dyrits.github.io/WEBDEV-TOP-PP/)
+* [Dyrit's Solution](https://github.com/Dyrits/WEBDEV-The Grassroot Project-PP) - [View in Browser](https://dyrits.github.io/WEBDEV-The Grassroot Project-PP/)
 * [msespos's & dyskgo's Solution](https://github.com/msespos/pomodoro) - [View in Browser](https://msespos.github.io/pomodoro/)
 * [mkcvh's solution](https://github.com/mkcvh/pomodoro) - [View in Browser](https://mkcvh.github.io/pomodoro/)
 * [mangakiko's Solution](https://github.com/magakiko/Pomodoro-Timer) - [View in Browser](https://magakiko.github.io/Pomodoro-Timer/)

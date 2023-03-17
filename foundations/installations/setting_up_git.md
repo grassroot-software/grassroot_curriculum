@@ -1,6 +1,6 @@
 ### Introduction
 
-[Git](https://git-scm.com/) is a very popular version control system. You'll become very familiar with this piece of software throughout TOP, so don't worry too much about understanding it at this point. There are many lessons focused on Git later in the curriculum.
+[Git](https://git-scm.com/) is a very popular version control system. You'll become very familiar with this piece of software throughout The Grassroot Project, so don't worry too much about understanding it at this point. There are many lessons focused on Git later in the curriculum.
 
 [GitHub](https://github.com/) is a service that allows you to upload, host, and manage your code using Git with a nice web interface. 
 
@@ -86,7 +86,7 @@ If the version number is less than 2.28, follow the instructions again. If you a
 
 1.  Run `brew doctor`
 2.  You will see an output like the one below. NOTE: The actual output of `brew doctor` may vary based on the version of MacOS you're running, and any other issues you may have with your own installation. Ultimately, you must run each command line snippet that Homebrew provides after running `brew doctor` to repair your installation of Homebrew, including `brew cleanup` at the end.
-![Brew Doctor Sample Output](https://cdn.statically.io/gh/TheOdinProject/curriculum/284f0cdc998be7e4751e29e8458323ad5d320303/foundations/installations/setting_up_git/imgs/00.png)
+![Brew Doctor Sample Output](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/284f0cdc998be7e4751e29e8458323ad5d320303/foundations/installations/setting_up_git/imgs/00.png)
 3.  Run `brew install git`, **open a new terminal window**, and then check your version of Git, which should now be the latest.
 
 </details>
@@ -105,7 +105,7 @@ You will need to install Git from the source by following the instructions from 
 
 Go to [GitHub.com](https://github.com/) and create an account! During the account setup, it will ask you for an email address. This needs to be a real email, and will be used by default to identify your contributions. If you are privacy conscious, or just don't want your email address to be publicly available, make sure you tick the following two boxes on the [Email Settings](https://github.com/settings/emails) page after you have signed in:
 
-![GitHub Email Settings](https://cdn.statically.io/gh/TheOdinProject/curriculum/770be14190139683dbe9933ca5e9393c797c63f2/foundations/installations/setting_up_git/imgs/01.png)
+![GitHub Email Settings](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/770be14190139683dbe9933ca5e9393c797c63f2/foundations/installations/setting_up_git/imgs/01.png)
 
 Having these two options enabled will prevent you accidentally exposing your personal email address when working with Git and GitHub.
 

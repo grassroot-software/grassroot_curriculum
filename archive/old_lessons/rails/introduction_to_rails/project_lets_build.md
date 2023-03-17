@@ -17,7 +17,7 @@ That's it! The point is to get familiar with making HTTP requests using your com
 </div>
 
 ### Student Solutions
-Send us your solution by editing this [file](https://github.com/TheOdinProject/curriculum/blob/master/rails_programming/introduction_to_rails/project_lets_build.md) so we can show others! Submit a link to the GitHub repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
+Send us your solution by editing this [file](https://github.com/grassroot-software/grassroot_curriculum/blob/master/rails_programming/introduction_to_rails/project_lets_build.md) so we can show others! Submit a link to the GitHub repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 <details markdown="block">
   <summary> Show Student Solutions </summary>
@@ -27,7 +27,7 @@ Send us your solution by editing this [file](https://github.com/TheOdinProject/c
 * [David Auza's Solution](https://github.com/davidauza-engineer/REST-Client-Gem)
 * [Nasser Abachi's Solution](https://github.com/abachi/rest-clinet-app)
 * [Vedant's Solution](https://github.com/vedantshetty/Odin_Project_Code/tree/master/Ruby/bing_search)
-* [Airi Chow's Solution](https://github.com/airi-14x/TheOdinProject-Sinastra-and-Basic-Rails/tree/master/warmup_restclient)
+* [Airi Chow's Solution](https://github.com/airi-14x/grassroot-software-Sinastra-and-Basic-Rails/tree/master/warmup_restclient)
 * [Kevin Vuong's Solution](https://github.com/fffear/bing_search)
 * [Braxton Lemmon's solution](https://github.com/braxtonlemmon/rest-client-warmup)
 * [Rudi Boshoff's solution](https://github.com/RudiBoshoff/rails-exercises/tree/master/rest-client)
@@ -47,7 +47,7 @@ Send us your solution by editing this [file](https://github.com/TheOdinProject/c
 * [holdercp's solution](https://github.com/holdercp/rest-client)
 * [ToTenMilan's solution](https://github.com/ToTenMilan/the_odin_project/tree/master/rails/rest)
 * [Orlando's solution](https://github.com/orlandodan14/Ruby-on-Rails/blob/master/rest-client.rb)
-* [leosoaivan's solution](https://github.com/leosoaivan/TOP_rest-client)
+* [leosoaivan's solution](https://github.com/leosoaivan/The Grassroot Project_rest-client)
 * [Austin's solution](https://github.com/CouchofTomato/rest-client/blob/master/rest_client.rb)
 * [zkay's solution](https://github.com/zkay/PersonalProjects/tree/master/Rest)
 * [afshinator's solution](https://github.com/afshinator/playground/tree/master/RestPinger)
@@ -76,7 +76,7 @@ Send us your solution by editing this [file](https://github.com/TheOdinProject/c
 * [Deepak's solution](https://github.com/Deepak5050/rest_client/blob/master/rest_client.rb)
 * [djhart's solution](https://github.com/djhart/rest_client_ex)
 * [Earth35's solution](https://github.com/Earth35/rest-client)
-* [J-kaizen's solution](https://github.com/J-kaizen/TheOdinProject/tree/master/Rails/RestClient)
+* [J-kaizen's solution](https://github.com/J-kaizen/grassroot-software/tree/master/Rails/RestClient)
 * [Shala Qweghen's solution](https://github.com/ShalaQweghen/web_refresher)
 * [Jiazhi Guo's solution](https://github.com/jerrykuo7727/web_refresher)
 * [DV's solution](https://github.com/dvislearning/rest_client)

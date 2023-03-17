@@ -4,8 +4,8 @@ You should be very familiar with the Enumerable module that gets mixed into the 
 ### Assignment
 <div class="lesson-content__panel" markdown="1">
 
-1. Fork and clone our [custom enumerables repo](https://github.com/TheOdinProject/custom_enumerable_project)
-2. Follow the [instructions in the README](https://github.com/TheOdinProject/custom_enumerable_project#installation) to get the repo setup locally
-3. Rebuild each of [the methods in this table](https://github.com/TheOdinProject/custom_enumerable_project#methods) and make sure they all pass the tests associated with them.
+1. Fork and clone our [custom enumerables repo](https://github.com/grassroot-software/custom_enumerable_project)
+2. Follow the [instructions in the README](https://github.com/grassroot-software/custom_enumerable_project#installation) to get the repo setup locally
+3. Rebuild each of [the methods in this table](https://github.com/grassroot-software/custom_enumerable_project#methods) and make sure they all pass the tests associated with them.
 
 </div>

@@ -41,7 +41,7 @@ Here are a few extra resources that will take you a bit deeper into software arc
 * [syntax.fm Podcast](https://syntax.fm)
 * [NodeJS Blog](https://nodejs.org/en/blog/)
 
-If you find anything you think could go on this list, feel free to improve to this lesson on [Github](https://github.com/TheOdinProject/curriculum)!
+If you find anything you think could go on this list, feel free to improve to this lesson on [Github](https://github.com/grassroot-software/grassroot_curriculum)!
 
 ### Contributing
 

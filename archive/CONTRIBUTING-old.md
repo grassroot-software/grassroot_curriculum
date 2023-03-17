@@ -1,9 +1,9 @@
 # Contributing Guide
 
 Thank you for expressing interest in contributing to our curriculum!
-Please also ensure you carefully read everything here: https://github.com/TheOdinProject/curriculum/wiki
+Please also ensure you carefully read everything here: https://github.com/grassroot-software/grassroot_curriculum/wiki
 
-If you would like to contribute, but are not sure how, find an [issue tagged with "help wanted"](https://github.com/TheOdinProject/grassroot.herokuapp/labels/Help%20Wanted) to work on.
+If you would like to contribute, but are not sure how, find an [issue tagged with "help wanted"](https://github.com/grassroot-software/grassroot.herokuapp/labels/Help%20Wanted) to work on.
 * Please comment on the issue stating what you'd like to work on and wait to be assigned before working on it.
 * After being assigned, address each item listed in the acceptance criteria.
 
@@ -22,11 +22,11 @@ If you would like to propose a change that is not covered in an open issue, plea
 
 	If you have ssh set up with Git
 	```
-	$ git remote add upstream git@github.com:TheOdinProject/curriculum.git
+	$ git remote add upstream git@github.com:grassroot-software/grassroot_curriculum.git
 	```
 	Otherwise
 	```
-	$ git remote add upstream https://github.com/TheOdinProject/curriculum.git
+	$ git remote add upstream https://github.com/grassroot-software/grassroot_curriculum.git
 	```
 
 2. Before you start working on your issue, create a branch and name it like the following examples:

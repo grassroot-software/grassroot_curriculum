@@ -37,7 +37,7 @@ If you think about what's required to make a game like this work, it's all well 
 </div>
 
 ### Student Solutions
-Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
+Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
 * [mindovermiles262's Solution](https://github.com/mindovermiles262/snek) - [View in Browser](https://mindovermiles262.github.io/snek) (Vanilla JS)
@@ -55,10 +55,10 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Kate McFaul's solution](https://github.com/craftykate/odin-project/tree/master/Chapter_06-JavaScript_and_jQuery/snake) - [View in browser](http://katemcfaul.com/snake)
 *  [Meher Chandan's solution](https://github.com/meherchandan/Snake) - [View in browser](http://htmlpreview.github.io/?https://github.com/meherchandan/Snake/blob/master/index.html)
 *  [Jason Matthews' solution](https://jsfiddle.net/e2zhssyj/13/)
-*  [Aleksandar Rodić's solution](https://github.com/rodic/TOP---js-assignments/tree/master/Project%20-%20jQuery%20and%20the%20DOM)
+*  [Aleksandar Rodić's solution](https://github.com/rodic/The Grassroot Project---js-assignments/tree/master/Project%20-%20jQuery%20and%20the%20DOM)
 *  [Ryan Jordan's solution](https://github.com/krjordan/odin-project/tree/master/snake-clone) - [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/odin-project/tree/master/snake-clone/index.html)
 *  [Frank Peelen's solution](https://github.com/FrankPeelen/Snake-Browser-JS) - [View in browser](http://rawgit.com/FrankPeelen/Snake-Browser-JS/master/index.html)
-*  [Artur Janik's solution](https://github.com/ArturJanik/TOPJS/tree/master/Project3) - [View in browser](https://rawgit.com/ArturJanik/TOPJS/master/Project3/index.html)
+*  [Artur Janik's solution](https://github.com/ArturJanik/The Grassroot ProjectJS/tree/master/Project3) - [View in browser](https://rawgit.com/ArturJanik/The Grassroot ProjectJS/master/Project3/index.html)
 *  [AtActionPark's solution](https://github.com/AtActionPark/odin_jquery_and_the_dom) - [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_jquery_and_the_dom/blob/master/index.html)
 *  [eternal's solution](https://github.com/3ternal/snake) - [View in browser](http://htmlpreview.github.io/?https://github.com/3ternal/snake/blob/master/index.html)
 *  [Wayne's solution](https://github.com/wayneho/snake) - [View in browser](https://rawgit.com/wayneho/snake/master/index.html)

@@ -22,7 +22,7 @@ In this chapter, you'll build a simple scaffolded app on Rails.  It won't be as 
 </div>
 
 ### Student Solutions
-Send us your solution by editing this [file](https://github.com/TheOdinProject/curriculum/blob/master/rails_programming/introduction_to_rails/project_feet_wet.md) so we can show others! Submit a link to the GitHub repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).
+Send us your solution by editing this [file](https://github.com/grassroot-software/grassroot_curriculum/blob/master/rails_programming/introduction_to_rails/project_feet_wet.md) so we can show others! Submit a link to the GitHub repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md).
 
 Submit your solution for the Ruby on Rails tutorial chapter 2, make sure it's in a repository that you won't overwrite when we move onto chapter 3 (which starts a new app).
 
@@ -42,7 +42,7 @@ Submit your solution for the Ruby on Rails tutorial chapter 2, make sure it's in
 * [Vedant's Solution](https://github.com/vedantshetty/Odin_Project_Code/tree/master/Ruby%20On%20Rails/toy_app) - [Heroku](https://fast-scrubland-64335.herokuapp.com/users)
 * [Ian's solution](https://github.com/IanMKesler/rails_toy_app) - [Heroku](https://whispering-journey-28034.herokuapp.com)
 * [Sherman's Solution](https://github.com/shermansjliu/toy-app)
-* [Airi Chow's Solution](https://github.com/airi-14x/TheOdinProject-Sinastra-and-Basic-Rails/tree/master/toy_app) - [Heroku](https://evening-basin-88314.herokuapp.com/)
+* [Airi Chow's Solution](https://github.com/airi-14x/grassroot-software-Sinastra-and-Basic-Rails/tree/master/toy_app) - [Heroku](https://evening-basin-88314.herokuapp.com/)
 * [Carlos Diaz's Solution](https://github.com/bycdiaz/toy_app) - [Heroku](https://fathomless-dawn-20866.herokuapp.com/)
 * [Kevin Vuong's Solution](https://github.com/fffear/toy_app)
 * [Braxton Lemmon's Solution](https://github.com/braxtonlemmon/toy_app) - [Heroku](https://sheltered-headland-99847.herokuapp.com/)
@@ -100,7 +100,7 @@ Submit your solution for the Ruby on Rails tutorial chapter 2, make sure it's in
 * [Alex Chen's solution](https://github.com/Chenzilla/toy_app)
 * [dchen71's solution](https://github.com/dchen71/the_odin_project/tree/master/Rails/toy_app)
 * [Dan Hoying's solution](https://github.com/danhoying/toy_app)
-* [Joseph McConnell's solution](https://github.com/JJMcConnell/TheOdinProject/tree/master/RailsTutorialCh2/toy_app)
+* [Joseph McConnell's solution](https://github.com/JJMcConnell/grassroot-software/tree/master/RailsTutorialCh2/toy_app)
 * [andrewdbass' solution](https://github.com/andrewdbass/toy_app)
 * [Noah Prescott's solution](https://github.com/npresco/top/tree/master/rails_tutorial/toy_app)
 * [Giorgos's solution](https://github.com/vinPopulaire/toy_app)

@@ -13,7 +13,7 @@ The best way to actually learn something is to _use_ it! We've directed you to b
 
 ### Student Solutions
 
-Submit a solution with a pull request to this [file](https://github.com/TheOdinProject/curriculum/blob/master/javascript/frameworks/frameworks-project.md) on the Javascript Curriculum github repository. See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.
+Submit a solution with a pull request to this [file](https://github.com/grassroot-software/grassroot_curriculum/blob/master/javascript/frameworks/frameworks-project.md) on the Javascript Curriculum github repository. See the section on [Contributing](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md) for how.
 
 <details markdown="block">
   <summary> Show Student Solutions </summary>
@@ -55,7 +55,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Ylli's React Library](https://github.com/yllabazi/myLibrary-ReactJS) - [View in Browser](https://yllabazi.github.io/myLibrary-ReactJS/)
 * [Andrey's React To-Do list solution](https://andreyskopintsev.github.io/react-todo)
 * [Jdonahue135's React Library solution](https://github.com/jdonahue135/react-library)
-* [mjwills-inf's Vue Library solution](https://github.com/mjwills-inf/-TOP-library-vue) - [View in Browser](https://mjwills-inf.github.io/-TOP-library-vue/#/)
+* [mjwills-inf's Vue Library solution](https://github.com/mjwills-inf/-The Grassroot Project-library-vue) - [View in Browser](https://mjwills-inf.github.io/-The Grassroot Project-library-vue/#/)
 * [Lenny's React solution](https://github.com/Lenn-e/react-practice) - [View in Browser](https://lenn-e.github.io/react-practice/)
 * [Disco Trooper's Vue solution](https://github.com/disco-trooper/library-vue) - [View in Browser](https://disco-trooper.github.io/library-vue/)
 * [Edd Sansome's React solution](https://github.com/casualc0der/burger-bar-react) - [View in Browser](https://casualc0der.github.io/burger-bar-react/)

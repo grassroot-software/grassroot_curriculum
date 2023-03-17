@@ -17,13 +17,13 @@ Play around with the other options the Maps API gives you -- you can customize a
 </div>
 
 ### Student Solutions
-Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/main/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
+Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/grassroot-software/grassroot_curriculum/blob/main/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
 * [jamie's solution](https://github.com/Jberczel/odin-javascript/tree/master/google-maps-js)
 * [Donald's solution](https://github.com/donaldali/odin-js-jquery/tree/master/google_maps) - [View in browser](http://htmlpreview.github.io/?https://github.com/donaldali/odin-js-jquery/blob/master/google_maps/index.html "Google Maps")
 * [Ryan Jordan's solution](https://github.com/krjordan/odin-project/tree/master/Google-Map) - [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/odin-project/tree/master/Google-Map/index.html)
-* [Artur Janik's solution - I've decided to create simple distance meter instead](https://github.com/ArturJanik/TOPJS/tree/master/Project9) - [View in browser](http://rawgit.com/ArturJanik/TOPJS/master/Project9/index.html)
+* [Artur Janik's solution - I've decided to create simple distance meter instead](https://github.com/ArturJanik/The Grassroot ProjectJS/tree/master/Project9) - [View in browser](http://rawgit.com/ArturJanik/The Grassroot ProjectJS/master/Project9/index.html)
 * [dchen71's solution](https://github.com/dchen71/odin-maps) - [View in browser](http://rawgit.com/dchen71/odin-maps/master/Index.html)
 * [AtActionPark's solution](https://github.com/AtActionPark/odin_google_map_api) - [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_google_map_api/blob/master/index.html)
 * [eternal's solution](https://github.com/3ternal/google-maps) - [View in browser](http://htmlpreview.github.io/?https://github.com/3ternal/google-maps/blob/master/index.html)

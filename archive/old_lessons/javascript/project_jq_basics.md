@@ -16,7 +16,7 @@ Now that you've gotten your hands dirty and learned some real jQuery, it's time 
 
 
 ### Student Solutions
-Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
+Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
 * [mindovermiles262's Solution](https://github.com/mindovermiles262/luigis_restaurant) - [View in Browser](https://mindovermiles262.github.io/luigis_restaurant/) (Vanilla JS)
@@ -33,10 +33,10 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Kate McFaul's solution](https://github.com/craftykate/odin-project/tree/master/Chapter_06-JavaScript_and_jQuery/restaurant) - [View in browser](https://cdn.rawgit.com/craftykate/odin-project/master/Chapter_06-JavaScript_and_jQuery/restaurant/index.html)
 * [Meher Chandan's solution](https://github.com/meherchandan/Restaurant) - [View in browser](https://myrestaurantwebsite.herokuapp.com/)
 * [Michelle Pepe's solution](https://github.com/MichellePepe/Garden_Of_Eden_Restaurant) - [View in browser](https://github.com/MichellePepe/Garden_Of_Eden_Restaurant/blob/master/index.html)
-* [Rodić's solution](https://github.com/rodic/TOP---js-assignments/tree/master/Project%20-%20Manipulating%20the%20DOM%20with%20jQuery)
+* [Rodić's solution](https://github.com/rodic/The Grassroot Project---js-assignments/tree/master/Project%20-%20Manipulating%20the%20DOM%20with%20jQuery)
 * [Nikola Čvorović's solution](https://github.com/cvorak/restaurant) - [View in browser](http://htmlpreview.github.io/?https://github.com/cvorak/restaurant/blob/master/index.html)
 * [Ryan Jordan's solution](https://github.com/krjordan/odin-project/tree/master/jquery-basics) - [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/odin-project/tree/master/jquery-basics/index.html)
-* [Artur Janik's solution](https://github.com/ArturJanik/TOPJS/tree/master/Project2) - [View in browser](https://htmlpreview.github.io/?https://github.com/ArturJanik/TOPJS/blob/master/Project2/index.html)
+* [Artur Janik's solution](https://github.com/ArturJanik/The Grassroot ProjectJS/tree/master/Project2) - [View in browser](https://htmlpreview.github.io/?https://github.com/ArturJanik/The Grassroot ProjectJS/blob/master/Project2/index.html)
 * [Jon Yorg's solution](https://github.com/Yorgg/Javascript/tree/master/menu) - [View in browser](https://jsfiddle.net/qprk1daL/)
 * [AtActionPark's solution](https://github.com/AtActionPark/odin_dom_manipulation_with_jquery) - [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_dom_manipulation_with_jquery/blob/master/main.html)
 * [dchen71's solution](https://github.com/dchen71/odin-dom_manipulation) - [View in browser](https://rawgit.com/dchen71/odin-dom_manipulation/master/Index.html)
@@ -47,7 +47,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Cameron Kelley's solution](https://github.com/cameronjkelley/the_odin_project/tree/master/javascript/restaurant) - [View in browser](https://htmlpreview.github.io/?https://github.com/cameronjkelley/the_odin_project/blob/master/javascript/restaurant/index.html)
 * [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/tree/master/javascript/dom-manipulation) - [View in browser](https://rawgit.com/cdouglass/odin-project-exercises/master/javascript/dom-manipulation/tabs.html)
 * [Patrick Mallee's solution](https://github.com/patmallee/menu) - [View in browser](http://htmlpreview.github.io/?https://github.com/patmallee/menu/blob/master/menu.html)
-* [J-kaizen's solution](https://github.com/J-kaizen/TheOdinProject/tree/master/JS/re_render) - [View in browser](http://htmlpreview.github.io/?https://github.com/J-kaizen/TheOdinProject/blob/master/JS/re_render/index.html)
+* [J-kaizen's solution](https://github.com/J-kaizen/grassroot-software/tree/master/JS/re_render) - [View in browser](http://htmlpreview.github.io/?https://github.com/J-kaizen/grassroot-software/blob/master/JS/re_render/index.html)
 * [Miguel Herrera's solution](https://github.com/migueloherrera/restaurant) - [View in browser](http://htmlpreview.github.io/?https://github.com/migueloherrera/restaurant/blob/master/index.html)
 * [Cyprium (Stefan)'s solution](https://github.com/dev-cyprium/Restaurant) - [View in browser](https://htmlpreview.github.io/?https://github.com/dev-cyprium/Restaurant/blob/master/index.html)
 * [Shala Qweghen's solution](https://github.com/ShalaQweghen/dom-manipulation) - [View in Browser](http://htmlpreview.github.io/?https://github.com/ShalaQweghen/dom-manipulation/blob/master/index.html)
