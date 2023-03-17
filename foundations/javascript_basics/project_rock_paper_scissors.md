@@ -12,7 +12,7 @@ Finally, this is your first JavaScript program built from scratch, so don't forg
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
-Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/commit-messages)!
+Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://www.grassroot.herokuapp.com/paths/foundations/courses/foundations/lessons/commit-messages)!
 
 1.  Start a new Git repo for your project.
 2.  Create a blank HTML document with a script tag (Hint: it is best practice to link an external .js file).  This game is going to be played completely from the console, so don't worry about putting anything else in there.
@@ -33,7 +33,7 @@ Don't forget to commit early & often! You can [reference the Commit Message less
     ~~~
 
 6.  Write a NEW function called `game()`. Call the `playRound` function _inside_ of this one to play a 5 round game that keeps score and reports a winner or loser at the end.
-    *   [Remember loops?](https://www.theodinproject.com/lessons/foundations-problem-solving#solving-fizz-buzz) This is a great opportunity to use one to play those five rounds:
+    *   [Remember loops?](https://www.grassroot.herokuapp.com/lessons/foundations-problem-solving#solving-fizz-buzz) This is a great opportunity to use one to play those five rounds:
 
         ~~~javascript
         for (let i = 0; i < 5; i++) {

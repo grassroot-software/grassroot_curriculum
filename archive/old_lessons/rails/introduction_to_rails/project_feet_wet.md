@@ -1,6 +1,6 @@
 ### Warmup: Installations and Blogger
 
-To do this course, you've got to have Rails and several other technologies [properly installed on your computer](https://www.theodinproject.com/courses/foundations/lessons/your-first-rails-application).  That will be the first task if you haven't already.
+To do this course, you've got to have Rails and several other technologies [properly installed on your computer](https://www.grassroot.herokuapp.com/courses/foundations/lessons/your-first-rails-application).  That will be the first task if you haven't already.
 
 Next comes the [Jumpstart Lab Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html) (which was assigned way back in the Foundations course).  The Blogger tutorial is actually more challenging than the project below, and was assigned to give you a chance to get in over your head a bit so you'd pay attention along the way :)
 
@@ -14,7 +14,7 @@ In this chapter, you'll build a simple scaffolded app on Rails.  It won't be as 
 
 ### Assignment
 <div class="lesson-content__panel" markdown="1">
-1. If you haven't already, do the [your first rails application](https://www.theodinproject.com/courses/foundations/lessons/your-first-rails-application).  If you've already got Rails on your system, it's still worth skipping to the bottom and verifying that you've got **Rails 4** (at least) and **Ruby 2** working properly.
+1. If you haven't already, do the [your first rails application](https://www.grassroot.herokuapp.com/courses/foundations/lessons/your-first-rails-application).  If you've already got Rails on your system, it's still worth skipping to the bottom and verifying that you've got **Rails 4** (at least) and **Ruby 2** working properly.
 2. If you haven't already, do the [Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html), and chapter 1 of [the Rails Tutorial](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning).
 3. If you haven't done either of these, you should go back to the [Foundations](/courses/foundations) course and at least do the [Web Development Frameworks section](/courses/foundations/#web-development-frameworks).
 
@@ -37,7 +37,7 @@ Submit your solution for the Ruby on Rails tutorial chapter 2, make sure it's in
 * [David Auza's and Luis Novoa's Solution](https://github.com/luis-novoa/rails_toy_app) - [Heroku](https://shrouded-island-61851.herokuapp.com/)
 * [Andrew Huntington's Solution](https://github.com/AndrewHuntington/toy_app) - [Heroku](https://toy-app-54058.herokuapp.com/)
 * [Nasser Abachi's Solution](https://github.com/abachi/toy-app) - [Heroku](https://abachidev-toy-app.herokuapp.com/)
-* [Brendaneus' Solution](https://theodinprojects.Heroku/courses/ruby-on-rails/projects/toy-app)
+* [Brendaneus' Solution](https://grassroot.herokuapps.Heroku/courses/ruby-on-rails/projects/toy-app)
 * [BShowen's Solution](https://github.com/BShowen/rails_toy_app) - [Heroku](https://bradley-toy-app.herokuapp.com)
 * [Vedant's Solution](https://github.com/vedantshetty/Odin_Project_Code/tree/master/Ruby%20On%20Rails/toy_app) - [Heroku](https://fast-scrubland-64335.herokuapp.com/users)
 * [Ian's solution](https://github.com/IanMKesler/rails_toy_app) - [Heroku](https://whispering-journey-28034.herokuapp.com)
@@ -93,7 +93,7 @@ Submit your solution for the Ruby on Rails tutorial chapter 2, make sure it's in
 * [Trump's solution](https://github.com/trump812/toy_app)
 * [Kevin Weir's solution](https://github.com/IDCrisis2/the_odin_project/tree/master/Starting%20the%20RoR%20Tutorial/toy_app)
 * [Filipe's solution](https://github.com/panceri/demo-app)
-* [Eduardo Frias' solution](https://github.com/feek1g/theodinproject/tree/master/RubyOnRails/toy_app)
+* [Eduardo Frias' solution](https://github.com/feek1g/grassroot.herokuapp/tree/master/RubyOnRails/toy_app)
 * [Frank Peelen's solution](https://github.com/FrankPeelen/rails_tutorial_chapter_2)
 * [AtActionPark's solution](https://github.com/AtActionPark/toy_app)
 * [Matias Pan's solution](https://github.com/kriox26/odin_toy_app)
@@ -116,7 +116,7 @@ Submit your solution for the Ruby on Rails tutorial chapter 2, make sure it's in
 * [Miguel Herrera's solution](https://github.com/migueloherrera/toy_app)
 * [Max Gallant's solution](https://github.com/mcgalcode/toy_app)
 * [Artur Okonski's solution](https://github.com/cloudtemplar/hello_app)
-* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/tree/master/rails/project2--ch1-2-the-rails-tutorial)
+* [Sander Schepens's solution](https://github.com/schepens83/grassroot.herokuapp.com/tree/master/rails/project2--ch1-2-the-rails-tutorial)
 * [Fabricio Carrara's solution](https://bitbucket.org/fcarrara/toy_app/src)
 * [djhart's solution](https://github.com/djhart/toy_app)
 * [Earth35's solution](https://github.com/Earth35/toy_app) - [Heroku](http://safe-lowlands-63069.herokuapp.com)

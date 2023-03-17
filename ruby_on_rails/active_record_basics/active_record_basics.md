@@ -36,13 +36,13 @@ That's a step ahead of ourselves, though, because first it makes sense to think 
 Very briefly, Active Record lets you create a Ruby object that represents a row in one of your database tables, like a `User`.  To create a new User is a two-step process: First, you'll need to do a `User.new` and might pass it a hash full of its attributes like
 
 ~~~bash
-u = User.new(name: "Sven", email: "sven@theodinproject.com")
+u = User.new(name: "Sven", email: "sven@grassroot.herokuapp.com")
 ~~~
 
 If you don't pass a hash, you'll need to manually add the attributes by setting them like with any other Ruby object: `u.name = "Sven"`.  The second step is to actually save that model instance into the database.  Until now, it's just been sitting in memory and evaporates if you don't do anything with it.  To save, simply call `u.save`.  You can run both steps at once using the `#create` method:
 
 ~~~bash
-u = User.create(name: "Sven", email: "sven@theodinproject.com")
+u = User.create(name: "Sven", email: "sven@grassroot.herokuapp.com")
 ~~~
 
 This saves you time, but, as you'll see later, you'll sometimes want to separate them in your application.

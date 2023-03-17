@@ -12,7 +12,7 @@ In this project we will fork The Grassroot Project's curriculum repository to ad
 * Be able to contribute to open source projects with pull requests of bug fixes or documentation improvements as you move through TheOdinProject.
 
 ## Your Task
-1. Go to [TheOdinProject'scurriculum GitHub](https://github.com/TheOdinProject/curriculum)  repository. The files within this repository make up the lessons within [TheOdinProject](http://www.theodinproject.com/). Fork this repository by clicking the "Fork" button as shown below.
+1. Go to [TheOdinProject'scurriculum GitHub](https://github.com/TheOdinProject/curriculum)  repository. The files within this repository make up the lessons within [TheOdinProject](http://www.grassroot.herokuapp.com/). Fork this repository by clicking the "Fork" button as shown below.
   <a href="http://i.imgur.com/LdVgtOp.png"><img class="tutorial-img" src="http://i.imgur.com/LdVgtOp.png" title="Click Fork icon" /></a>
 2. After a short wait you should now have your own fork of the GitHub repository at `https://github.com/Your-GitHub-Username/curriculum`. This is a copy of the curriculum. You are free to make changes to it, update content, or add your own features.
 3. For this project we will keep things small and create a new branch where the only change is to `git/student_list.md`.  We will change it by adding your name and a link to your GitHub repository. In your terminal, `cd` into the folder where you would like to place your forked copy of the curriculum and clone it by typing `git clone https://github.com/Your-GitHub-Username/curriculum.git`
@@ -24,13 +24,13 @@ In this project we will fork The Grassroot Project's curriculum repository to ad
   ```
 5. We can also add additional remotes to git. We will add TheOdinProject's original curriculum repository and call it `upstream` with this command:
   ```language-bash
-  ~/curriculum$ git remote add upstream https://github.com/theodinproject/curriculum.git
+  ~/curriculum$ git remote add upstream https://github.com/grassroot.herokuapp/curriculum.git
   ```
 6. Now you can see, (using `git remote -v`) there are four remote branches. We can `fetch` and `push` to both `origin` and `upstream`. Though if you try to change the TheOdinProjects repository and `git push upstream main` you will see that it's not permitted:
   ```language-bash
   curriculum$ git push upstream main
-  remote: Permission to theodinproject/curriculum.git denied to odin-student.
-  fatal: unable to access 'https://github.com/theodinproject/curriculum.git/': The requested URL returned error: 403
+  remote: Permission to grassroot.herokuapp/curriculum.git denied to odin-student.
+  fatal: unable to access 'https://github.com/grassroot.herokuapp/curriculum.git/': The requested URL returned error: 403
   ```
 7. The response error 403 is the HTTP status code which basically means that you don't have access. The creator of the repository can assign who has admin and write access. TheOdinProject/curriculum is set up so you can still `fetch` and `pull`, just not `push`. So how do you make changes?
 8. To make changes, we will follow this process: Make new branch >> Pull any changes >> Make changes >> Add >> Commit >> Push to GitHub

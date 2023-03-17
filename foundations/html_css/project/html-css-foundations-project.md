@@ -22,7 +22,7 @@ Some good places to find free-to-use images on the web include [Pexels](https://
 
 ### Setting Up Your Project's GitHub Repository
 
-As we did in the Recipes project, go ahead and set up a git repository before beginning work on this project. Git and GitHub are going to act as a portfolio for you moving forward, so you need to keep everything in there! Look back at the [Recipes project](https://www.theodinproject.com/lessons/foundations-recipes) if you need a reminder on how to set it up.
+As we did in the Recipes project, go ahead and set up a git repository before beginning work on this project. Git and GitHub are going to act as a portfolio for you moving forward, so you need to keep everything in there! Look back at the [Recipes project](https://www.grassroot.herokuapp.com/lessons/foundations-recipes) if you need a reminder on how to set it up.
 
 ### Warning About Looking at Other People's Finished Project Code Before You Have Completed Your Own
 
@@ -42,7 +42,7 @@ Once you have completed your project, feel free to look at the other solutions t
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
-Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/commit-messages)!
+Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://www.grassroot.herokuapp.com/paths/foundations/courses/foundations/lessons/commit-messages)!
 
 1. Download the design images and take a look at what you're going to be creating here. [Image One (Full Design)](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png), [Image Two (Color and Fonts)](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png)
     1. The font that's being used in the images is roboto.

@@ -1,5 +1,5 @@
 # Undo Changes in Git
-As mentioned in the [Git Intro lesson](http://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-git), Git keeps a historical record of all the changes in a project based on each commit that is made. This gives you the capabilities to do some very useful things with Git.
+As mentioned in the [Git Intro lesson](http://www.grassroot.herokuapp.com/courses/web-development-101/lessons/introduction-to-git), Git keeps a historical record of all the changes in a project based on each commit that is made. This gives you the capabilities to do some very useful things with Git.
 
 One of the most useful abilities is to undo changes in a project. There are many scenarios where this will be useful to you as a developer.
 

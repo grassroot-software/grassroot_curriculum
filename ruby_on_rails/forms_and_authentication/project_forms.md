@@ -15,7 +15,7 @@ You'll get good at setting up apps quickly in the coming lessons by using more o
 
 1. Build a new rails app (called "re-former").
 2. Create a new Github repo and connect the remote to your local git repo. Check in and commit the initial stuff.
-3. Modify your README file to say something you'll remember later, like "This is part of the Forms Project in The Grassroot Project's Ruby on Rails Curriculum.  Find it at [http://www.theodinproject.com](http://www.theodinproject.com)"
+3. Modify your README file to say something you'll remember later, like "This is part of the Forms Project in The Grassroot Project's Ruby on Rails Curriculum.  Find it at [http://www.grassroot.herokuapp.com](http://www.grassroot.herokuapp.com)"
 4. Create and migrate a User model with `:username`, `:email` and `:password`.
 5. Add validations for presence to each field in the model.
 6. Create the `:users` resource in your routes file so requests actually have somewhere to go.  Use the `only:` option to specify just the `:new` and `:create` actions.

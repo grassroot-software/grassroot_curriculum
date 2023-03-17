@@ -1,12 +1,12 @@
 # NodeJS
 
-This folder contains lesson markdown files that make up the NodeJS course. This course exists in the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/) path on The Grassroot Project Website.
+This folder contains lesson markdown files that make up the NodeJS course. This course exists in the [Full Stack JavaScript](https://www.grassroot.herokuapp.com/paths/full-stack-javascript/) path on The Grassroot Project Website.
 
 ## Course Outline
 
 The following list represents how the lessons are divided into sections and presented on the website.
 
-**Disclaimer:** Given the ever updating nature of the curriculum, the outline might be outdated. See the [NodeJS course on the website](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
+**Disclaimer:** Given the ever updating nature of the curriculum, the outline might be outdated. See the [NodeJS course on the website](https://www.grassroot.herokuapp.com/paths/full-stack-javascript/courses/nodejs)
 instead.
 
 ### Introduction to NodeJS

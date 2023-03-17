@@ -37,7 +37,7 @@ body:
     attributes:
       label: Lesson Url
       description: A link to the relevant lesson, or the content that needs to be fixed. If not applicable, describe where to look for your suggestion
-      placeholder: ex. https://www.theodinproject.com/lessons/ruby-how-this-course-will-work
+      placeholder: ex. https://www.grassroot.herokuapp.com/lessons/ruby-how-this-course-will-work
     validations:
       required: true
   - type: checkboxes

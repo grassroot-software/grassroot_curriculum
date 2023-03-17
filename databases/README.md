@@ -1,12 +1,12 @@
 # Databases
 
-This folder contains lesson markdown files that make up the Databases course. This course exists in the [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) path on The Grassroot Project Website.
+This folder contains lesson markdown files that make up the Databases course. This course exists in the [Full Stack Ruby on Rails](https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails) path on The Grassroot Project Website.
 
 ## Course Outline
 
 The following list represents how the lessons are divided into sections and presented on the website.
 
-**Disclaimer:** Given the ever updating nature of the curriculum, the outline might be outdated. See the [Databases course on the website](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/databases)
+**Disclaimer:** Given the ever updating nature of the curriculum, the outline might be outdated. See the [Databases course on the website](https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails/courses/databases)
 instead.
 
 ### Databases

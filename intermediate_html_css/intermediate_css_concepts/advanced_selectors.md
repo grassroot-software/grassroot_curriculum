@@ -36,7 +36,7 @@ We'll tackle some practical examples using this sample markup.
 </main>
 ~~~
 
-By now, you should be pretty comfortable writing rules using the descendant combinator you learned about in [foundations](https://www.theodinproject.com/lessons/foundations-css-foundations). For instance, if we wanted to select all the `child` and `grand-child` divs inside of `main`, we could write:
+By now, you should be pretty comfortable writing rules using the descendant combinator you learned about in [foundations](https://www.grassroot.herokuapp.com/lessons/foundations-css-foundations). For instance, if we wanted to select all the `child` and `grand-child` divs inside of `main`, we could write:
 
 ~~~css
 main div {
@@ -178,7 +178,7 @@ Let's 😎 🥸 🤓 emojify 🤓 🥸 😎 this span!
  There are lots more! Have a quick browse through the [pseudo-element docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) to see a complete list of what's possible.
 
 ### Attribute Selectors
-The last tool we're going to add to the box is attribute selectors. Recall that an attribute is simply anything in the opening tag of an HTML element - such as `src='picture.jpg'` or `href="www.theodinproject.com"`.
+The last tool we're going to add to the box is attribute selectors. Recall that an attribute is simply anything in the opening tag of an HTML element - such as `src='picture.jpg'` or `href="www.grassroot.herokuapp.com"`.
 
 Since we write our own values for attributes, we need a slightly more flexible system to be able to target specific values.
 

@@ -1,6 +1,6 @@
 ### Introduction
 
-Forms are a crucial part of most websites. Almost every major site has sign-up forms, contact forms, search forms and more!  Luckily HTML5 and JavaScript have some handy built-in methods. You've already learned about validation with HTML and styling validations with CSS in our [Form Validations](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css/lessons/form-validation) lesson in the Intermediate HTML and CSS course.
+Forms are a crucial part of most websites. Almost every major site has sign-up forms, contact forms, search forms and more!  Luckily HTML5 and JavaScript have some handy built-in methods. You've already learned about validation with HTML and styling validations with CSS in our [Form Validations](https://www.grassroot.herokuapp.com/paths/full-stack-javascript/courses/intermediate-html-and-css/lessons/form-validation) lesson in the Intermediate HTML and CSS course.
 
 In this lesson, we'll cover the Constraint Validation API: a way to validate forms on the frontend with JavaScript.
 
@@ -30,7 +30,7 @@ This section contains a general overview of topics that you will learn in this l
 
 #### Warmup
 
-Go back to your 'Library' project and add simple validation to that form! Don't let your users submit without filling in all the fields! Don't forget to use your Git workflow skills you learned in [this foundations lesson](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors) to make a new branch, work on your feature and merge it back to main when it's all done.
+Go back to your 'Library' project and add simple validation to that form! Don't let your users submit without filling in all the fields! Don't forget to use your Git workflow skills you learned in [this foundations lesson](https://www.grassroot.herokuapp.com/lessons/foundations-revisiting-rock-paper-scissors) to make a new branch, work on your feature and merge it back to main when it's all done.
 
 #### Project
 

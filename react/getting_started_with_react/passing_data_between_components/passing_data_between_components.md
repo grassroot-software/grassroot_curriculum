@@ -216,7 +216,7 @@ function Button({ text = "Click Me!", color = "blue", fontSize = 12, handleClick
   };
 
   return (
-    <button onClick={() => handleClick('www.theodinproject.com')} style={buttonStyle}>
+    <button onClick={() => handleClick('www.grassroot.herokuapp.com')} style={buttonStyle}>
       {text}
     </button>
   );
@@ -235,7 +235,7 @@ export default function App() {
 }
 ~~~
 
-When supplying a parameter to the function we can't just write `onClick={handleClick('www.theodinproject.com')}`, and instead must attach a reference to an anonymous function which then calls the function with the parameter. Like the previous example, this is to prevent the function being called during the render.
+When supplying a parameter to the function we can't just write `onClick={handleClick('www.grassroot.herokuapp.com')}`, and instead must attach a reference to an anonymous function which then calls the function with the parameter. Like the previous example, this is to prevent the function being called during the render.
 
 There are also other ways to implement this behavior. Hint: [curried functions!](https://javascript.info/currying-partials)
 

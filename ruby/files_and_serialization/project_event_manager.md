@@ -67,7 +67,7 @@ $ ruby lib/event_manager.rb
 -bash: ruby: command not found
 ~~~
 
-If this happens, see [the instructions for installing Ruby](https://www.theodinproject.com/lessons/ruby-installing-ruby).
+If this happens, see [the instructions for installing Ruby](https://www.grassroot.herokuapp.com/lessons/ruby-installing-ruby).
 
 If the file was not created then you will be presented with the following error
 message:

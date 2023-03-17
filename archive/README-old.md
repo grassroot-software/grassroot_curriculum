@@ -6,7 +6,7 @@ The curriculum is divided into distinct courses, each covering the subject langu
 
 Lessons are structured through a combination of original written content and a compilation of carefully curated resources from the web. This is where the contributing happens!
 
-This repository houses the curricular content used in [The Grassroot Project](http://theodinproject.com) website. (cf. [this repository](https://github.com/TheOdinProject/theodinproject) which houses the front-end and back-end code.)
+This repository houses the curricular content used in [The Grassroot Project](http://grassroot.herokuapp.com) website. (cf. [this repository](https://github.com/TheOdinProject/grassroot.herokuapp) which houses the front-end and back-end code.)
 
 
 The TOP community can be found in our [Discord chat rooms](https://discord.gg/fbFCkYabZB).
@@ -35,9 +35,9 @@ To find out more about how you can contribute, please read our [contributing gui
 
 ## Other helpful links
 
-*For more information about The Grassroot Project, go to [theodinproject.com](http://theodinproject.com).*
+*For more information about The Grassroot Project, go to [grassroot.herokuapp.com](http://grassroot.herokuapp.com).*
 
-*For the source code to The Grassroot Project's main website (which pulls in this curriculum), check out the [github repo here](http://github.com/theodinproject/theodinproject).*
+*For the source code to The Grassroot Project's main website (which pulls in this curriculum), check out the [github repo here](http://github.com/grassroot.herokuapp/grassroot.herokuapp).*
 
 **Happy Coding!**
 

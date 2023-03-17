@@ -16,7 +16,7 @@ As you learned in the last lesson, pairing in person is the best option, but if 
 
   To use Live Share for Visual Studio Code, you open up Visual Studio Code and then launch VSCode Quick Open using the command `Ctrl+P`. In there, paste the following command: `ext install MS-vsliveshare.vsliveshare-pack`. Hit `Enter` to install the free plugin. Live Share should show up as an icon on your left-hand menu bar. From there, you can start or join a collaboration session easily.
 
-  If you're interested in using Teletype for Atom instead, you must first install [Atom](https://atom.io) (you can learn more about this text editor in the [Text Editors](https://www.theodinproject.com/courses/foundations/lessons/text-editors) section).
+  If you're interested in using Teletype for Atom instead, you must first install [Atom](https://atom.io) (you can learn more about this text editor in the [Text Editors](https://www.grassroot.herokuapp.com/courses/foundations/lessons/text-editors) section).
 
   With Atom installed, go to `Settings > Install`, and search for `Teletype`. In the search results, click on the `Install` button. More detailed instructions on package installation in Atom for your OS can be [found here](https://flight-manual.atom.io/using-atom/sections/atom-packages/) if you run into trouble.
 
@@ -26,7 +26,7 @@ As you learned in the last lesson, pairing in person is the best option, but if 
 
 ### Finding a Partner
 
-Of course all this preparation is pointless without someone to pair with. Perhaps you already have someone in mind, but if you are having trouble finding someone, The Grassroot Project has a Forum Category just for that. If you haven't [joined the Grassrot community](http://www.theodinproject.com/courses/foundations/lessons/join-the-odin-community), now is a good time to do that, and then post in the [Pair Category](https://forum.theodinproject.com/c/pairs). There should be other people there at about the same place you are in the curriculum looking to find someone to pair with as well.
+Of course all this preparation is pointless without someone to pair with. Perhaps you already have someone in mind, but if you are having trouble finding someone, The Grassroot Project has a Forum Category just for that. If you haven't [joined the Grassrot community](http://www.grassroot.herokuapp.com/courses/foundations/lessons/join-the-odin-community), now is a good time to do that, and then post in the [Pair Category](https://forum.grassroot.herokuapp.com/c/pairs). There should be other people there at about the same place you are in the curriculum looking to find someone to pair with as well.
 
 ### Things to keep in mind
 * Your pair is a living breathing human being. Don't forget the manners your mama taught you.

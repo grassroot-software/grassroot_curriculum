@@ -47,7 +47,7 @@ We will use an environment variable to set up PostgreSQL credentials for our Rai
 
 ### Installing PostgreSQL
 
-If you've been following the curriculum, you should already have installed all the supporting bits and pieces. If not, please go back and refer to [those lessons](https://www.theodinproject.com/lessons/installation_lessons) before continuing. You'll want to confirm that node.js, Ruby, Rails and yarn are all installed.
+If you've been following the curriculum, you should already have installed all the supporting bits and pieces. If not, please go back and refer to [those lessons](https://www.grassroot.herokuapp.com/lessons/installation_lessons) before continuing. You'll want to confirm that node.js, Ruby, Rails and yarn are all installed.
 
 Pick your operating system below to get the appropriate steps for installing PostgreSQL.
 
@@ -174,7 +174,7 @@ brew update
 brew upgrade
 ~~~~
 
-If your terminal doesn't recognize `brew`, then you'll need to go and install homebrew. You can find it and other installs in the [installation appendix](https://www.theodinproject.com/lessons/installation_lessons).
+If your terminal doesn't recognize `brew`, then you'll need to go and install homebrew. You can find it and other installs in the [installation appendix](https://www.grassroot.herokuapp.com/lessons/installation_lessons).
 
 ### Step 2: Install the PostgreSQL packages
 Now that we've ensured our packages are up to date, we will use brew to install PostgreSQL.

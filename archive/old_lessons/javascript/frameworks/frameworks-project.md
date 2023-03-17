@@ -66,7 +66,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Braxton Lemmon's React Library Solution](https://github.com/braxtonlemmon/book-library-react) - [View in Browser](https://braxtonlemmon.github.io/book-library-react/)
 * [Zakariye Yusuf's React ToDoList Solution](https://github.com/ZYusuf10/timelyRe) - [View in Browser](https://zyusuf10.github.io/timelyRe/)
 * [Bollinca's React Library Solution](https://github.com/bollinca/library-react-version) - [View in Browser](https://bollinca.github.io/library-react-version/)
-* [Brendaneus' React Library Solution](https://github.com/Brendaneus/the_odin_project/tree/master/javascript/react-library) - [View in Browser](https://theodinprojects.live/courses/javascript/projects/react-library)
+* [Brendaneus' React Library Solution](https://github.com/Brendaneus/the_odin_project/tree/master/javascript/react-library) - [View in Browser](https://grassroot.herokuapps.live/courses/javascript/projects/react-library)
 * [Martink-rsa's React ToDoList Solution](https://github.com/martink-rsa/ToDoList_React_MUI) - [View in Browser](https://todolist-martink-rsa.netlify.com/)
 * [Elias White's Angular Library Solution](https://github.com/elias-white/AngularLibrary) - [View in Browser](https://elias-white.github.io/AngularLibrary/)
 * [Igorashs's Vue Solution](https://github.com/igorashs/vue-todo-list) - [View in Browser](https://igorashs.github.io/vue-todo-list/)

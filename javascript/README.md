@@ -1,12 +1,12 @@
 # JavaScript
 
-This folder contains lesson markdown files that make up the JavaScript course. This course exists in the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?/) and the [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript) paths on The Grassroot Project Website.
+This folder contains lesson markdown files that make up the JavaScript course. This course exists in the [Full Stack JavaScript](https://www.grassroot.herokuapp.com/paths/full-stack-javascript?/) and the [Full Stack Ruby on Rails](https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails/courses/javascript) paths on The Grassroot Project Website.
 
 ## Course Outline
 
 The following list represents how the lessons are divided into sections and presented on the website.
 
-**Disclaimer:** Given the ever updating nature of the curriculum, the outline might be outdated. See the [JavaScript course on the website](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) instead.
+**Disclaimer:** Given the ever updating nature of the curriculum, the outline might be outdated. See the [JavaScript course on the website](https://www.grassroot.herokuapp.com/paths/full-stack-javascript/courses/javascript) instead.
 
 ### Introduction
 1. [How this Course Will Work](introduction/how_this_course_will_work.md)
