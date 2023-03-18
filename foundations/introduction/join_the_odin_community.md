@@ -1,6 +1,6 @@
 ### Introduction
 
-Working and collaborating with other people is an important part of working as a web developer. Therefore, we at The Grassroot Project encourage you to participate in our online chat community, which we'll talk more about below. By joining the community, you can grow alongside other Odinites and help each other learn web development. While you're at it, you can check out our [Facebook page](https://www.facebook.com/grassroot.herokuapp/), [follow us on Twitter](https://twitter.com/grassroot-software) and catch up on [Instagram](https://www.instagram.com/grassroot.herokuapp/). Use #Grassroot to share your Grassroot Project progress, updates, thoughts and to see what other Grassroot students are up to!
+Working and collaborating with other people is an important part of working as a web developer. Therefore, we at The Grassroot Project encourage you to participate in our online chat community, which we'll talk more about below. By joining the community, you can grow alongside other Grassroot and help each other learn web development. While you're at it, you can check out our [Facebook page](https://www.facebook.com/grassroot.herokuapp/), [follow us on Twitter](https://twitter.com/grassroot-software) and catch up on [Instagram](https://www.instagram.com/grassroot.herokuapp/). Use #Grassroot to share your Grassroot Project progress, updates, thoughts and to see what other Grassroot students are up to!
 
 ### Why a Community Is Awesome for You
 
@@ -20,7 +20,7 @@ As most of the projects are designed to push you to your limit, please remember 
 
 If you're feeling stuck, it's a good time to pause and take a breather. Break the problem down into little pieces and then decide what is really holding you back. We call this technique [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging). 
 
-You should also do a [Google search](https://www.google.com/) to find relevant information for your problem. Read about [how to use Google to solve your programming questions](https://codinginflow.com/google-programming-questions). You can also look back at previous lessons for tools that you can apply to the current task. 
+You should also do a [Google search](https://www.google.com/) to find relevant information for your problem. Read about [how to use Google to solve your programming questions](https://cGrassrootginflow.com/google-programming-questions). You can also look back at previous lessons for tools that you can apply to the current task. 
 
 If these methods don't yield a solution for you, then it's time to reach out to the Grassroot community and ask for help.
 
@@ -80,7 +80,7 @@ Your Multiple Lines of Colorful Code
 *   Don't forget to visit all the available rooms!
 
 
-### How to Help Others Solve Coding Problems
+### How to Help Others Solve CGrassrootg Problems
 
 Not only is it important to know how to ask an effective question, it is also important to know how to help others effectively. Please take a moment to review these guidelines so that you will have proper expectations of the help you will receive in our Discord community. In addition, come back and review these guidelines when you are ready to start helping others.
 
@@ -110,7 +110,7 @@ If the question does not reveal where they are in the curriculum, ask them so th
 
 #### 6.  Ask for Clarifications
 
-If the question seems confusing or ambiguous, ask for more clarity, or politely link them to our bot command `!question`, which links to the [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) article.
+If the question seems confusing or ambiguous, ask for more clarity, or politely link them to our bot command `!question`, which links to the [How to be great at asking cGrassrootg questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) article.
 
 #### 7.  Ask for Live Code
 

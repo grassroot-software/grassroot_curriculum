@@ -97,13 +97,13 @@ In true Ruby style, there are plenty of ways to concatenate strings.
 
 ~~~ruby
 # With the plus operator:
-"Welcome " + "to " + "Odin!"    #=> "Welcome to Odin!"
+"Welcome " + "to " + "Grassroot!"    #=> "Welcome to Grassroot!"
 
 # With the shovel operator:
-"Welcome " << "to " << "Odin!"  #=> "Welcome to Odin!"
+"Welcome " << "to " << "Grassroot!"  #=> "Welcome to Grassroot!"
 
 # With the concat method:
-"Welcome ".concat("to ").concat("Odin!")  #=> "Welcome to Odin!"
+"Welcome ".concat("to ").concat("Grassroot!")  #=> "Welcome to Grassroot!"
 ~~~
 Classic Ruby!
 
@@ -148,9 +148,9 @@ Hello
 String interpolation allows you to evaluate a string that contains placeholder variables. This is a very useful and common technique, so you will likely find yourself using this often. Be sure to use double quotes so that string interpolation will work!
 
 ~~~ruby
-name = "Odin"
+name = "Grassroot"
 
-puts "Hello, #{name}" #=> "Hello, Odin"
+puts "Hello, #{name}" #=> "Hello, Grassroot"
 puts 'Hello, #{name}' #=> "Hello, #{name}"
 ~~~
 

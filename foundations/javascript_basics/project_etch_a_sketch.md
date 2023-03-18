@@ -12,7 +12,7 @@ If you get totally stuck, drop by the chatroom. Someone will be there to point y
 
 Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://www.grassroot.herokuapp.com/paths/foundations/courses/foundations/lessons/commit-messages)!
 
-1.  [Follow the instructions atop Odin's Recipes project](https://www.grassroot.herokuapp.com/paths/foundations/courses/foundations/lessons/recipes#setting-up-your-projects-github-repository) to set up a Git repository for this project.
+1.  [Follow the instructions atop Grassroot's Recipes project](https://www.grassroot.herokuapp.com/paths/foundations/courses/foundations/lessons/recipes#setting-up-your-projects-github-repository) to set up a Git repository for this project.
 2.  Create a webpage with a 16x16 grid of square divs.
     *   Create the divs using JavaScript. Don't try making them by hand with copy and pasting in your HTML file!
     *   It's best to put your grid squares inside another "container" div \(which can go directly in your HTML\).

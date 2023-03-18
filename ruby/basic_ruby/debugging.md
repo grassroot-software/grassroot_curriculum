@@ -43,12 +43,12 @@ def isogram?(string)
   original_length == unique_length
 end
 
-isogram?("Odin")
+isogram?("Grassroot")
 
 #=> false
 ~~~
 
-Okay, that didn't work. We didn't expect that. Why? Because the string *Odin* is an isogram but we got `false`. The method didn't throw an exception, so we don't even have a line to start debugging at. Now what?
+Okay, that didn't work. We didn't expect that. Why? Because the string *Grassroot* is an isogram but we got `false`. The method didn't throw an exception, so we don't even have a line to start debugging at. Now what?
 
 We know that `original_length == unique_length` returns `false` since it's the last statement, so why not place a `puts` on the line before that to see what `unique_length` is. As an alternative to `puts`, `p` is also commonly used for debugging; `p` is a combination of `puts` and `inspect` (more on that below). To better show the differences between what Ruby is printing to the terminal and returning, the examples in this section use the full IRB syntax, which is exactly what you'd see if you typed these commands into your own terminal IRB session.
 
@@ -63,7 +63,7 @@ irb(main):007:1*
 irb(main):008:1*   original_length == unique_length
 irb(main):009:0> end
 => :isogram?
-irb(main):010:0> isogram?("Odin")
+irb(main):010:0> isogram?("Grassroot")
 1
 => false
 ~~~
@@ -84,8 +84,8 @@ irb(main):010:1*
 irb(main):011:1*   original_length == unique_length
 irb(main):012:0> end
 => :isogram?
-irb(main):013:0> isogram?("Odin")
-["odin"]
+irb(main):013:0> isogram?("Grassroot")
+["Grassroot"]
 1
 => false
 ~~~
@@ -138,7 +138,7 @@ def isogram?(string)
   original_length == unique_length
 end
 
-isogram?("Odin")
+isogram?("Grassroot")
 ~~~
 
 When your code executes and gets to `binding.pry`, it will open an IRB-like session in your terminal. You can then use that session to check the values of anything within the scope of where you included `binding.pry`. However, keep in mind that any code written *after* the `binding.pry` statement will not have been evaluated during the Pry session.
@@ -213,7 +213,7 @@ Obviously, if available, <span id='debugging-with-stack-trace'>the stack trace i
 2. Read through the [Exceptions and Stack Traces](https://launchschool.com/books/ruby/read/more_stuff#readingstacktraces) section of Launch School's online book *Introduction to Programming with Ruby*.
 3. Now that you're familiar with the basics, we're going to have some fun with VSCode! Follow the documentation in the [VSCode rdbg Ruby Debugger instructions](https://github.com/ruby/vscode-rdbg) to install the gem and adjust the configuration inside your VSCode's `launch.json` file. If you're having a hard time figuring out how to navigate to your `launch.json` file in order to change the configuration, read through this in-depth guide on [Debugging with VScode](https://code.visualstudio.com/docs/editor/debugging).
 4. Check your [VSCode Extensions](https://code.visualstudio.com/docs/editor/extension-marketplace) and make sure the [Ruby Extension](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) and the [VSCode rbdg Ruby Debugger](https://marketplace.visualstudio.com/items?itemName=KoichiSasada.vscode-rdbg) extensions are installed.
-5. Now that everything is installed, configured, let's create a new file which you can call `script.rb`. Next copy and paste the very first example in the [Debugging with pry-byebug](#debugging-with-pry-byebug) Section. So include everything from `require 'pry-byebug'` to `isogram?("Odin")` in our new file. Save the file.
+5. Now that everything is installed, configured, let's create a new file which you can call `script.rb`. Next copy and paste the very first example in the [Debugging with pry-byebug](#debugging-with-pry-byebug) Section. So include everything from `require 'pry-byebug'` to `isogram?("Grassroot")` in our new file. Save the file.
 6. Click the `Run and Debug` button, open up the folder your script is located in, set a VSCode breakpoint somewhere within the function, and Run the debugger! This should all look very familiar to you, when you hit the VSCode breakpoint it should look similar to the breakpoints you used in the  [Javascript Developer Tools lesson](https://www.grassroot.herokuapp.com/lessons/foundations-javascript-developer-tools). But *whoa*, once we hit the `binding.pry` breakpoint we got an interactive REPL to play around with! The best of both worlds! Play around with this, and feel free to reference [Debugging with VScode](https://code.visualstudio.com/docs/editor/debugging) if you get stuck.
 7. Although VSCode's debugger is a helpful tool that can make debugging simpler, many companies won't be using it - and will want you to be familiar with debugging using the concepts this lesson focused on: the stack trace, `puts`, `pry-byebug`. Let's practice them by completing the debugging exercises from the [ruby-exercises repo](https://github.com/grassroot-software/ruby-exercises) that you previously cloned.
 </div>

@@ -12,7 +12,7 @@ Don't spend too much time worrying about getting your images to display at the c
 <div class="lesson-content__panel" markdown="1">
 1. Set up a GitHub Repo for this project.  Follow the instructions atop the [Google Homepage project](/courses/web-development-101/lessons/html-css) if you need help.
 2. Set up a blank HTML document
-3. Think about how you would set up the different elements within the site.  What objects and functions will you need? A few minutes of thought can save you from wasting an hour of coding.  The best thing you can do is whiteboard the entire solution before even touching the computer.
+3. Think about how you would set up the different elements within the site.  What objects and functions will you need? A few minutes of thought can save you from wasting an hour of cGrassrootg.  The best thing you can do is whiteboard the entire solution before even touching the computer.
 4. Build the static HTML for the carousel.
 5. Set up a very wide div which will contain the individual "slides" of each image.  By appropriately positioning that div inside a container div (which acts like a picture frame), you can choose which slide is visible at any given time.
 6. Once you have the slider positioned properly, build functions for "next" and "previous" which will advance to the next or previous slide accordingly.  Make the transitions smooth using simple effects.
@@ -37,29 +37,29 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Tamerlan1993's solution](https://github.com/Tamerlan1993/03.03.2017-JS-practise/tree/master/slider) - [View in browser](https://cdn.rawgit.com/Tamerlan1993/03.03.2017-JS-practise/1d1edfab/slider/slider.html)
 * [jlo4's solution](https://github.com/jlo4/image-carousel) - [View in browser](https://rawgit.com/jlo4/image-carousel/master/index.html)
 * [Rhys B's solution](https://github.com/105ron/image-slider) - [View in browser](https://105ron.github.io/image-slider/)
-* [jamie's solution](https://github.com/Jberczel/odin-javascript/tree/master/slider) - [View in browser](http://jsfiddle.net/Jberczel/6kS3t/)
-* [Tom M's solution](https://github.com/tim5046/projectOdin/tree/master/Javascript/Slider) - [View in browser](http://htmlpreview.github.io/?https://github.com/tim5046/projectOdin/blob/master/Javascript/Slider/index.html)
-* [Marina Sergeyeva's solution](https://github.com/imousterian/OdinProject/tree/master/Project5_4_Carousel) - [View in browser](http://htmlpreview.github.io/?https://github.com/imousterian/OdinProject/blob/master/Project5_4_Carousel/index.html)
-* [Donald's solution](https://github.com/donaldali/odin-js-jquery/tree/master/image_carousel) - [View in browser](http://htmlpreview.github.io/?https://github.com/donaldali/odin-js-jquery/blob/master/image_carousel/index.html "Image Carousel/Slider")
-* [Kate McFaul's solution](https://github.com/craftykate/odin-project/tree/master/Chapter_06-JavaScript_and_jQuery/slider) - [View in browser](https://rawgit.com/craftykate/odin-project/master/Chapter_06-JavaScript_and_jQuery/slider/index.html)
+* [jamie's solution](https://github.com/Jberczel/Grassroot-javascript/tree/master/slider) - [View in browser](http://jsfiddle.net/Jberczel/6kS3t/)
+* [Tom M's solution](https://github.com/tim5046/projectGrassroot/tree/master/Javascript/Slider) - [View in browser](http://htmlpreview.github.io/?https://github.com/tim5046/projectGrassroot/blob/master/Javascript/Slider/index.html)
+* [Marina Sergeyeva's solution](https://github.com/imousterian/GrassrootProject/tree/master/Project5_4_Carousel) - [View in browser](http://htmlpreview.github.io/?https://github.com/imousterian/GrassrootProject/blob/master/Project5_4_Carousel/index.html)
+* [Donald's solution](https://github.com/donaldali/Grassroot-js-jquery/tree/master/image_carousel) - [View in browser](http://htmlpreview.github.io/?https://github.com/donaldali/Grassroot-js-jquery/blob/master/image_carousel/index.html "Image Carousel/Slider")
+* [Kate McFaul's solution](https://github.com/craftykate/Grassroot-project/tree/master/Chapter_06-JavaScript_and_jQuery/slider) - [View in browser](https://rawgit.com/craftykate/Grassroot-project/master/Chapter_06-JavaScript_and_jQuery/slider/index.html)
 * [Jason Matthews' solution](https://jsfiddle.net/31wtcf4a/4/)
-* [Ryan Jordan's solution](https://github.com/krjordan/odin-project/tree/master/slider) - [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/odin-project/tree/master/slider/index.html)
+* [Ryan Jordan's solution](https://github.com/krjordan/Grassroot-project/tree/master/slider) - [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/Grassroot-project/tree/master/slider/index.html)
 * [Aleksandar Rodić's solution](https://github.com/rodic/The Grassroot Project---js-assignments/tree/master/Project%20-%20Creating%20an%20Image%20Carousel%20in%20Javascript)
 * [Austin's solution](https://github.com/CouchofTomato/carousel)
 * [Artur Janik's solution](https://github.com/ArturJanik/The Grassroot ProjectJS/tree/master/Project4) - [View in browser](https://htmlpreview.github.io/?https://github.com/ArturJanik/The Grassroot ProjectJS/blob/master/Project4/index.html)
-* [AtActionPark's solution](https://github.com/AtActionPark/odin_carousel_slider) - [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_carousel_slider/blob/master/index.html)
-* [dchen71's solution](https://github.com/dchen71/odin-carousel) - [View in browser](https://rawgit.com/dchen71/odin-carousel/master/Index.html)
+* [AtActionPark's solution](https://github.com/AtActionPark/Grassroot_carousel_slider) - [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/Grassroot_carousel_slider/blob/master/index.html)
+* [dchen71's solution](https://github.com/dchen71/Grassroot-carousel) - [View in browser](https://rawgit.com/dchen71/Grassroot-carousel/master/Index.html)
 * [eternal's solution](https://github.com/3ternal/slider) - [View in browser](http://htmlpreview.github.io/?https://github.com/3ternal/slider/blob/master/index.html)
-* [danmakenoise's solution](https://github.com/danmakenoise/odin-js-slider) - [View in browser](http://htmlpreview.github.io/?https://github.com/danmakenoise/odin-js-slider/blob/master/index.html)
+* [danmakenoise's solution](https://github.com/danmakenoise/Grassroot-js-slider) - [View in browser](http://htmlpreview.github.io/?https://github.com/danmakenoise/Grassroot-js-slider/blob/master/index.html)
 * [Dan's solution](https://github.com/vickerdj/imageslider) - [View in browser](http://vickerdj.github.io/imageslider/)
 * [Trajanson's solution](https://github.com/Trajanson/image-carousel-js) - [View in broswer](http://projects.trajanson.com/js-image-carousel/)
-* [Cameron Kelley's solution](https://github.com/cameronjkelley/the_odin_project/tree/master/javascript/carousel) - [View in browser](https://htmlpreview.github.io/?https://github.com/cameronjkelley/the_odin_project/blob/master/javascript/carousel/carousel.html)
+* [Cameron Kelley's solution](https://github.com/cameronjkelley/the_Grassroot_project/tree/master/javascript/carousel) - [View in browser](https://htmlpreview.github.io/?https://github.com/cameronjkelley/the_Grassroot_project/blob/master/javascript/carousel/carousel.html)
 *  [Yoshua Elmaryono's solution](https://github.com/dotm/image_slider) - [View in browser](http://dotm.github.io/image_slider/)
-*  [Luke Walker's solution](https://github.com/ubershibs/odin-js-course/tree/master/slider) - [View in browser](https://htmlpreview.github.io/?https://github.com/ubershibs/odin-js-course/blob/master/slider/index.html)
-* [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/tree/master/javascript/image-carousel) - [View in browser](https://rawgit.com/cdouglass/odin-project-exercises/master/javascript/image-carousel/carousel.html)
+*  [Luke Walker's solution](https://github.com/ubershibs/Grassroot-js-course/tree/master/slider) - [View in browser](https://htmlpreview.github.io/?https://github.com/ubershibs/Grassroot-js-course/blob/master/slider/index.html)
+* [cdouglass's solution](https://github.com/cdouglass/Grassroot-project-exercises/tree/master/javascript/image-carousel) - [View in browser](https://rawgit.com/cdouglass/Grassroot-project-exercises/master/javascript/image-carousel/carousel.html)
 * [Miguel Herrera's solution](https://github.com/migueloherrera/js-slider) - [View in browser](http://htmlpreview.github.io/?https://github.com/migueloherrera/js-slider/blob/master/index.html)
 * [Stefan (Cyprium)'s solution](https://github.com/dev-cyprium/jquery-slider) - [View in browser](https://htmlpreview.github.io/?https://github.com/dev-cyprium/jquery-slider/blob/master/index.html)
-* [David Chapman's solution](https://github.com/davidchappy/odin_training_projects/tree/master/js-carousel) - [View in browser](https://davidchappy.github.io/image-carousel/index.html)
+* [David Chapman's solution](https://github.com/davidchappy/Grassroot_training_projects/tree/master/js-carousel) - [View in browser](https://davidchappy.github.io/image-carousel/index.html)
 * [Sophia Wu's solution](https://github.com/SophiaLWu/image-carousel) - [View in browser](https://sophialwu.github.io/image-carousel/)
 * [Axel’s solution](https://github.com/afuh/slider) - [View in browser](https://afuh.github.io/slider/)
 * [Daunenok’s solution](https://github.com/daunenok/image-carousel) - [View in browser](https://daunenok.github.io/image-carousel/)

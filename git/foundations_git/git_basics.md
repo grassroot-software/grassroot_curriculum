@@ -82,7 +82,7 @@ This section contains a general overview of topics that you will learn in this l
 
     MacOS users: If your terminal reads *"command not found: code"*, you must head back to [Command Line Basics](https://www.grassroot.herokuapp.com/lessons/foundations-command-line-basics#opening-files-in-vscode-from-the-command-line) and follow the instructions provided to allow this command to work.
 
-2.  Add "Hello Odin!" to line 3 of README.md and save the file with "Ctrl+S" (or "Command+S" on Mac).
+2.  Add "Hello Grassroot!" to line 3 of README.md and save the file with "Ctrl+S" (or "Command+S" on Mac).
 
     ![Edit README using text editor](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/b54d14c5dcee1c6fac61aee02fca7e9ef7ba1510/foundations/git_basics/project_practicing_git_basics/imgs/12.png)
 

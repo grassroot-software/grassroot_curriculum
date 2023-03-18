@@ -13,7 +13,7 @@ Of course, you can't copy every single feature and a lot of the user interface w
 
 <div class="lesson-content__panel" markdown="1">
 1. Set up a GitHub Repo for this project.  Follow the instructions atop the [Google Homepage project](/courses/web-development-101/lessons/html-css) if you need help.
-2. Think about what you'll need to do to get this all working together.  This is where it's really helpful to think it completely through on paper or whiteboard ahead of time!  A few hours of thought here will save you from wasting days of coding.  Try to lay it ALL out.  An important part of this is scope -- you obviously can't build the entire website (which presumably took a full team of engineers years to produce), so you'll need to identify the core functionality of the site and then the "nice-to-have" stuff.  **Make sure you will finish building the core functionality BEFORE starting to add on the rest.** If you try to do it all at once, you'll get lost and frustrated.  Trust me.  Everything takes longer than you expect.
+2. Think about what you'll need to do to get this all working together.  This is where it's really helpful to think it completely through on paper or whiteboard ahead of time!  A few hours of thought here will save you from wasting days of cGrassrootg.  Try to lay it ALL out.  An important part of this is scope -- you obviously can't build the entire website (which presumably took a full team of engineers years to produce), so you'll need to identify the core functionality of the site and then the "nice-to-have" stuff.  **Make sure you will finish building the core functionality BEFORE starting to add on the rest.** If you try to do it all at once, you'll get lost and frustrated.  Trust me.  Everything takes longer than you expect.
 3. Build it!
 4. Try testing the very high level Javascript and Rails functionality with Jasmine and RSpec respectively.  Don't get too bogged down in testing, but try and save yourself time by adding high level tests so you don't need to click around 100 times every time you make a change to something that seems important.
 5. Once you've finished, push to GitHub and definitely submit your project below!
@@ -26,9 +26,9 @@ Submit a link below to the github repo with your files in it by using a pull req
 
 * Add your solution below this line!
 * [gregthepeg's solution](https://github.com/gregthepeg4/instagram) - [View in browser](https://insteadgram1.herokuapp.com/users/sign_in)
-* [Jack Wong's solution](https://github.com/iamjackslayer/odin-chat) - [View in browser](https://odin-chat.herokuapp.com)
+* [Jack Wong's solution](https://github.com/iamjackslayer/Grassroot-chat) - [View in browser](https://Grassroot-chat.herokuapp.com)
 * [Axel's solution](https://github.com/afuh/pinstagram) - [View in browser](http://pinstagram.axelfuhrmann.com)
-* [Donald's solution](https://github.com/donaldali/odinbook "Odinbook on GitHub") - [View in browser](https://dna-odinbook.herokuapp.com/ "Odinbook on Heroku")
+* [Donald's solution](https://github.com/donaldali/Grassrootbook "Grassrootbook on GitHub") - [View in browser](https://dna-Grassrootbook.herokuapp.com/ "Grassrootbook on Heroku")
 * [David Chapman's solution](https://github.com/davidchappy/lesson-scheduler) - [View in browser](http://lesson-scheduler.herokuapp.com/)
 * [Eric Gonzalez solution](https://github.com/Twinpair/Acquaintion) - [View in browser (Twitter Clone)](https://acquaintion.herokuapp.com/)
 

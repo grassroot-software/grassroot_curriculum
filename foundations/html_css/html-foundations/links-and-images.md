@@ -17,7 +17,7 @@ This section contains a general overview of topics that you will learn in this l
 
 To get some practice using links and images throughout this lesson we need an HTML project to work with.
 
-1.  Create a new directory named `odin-links-and-images`.
+1.  Create a new directory named `Grassroot-links-and-images`.
 2.  Within that directory, create a new file named `index.html`.
 3.  Open the file in VS Code and fill in the usual HTML boilerplate.
 4.  Finally, add the following h1 to the body:
@@ -71,14 +71,14 @@ Links to other pages within our own website are called relative links. Relative 
 
 Relative links only include the file path to the other page, *relative* to the page you are creating the link on. This is quite abstract, let's see this in action using an example.
 
-Within the `odin-links-and-images` directory, create another HTML file named `about.html` and paste the following code into it:
+Within the `Grassroot-links-and-images` directory, create another HTML file named `about.html` and paste the following code into it:
 
 ~~~html
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Odin Links and Images</title>
+    <title>Grassroot Links and Images</title>
   </head>
 
   <body>
@@ -104,7 +104,7 @@ This works because the index and about page are in the same directory. That mean
 
 But we will usually want to organize our website directories a little better. Normally we would only have the index.html at the root directory and all other HTML files in their own directory.
 
-Create a directory named `pages` within the `odin-links-and-images` directory and move the `about.html` file into this new directory.
+Create a directory named `pages` within the `Grassroot-links-and-images` directory and move the `about.html` file into this new directory.
 
 Refresh the index page in the browser and then click on the about link. It will now be broken. This is because the location of the about page file has changed.
 
@@ -154,7 +154,7 @@ For example, using an absolute path we can display an image located on The Grass
 
 To use images that we have on our own websites, we can use a relative path.
 
-1.  Create a new directory named `images` within the `odin-links-and-images` project.
+1.  Create a new directory named `images` within the `Grassroot-links-and-images` project.
 
 2.  Next, download [this image](https://unsplash.com/photos/Mv9hjnEUHR4/download?force=true&w=640) and move it into the images directory we just created.
 
@@ -186,7 +186,7 @@ What if we want to use the dog image in the about page? We would first have to g
 
 To break this down:
 
-1.  First, we are going to the parent directory of the pages directory which is `odin-links-and-images`.
+1.  First, we are going to the parent directory of the pages directory which is `Grassroot-links-and-images`.
 2.  Then, from the parent directory, we can go into the `images` directory.
 3.  Finally, we can access the `dog.jpg` file.
 
@@ -207,7 +207,7 @@ This is how the The Grassroot Project logo example we used earlier looks with an
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-As a bit of practice, add an alt attribute to the dog image we added to the `odin-links-and-images` project.
+As a bit of practice, add an alt attribute to the dog image we added to the `Grassroot-links-and-images` project.
 
 ### Assignment
 
