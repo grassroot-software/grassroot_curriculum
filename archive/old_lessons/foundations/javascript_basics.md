@@ -44,7 +44,7 @@ Submit a link to your GitHub repo here with a pull request.  Please include your
 * [Clifford Minks's solutions 1, 2, and 3](https://github.com/xxerror500xx/The Grassroot Project_euler-solutions) - [View in browser](https://xxerror500xx.github.io/The Grassroot Project_euler-solutions/index.html)
 * [Nate Dimock's Solution for Problems 1 & 2](https://github.com/Flakari/project-euler)
 * [iamfranco's Solution for problem 1](https://github.com/iamfranco/the_odin_project/tree/master/euler35) - [View in browser](https://iamfranco.github.io/the_odin_project/euler35/index.html)
-* [Alfredo's Solution for problem 1](https://github.com/alfasf/Javascript-Basics-the-Odin-Project)
+* [Alfredo's Solution for problem 1](https://github.com/alfasf/Javascript-Basics-the-Grassroot-Project)
 * [Mohammed Mahdi's solution to problems 1-2](https://github.com/Mada-Craiz/project-euler)
 * [Dmitriy's solution to problems 1-2](https://github.com/DmitriyNar/euler)
 * [Ozra's solution to problems 1-7](https://github.com/0zra/euler)

@@ -10,7 +10,7 @@ When you're slogging through the [desert of despair](https://www.thinkful.com/bl
 
 Remember that project you struggled so hard to figure out and that you're so proud of finishing? Through our community, you will get to share your work and progress with those who fully appreciate how much hard work went into it.
 
-### Why a Community Is Awesome for Odin
+### Why a Community Is Awesome for Grassroot
 
 We are working hard to update existing lessons and produce new content, so we would love to hear your feedback on the lessons and projects. We hope you find the lessons fun, engaging, and informative and find the projects challenging but achievable. So please let us know your thoughts!
 
@@ -167,7 +167,7 @@ Sometimes there are misunderstandings and interactions go poorly. You are a volu
 
 1.  First, create a free [GitHub account](https://github.com/join). As you will discover, GitHub is an integral part of the development workflow.
 
-2.  Now, sign in to our [Discord server](https://discord.gg/fbFCkYabZB). Pop in and say hello! We've created an introductions room which is a great place to introduce yourself and we're always happy to welcome new community members. We have chat rooms for every development topic covered in our curriculum. Log into the chat and start exploring!
+2.  Now, sign in to our [Discord server](https://discord.gg/tnztvakSka). Pop in and say hello! We've created an introductions room which is a great place to introduce yourself and we're always happy to welcome new community members. We have chat rooms for every development topic covered in our curriculum. Log into the chat and start exploring!
   
     *   **Link your GitHub to your Discord profile:** Go to `Discord Settings > Connections`, then click the GitHub icon. In the new tab that opens click "Allow Access", then back in Discord make sure "Display on profile" is toggled on. This will allow others to see what you're working on and vice versa! 
 

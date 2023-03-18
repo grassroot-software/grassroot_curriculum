@@ -1,4 +1,4 @@
-# Odin's Recycle Bin
+# Grassroot's Recycle Bin
 
 Files end up here for one or more of the following reasons:
 

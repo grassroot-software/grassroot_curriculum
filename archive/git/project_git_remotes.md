@@ -47,7 +47,7 @@ In this project we will fork The Grassroot Project's curriculum repository to ad
 
 12. It's now time to make your changes. Open `git/student_list.md` in your text editor and add your name and link to your GitHub in Markdown syntax on line two like so:
   ```
-  * [Odin-Student](https://github.com/odin-student)
+  * [Grassroot-Student](https://github.com/grassroot-student)
   ```
 then save the file.
 13. The next steps are to add the changed file to the staging area and commit it.  To see what files have changed, you can use `git status`. Then, to add the files to statging area you type `git add git/student_list.md ` (you may have to change the file location if it's not the same). Lastly, you'll commit these changes by typing `git commit -m "Commit Message Here"`.  In the end, it will look something like this:
