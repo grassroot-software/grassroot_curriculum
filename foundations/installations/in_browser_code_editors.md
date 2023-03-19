@@ -86,14 +86,14 @@ Go  to GitHub.com and sign in with your email  and password
 Now it’s time to   Create a new repository by clicking the button shown in the screenshot below.
 
 
-![GitHub Email Settings](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/770be14190139683dbe9933ca5e9393c797c63f2/foundations/installations/setting_up_git/imgs/1.jpg)
+![GitHub Email Settings](https://github.com/grassroot-software/grassroot_curriculum/blob/main/foundations/installations/setting_up_git/imgs/1.jpg?raw=true)
 
 
 Give your repository the name “git_test” in the repository name input field. Check “Add a README file”. And then create the repository by clicking the green “Create repository” button at the bottom of the page. See screenshot below 
 
-![GitHub Email Settings](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/770be14190139683dbe9933ca5e9393c797c63f2/foundations/installations/setting_up_git/imgs/2.jpg)
+![GitHub Email Settings](https://github.com/grassroot-software/grassroot_curriculum/blob/main/foundations/installations/setting_up_git/imgs/2.jpg?raw=true)
 
-![GitHub Email Settings](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/770be14190139683dbe9933ca5e9393c797c63f2/foundations/installations/setting_up_git/imgs/3.jpg)
+![GitHub Email Settings](https://github.com/grassroot-software/grassroot_curriculum/blob/main/foundations/installations/setting_up_git/imgs/3.jpg?raw=true)
 
 
 This will redirect you to your new repository on GitHub. 
@@ -106,16 +106,16 @@ Next, we shall import the "test" repository we create in the previous section to
 Sign into your GitHub.com account,  open the text repository and Click the menu bar at the top right corner to activate desktop mode 
 
 
-![GitHub Email Settings](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/770be14190139683dbe9933ca5e9393c797c63f2/foundations/installations/setting_up_git/imgs/4.jpg)
+![GitHub Email Settings](https://github.com/grassroot-software/grassroot_curriculum/blob/main/foundations/installations/setting_up_git/imgs/4.jpg?raw=true)
 
 
-![GitHub Email Settings](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/770be14190139683dbe9933ca5e9393c797c63f2/foundations/installations/setting_up_git/imgs/5.jpg)
+![GitHub Email Settings](https://github.com/grassroot-software/grassroot_curriculum/blob/main/foundations/installations/setting_up_git/imgs/5.jpg?raw=true)
 
 To get ready to copy (clone) this repository onto your replit workspace, click the green “Code” button. Then select the HTTPS option, and copy the line below it. 
 
-![GitHub Email Settings](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/770be14190139683dbe9933ca5e9393c797c63f2/foundations/installations/setting_up_git/imgs/6.jpg)
+![GitHub Email Settings](https://github.com/grassroot-software/grassroot_curriculum/blob/main/foundations/installations/setting_up_git/imgs/6.jpg?raw=true)
 
-![GitHub Email Settings](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/770be14190139683dbe9933ca5e9393c797c63f2/foundations/installations/setting_up_git/imgs/7.jpg)
+![GitHub Email Settings](https://github.com/grassroot-software/grassroot_curriculum/blob/main/foundations/installations/setting_up_git/imgs/7.jpg?raw=true)
 
 
 
