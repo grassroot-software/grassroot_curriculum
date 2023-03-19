@@ -8,7 +8,7 @@ We won't lie to you: installing packages, editors, and even entire operating sys
 
 Serious software engineers don't use online development environments because it is not reliable enough.
 
-However, if you wish to avoid the stress of setting up a physical development environment on your pc, or if you currently dont have a pc. Please click HERE
+However, if you wish to avoid the stress of setting up a physical development environment on your pc, or if you currently dont have a pc. [Please click HERE](https://grassroot.academy/lessons/foundations-in-browser-code-editors)
 
 For those who wish to set up a solid development environment on thier pc, please continue reading this section. The Grassroot project highly recommend that you set up a physical development environment on your pc. Follow the steps below
 
