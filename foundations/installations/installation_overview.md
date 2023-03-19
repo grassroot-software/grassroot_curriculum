@@ -6,6 +6,13 @@ Many online development courses use in-browser code editors or "sandboxes," whic
 
 We won't lie to you: installing packages, editors, and even entire operating systems can be very frustrating. However, having the experience of setting up a development environment to run the code you'll write is an invaluable, real-world skill you'll carry with you for the rest of your career.
 
+Serious software engineers don't use online development environments because it is not reliable enough.
+
+However, if you wish to avoid the stress of setting up a physical development environment on your pc, or if you currently dont have a pc. Please click HERE
+
+For those who wish to set up a solid development environment on thier pc, please continue reading this section. The Grassroot project highly recommend that you set up a physical development environment on your pc. Follow the steps below
+
+
 ### The Installation Plan
 
 In the following sections, we'll go over the steps for setting up your environment. There is no need to install anything in this lesson, this is an informative lesson. These sections are **the most important steps** in the entire curriculum. Please take the extra time to **double check what you're typing** or you may cause more headaches for yourself down the road. 
