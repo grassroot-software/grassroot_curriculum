@@ -1,6 +1,6 @@
 ### Introduction
 
-Working and collaborating with other people is an important part of working as a web developer. Therefore, we at The Grassroot Project encourage you to participate in our online chat community, which we'll talk more about below. By joining the community, you can grow alongside other Grassroot and help each other learn web development. While you're at it, you can check out our [Facebook page](https://www.facebook.com/grassroot.herokuapp/), [follow us on Twitter](https://twitter.com/grassroot-software) and catch up on [Instagram](https://www.instagram.com/grassroot.herokuapp/). Use #Grassroot to share your Grassroot Project progress, updates, thoughts and to see what other Grassroot students are up to!
+Working and collaborating with other people is an important part of working as a web developer. Therefore, we at The Grassroot Project encourage you to participate in our online chat community, which we'll talk more about below. By joining the community, you can grow alongside other Grassroot and help each other learn web development. [Click here](https://discord.gg/tnztvakSka) to join the Grassroot community on discord
 
 ### Why a Community Is Awesome for You
 
