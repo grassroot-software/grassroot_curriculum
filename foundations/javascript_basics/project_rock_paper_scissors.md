@@ -12,7 +12,7 @@ Finally, this is your first JavaScript program built from scratch, so don't forg
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
-Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/commit-messages)!
+Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://learn.grassroot.academy/lessons/foundations-commit-messages)!
 
 1.  Start a new Git repo for your project.
 2.  Create a blank HTML document with a script tag (Hint: it is best practice to link an external .js file).  This game is going to be played completely from the console, so don't worry about putting anything else in there.

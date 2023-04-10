@@ -10,7 +10,7 @@ If you get totally stuck, drop by the chatroom. Someone will be there to point y
 
 <div class="lesson-content__panel" markdown="1">
 
-Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/commit-messages)!
+Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://learn.grassroot.academy/lessons/foundations-commit-messages)!
 
 1.  [Follow the instructions atop Grassroot's Recipes project](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/recipes#setting-up-your-projects-github-repository) to set up a Git repository for this project.
 2.  Create a webpage with a 16x16 grid of square divs.

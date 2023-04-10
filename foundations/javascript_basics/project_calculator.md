@@ -15,7 +15,7 @@ Before you get started with this calculator project, we need to cover a word of 
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
-Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/commit-messages)!
+Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://learn.grassroot.academy/lessons/foundations-commit-messages)!
 
 Here are some use cases (abilities your project needs to have):
 

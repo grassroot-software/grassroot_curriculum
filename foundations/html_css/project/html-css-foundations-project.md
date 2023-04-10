@@ -42,7 +42,7 @@ Once you have completed your project, feel free to look at the other solutions t
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
-Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/commit-messages)!
+Don't forget to commit early & often! You can [reference the Commit Message lesson here](https://learn.grassroot.academy/lessons/foundations-commit-messages)!
 
 1. Download the design images and take a look at what you're going to be creating here. [Image One (Full Design)](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png), [Image Two (Color and Fonts)](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png)
     1. The font that's being used in the images is roboto.
