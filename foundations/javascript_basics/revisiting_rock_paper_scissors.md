@@ -1,10 +1,10 @@
 ### Introduction
 
-Now that we can manipulate the DOM, it's time to revisit [Rock Paper Scissors](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/rock-paper-scissors) and add a simple UI to it.
+Now that we can manipulate the DOM, it's time to revisit [Rock Paper Scissors](https://learn.grassroot.academy/lessons/foundations-rock-paper-scissors) and add a simple UI to it.
 
 Before you start making changes to your Rock Paper Scissors project, you need to learn about a concept in Git called **branching** so that you can make your changes without having to worry about breaking what you have now.
 
-Branches in Git allow your repository to hold multiple *alternate reality* versions of your files at the same time. You’ve actually (sort of) been using branches since you made your first commit, you just might not have known it! Back in [the setting up Git lesson](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/setting-up-git) when you ran `git config --global init.defaultBranch main` you were setting the name of what’s called the *default* branch for your repos. The default branch is just what we call the branch that is created when you make your first commit on a project, and in that command we set the name to be `main` as is the current standard.
+Branches in Git allow your repository to hold multiple *alternate reality* versions of your files at the same time. You’ve actually (sort of) been using branches since you made your first commit, you just might not have known it! Back in [the setting up Git lesson](https://learn.grassroot.academy/lessons/foundations-setting-up-git) when you ran `git config --global init.defaultBranch main` you were setting the name of what’s called the *default* branch for your repos. The default branch is just what we call the branch that is created when you make your first commit on a project, and in that command we set the name to be `main` as is the current standard.
 
 Like the branches in a tree (hence the name), all of the branches for a project stem off of a “trunk” (the `main` branch) or off of *other* branches.
 
@@ -56,7 +56,7 @@ For example: if you have a bug in a new feature you’re working on that you can
     1.  If everything goes fine, our `rps-ui` branch is now successfully merged with main! Use `git log` and you'll see all the commits you've made to your feature branch on top of the commits you made to the main branch. Now for our final step!
     1.  Let's push our `main` branch into our remote repo by running `git push origin main` . Go to your GitHub repo and you'll see that our `main` branch will have all the changes and commits you made to the `rps-ui` branch. Congratulations! You've successfully pushed your first feature into your production branch!
     1.  Now that we have all our code in the main branch, we don't really need our `rps-ui` branch anymore. Let's do some cleanup, both locally and in the remote repo. Delete the branch from our local repo with `git branch -d rps-ui` and also delete it from the remote repo on GitHub with `git push --delete origin rps-ui`. Congrats, we're all done with our cleanup!
-1.  Make sure to publish the project on GitHub Pages and add a live preview link in the [project lesson](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/rock-paper-scissors).
+1.  Make sure to publish the project on GitHub Pages and add a live preview link in the [project lesson](https://learn.grassroot.academy/lessons/foundations-rock-paper-scissors).
 
 </div>
 
