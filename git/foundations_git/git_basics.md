@@ -24,7 +24,7 @@ This section contains a general overview of topics that you will learn in this l
 
 #### Create the Repository
 
-1.  <span id="new-github-repo"></span>You should have already created a GitHub account in the [Setting Up Git](https://www.grassroot.herokuapp.com/lessons/foundations-setting-up-git) lesson. If you haven't done that yet, you can sign up [here](https://github.com/).
+1.  <span id="new-github-repo"></span>You should have already created a GitHub account in the [Setting Up Git](https://learn.grassroot.academy/lessons/foundations-setting-up-git) lesson. If you haven't done that yet, you can sign up [here](https://github.com/).
 
 2.  Create a new repository by clicking the button shown in the screenshot below.
 
@@ -80,7 +80,7 @@ This section contains a general overview of topics that you will learn in this l
 
     ![Add text file and check repo status again using CLI](https://cdn.statically.io/gh/grassroot-software/grassroot_curriculum/b54d14c5dcee1c6fac61aee02fca7e9ef7ba1510/foundations/git_basics/project_practicing_git_basics/imgs/11.png)
 
-    MacOS users: If your terminal reads *"command not found: code"*, you must head back to [Command Line Basics](https://www.grassroot.herokuapp.com/lessons/foundations-command-line-basics#opening-files-in-vscode-from-the-command-line) and follow the instructions provided to allow this command to work.
+    MacOS users: If your terminal reads *"command not found: code"*, you must head back to [Command Line Basics](https://learn.grassroot.academy/lessons/foundations-command-line-basics#opening-files-in-vscode-from-the-command-line) and follow the instructions provided to allow this command to work.
 
 2.  Add "Hello Grassroot!" to line 3 of README.md and save the file with "Ctrl+S" (or "Command+S" on Mac).
 

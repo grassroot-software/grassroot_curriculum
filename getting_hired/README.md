@@ -1,12 +1,12 @@
 # Getting Hired
 
-This folder contains lesson markdown files that make up the Getting Hired course. This course exists in the [Full Stack Ruby On Rails](https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails) and [Full Stack JavaScript](https://www.grassroot.herokuapp.com/paths/full-stack-javascript) path on The Grassroot Project Website.
+This folder contains lesson markdown files that make up the Getting Hired course. This course exists in the [Full Stack Ruby On Rails](https://learn.grassroot.academy/paths/full-stack-ruby-on-rails) and [Full Stack JavaScript](https://learn.grassroot.academy/paths/full-stack-javascript) path on The Grassroot Project Website.
 
 ## Course Outline
 
 The following list represents how the lessons are divided into sections and presented on the website.
 
-**Disclaimer:** Given the ever updating nature of the curriculum, the outline might be outdated. See the [Getting Hired course on the website](<https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails/courses/getting-hired>)
+**Disclaimer:** Given the ever updating nature of the curriculum, the outline might be outdated. See the [Getting Hired course on the website](<https://learn.grassroot.academy/paths/full-stack-ruby-on-rails/courses/getting-hired>)
 instead.
 
 ### Preparing for Your Job Search

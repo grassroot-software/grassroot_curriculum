@@ -9,7 +9,7 @@ Browsers, by default, inject a little bit of style into your web projects. You m
 
 ### Default Styles
 
-When you did the first [HTML Recipes project](https://www.grassroot.herokuapp.com/lessons/foundations-recipes), you would have noticed that some elements already have a little bit of style applied to them. An `h1`, for instance, is bigger and bolder than regular text. Links (`a`) are blue and underlined. Lists (`ul` and `ol`) both have a bunch of padding surrounding them. Browsers accomplish this by inserting a little bit of CSS into every webpage. ([Here is Chrome's default HTML stylesheet](https://chromium.googlesource.com/chromium/blink/+/refs/heads/main/Source/core/css/html.css))
+When you did the first [HTML Recipes project](https://learn.grassroot.academy/lessons/foundations-recipes), you would have noticed that some elements already have a little bit of style applied to them. An `h1`, for instance, is bigger and bolder than regular text. Links (`a`) are blue and underlined. Lists (`ul` and `ol`) both have a bunch of padding surrounding them. Browsers accomplish this by inserting a little bit of CSS into every webpage. ([Here is Chrome's default HTML stylesheet](https://chromium.googlesource.com/chromium/blink/+/refs/heads/main/Source/core/css/html.css))
 
 The problem with this is that there is no guarantee that different browsers will style everything the same. In general, inconsistencies are going to be pretty minor, but they DO exist. Also, in many cases as a developer you're going to end up undoing or redoing all of this default styling to make your site look exactly how you envision it.
 

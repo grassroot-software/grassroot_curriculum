@@ -36,7 +36,7 @@ We'll tackle some practical examples using this sample markup.
 </main>
 ~~~
 
-By now, you should be pretty comfortable writing rules using the descendant combinator you learned about in [foundations](https://www.grassroot.herokuapp.com/lessons/foundations-css-foundations). For instance, if we wanted to select all the `child` and `grand-child` divs inside of `main`, we could write:
+By now, you should be pretty comfortable writing rules using the descendant combinator you learned about in [foundations](https://learn.grassroot.academy/lessons/foundations-css-foundations). For instance, if we wanted to select all the `child` and `grand-child` divs inside of `main`, we could write:
 
 ~~~css
 main div {

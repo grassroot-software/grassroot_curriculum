@@ -69,7 +69,7 @@ Submit a link below to this [file](https://github.com/grassroot-software/grassro
 * [Robin's Solution](https://github.com/CoolGlasses/advanced-building-blocks/blob/master/bubble_sort.rb)
 * [Run After's Solution](https://github.com/run-after/bubble_sort/blob/master/bubble_sort.rb)
 * [Noah T's Solution](https://github.com/noahtalerman/Grassroot_project_solutions/blob/master/advanced_building_blocks_ruby/bubble_sort.rb)
-* [Allan Glasier's Solution](https://www.grassroot.herokuapp.com/lessons/advanced-building-blocks)
+* [Allan Glasier's Solution](https://learn.grassroot.academy/lessons/advanced-building-blocks)
 * [Billy Coffin's Solution](https://github.com/bcoffin9/Grassroot-ruby)
 * [Michael Marchand's Solution](https://github.com/MarchandMD/Grassroot_Project_coursework/blob/master/advanced_building_blocks/project1/bubble_sort.rb)
 * [Ian's Solution](https://github.com/IanMKesler/practice/blob/master/bubble_sort.rb)

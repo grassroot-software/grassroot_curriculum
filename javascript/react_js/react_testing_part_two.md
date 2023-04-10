@@ -12,7 +12,7 @@ This section contains a general overview of topics that you will learn in this l
 
 ### What is Mocking?
 
-If you've been following along with our lessons so far, the concept of mocking has already been introduced in an earlier section and you might have even incorporated mocks in your [Battleship project in the Testing JavaScript section of this course](https://www.grassroot.herokuapp.com/lessons/javascript-battleship). Let's look at how mocks will help in testing React components.
+If you've been following along with our lessons so far, the concept of mocking has already been introduced in an earlier section and you might have even incorporated mocks in your [Battleship project in the Testing JavaScript section of this course](https://learn.grassroot.academy/lessons/javascript-battleship). Let's look at how mocks will help in testing React components.
 
 #### Testing Callback Handlers
 

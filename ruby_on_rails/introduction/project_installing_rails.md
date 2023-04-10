@@ -1,6 +1,6 @@
 ### Introduction
 
-If you went through the [Ruby course](https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails/courses/ruby) you will have already installed Ruby. But if you haven't done that, then now is the time to [install it](https://www.grassroot.herokuapp.com/lessons/ruby-installing-ruby) as you will need Ruby installed before we tackle installing Rails.
+If you went through the [Ruby course](https://learn.grassroot.academy/paths/full-stack-ruby-on-rails/courses/ruby) you will have already installed Ruby. But if you haven't done that, then now is the time to [install it](https://learn.grassroot.academy/lessons/ruby-installing-ruby) as you will need Ruby installed before we tackle installing Rails.
 
 With Ruby installed, you're all set to install Rails and create our first Rails app to ensure everything went smoothly.
 

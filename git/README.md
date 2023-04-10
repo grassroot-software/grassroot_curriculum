@@ -10,7 +10,7 @@ The following list represents how the lessons are divided into sections and pres
 
 ### Foundations Git
 
-_These lessons can be found in the [Foundations Path](https://www.grassroot.herokuapp.com/paths/foundations)._
+_These lessons can be found in the [Foundations Path](https://learn.grassroot.academy/paths/foundations)._
 
 1. [Introduction to Git](foundations_git/introduction_to_git.md)
 2. [Git Basics](foundations_git/git_basics.md)
@@ -18,7 +18,7 @@ _These lessons can be found in the [Foundations Path](https://www.grassroot.hero
 
 ### Intermediate Git
 
-_These lessons can be found in the [Full Stack JavaScript path](https://www.grassroot.herokuapp.com/paths/full-stack-javascript) and the [Full Stack Ruby on Rails path](https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails)_
+_These lessons can be found in the [Full Stack JavaScript path](https://learn.grassroot.academy/paths/full-stack-javascript) and the [Full Stack Ruby on Rails path](https://learn.grassroot.academy/paths/full-stack-ruby-on-rails)_
 
 1. [A Deeper Look at Git](intermediate_git/a_deeper_look_at_git.md)
 2. [Using Git in the Real World](intermediate_git/using_git_in_the_real_world.md)

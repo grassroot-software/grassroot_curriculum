@@ -1,11 +1,11 @@
 # Ruby on Rails
-This folder contains lesson markdown files that make up the Ruby on Rails course. This course exists in the [Full Stack Ruby on Rails](https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails/) path on The Grassroot Project Website.
+This folder contains lesson markdown files that make up the Ruby on Rails course. This course exists in the [Full Stack Ruby on Rails](https://learn.grassroot.academy/paths/full-stack-ruby-on-rails/) path on The Grassroot Project Website.
 
 ## Course Outline
 
 The following list represents how the lessons are divided into sections and presented on the website.
 
-**Disclaimer:** Given the ever updating nature of the curriculum, the outline might be outdated. See the [Ruby on Rails course on the website](https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails) instead.
+**Disclaimer:** Given the ever updating nature of the curriculum, the outline might be outdated. See the [Ruby on Rails course on the website](https://learn.grassroot.academy/paths/full-stack-ruby-on-rails/courses/ruby-on-rails) instead.
 
 ### Introduction
 1. [How this Course Will Work](introduction/how_this_course_will_work.md)

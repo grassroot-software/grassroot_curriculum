@@ -40,7 +40,7 @@ If you would like to propose a change that is not covered in an open issue, plea
 	$ git checkout -b fix/fixed-bug-name
 	```
 
-3. When you have finished, commit your latest changes and ensure your markdown is correctly formatted and rendering properly using our [markdown preview](https://www.grassroot.herokuapp.com/lessons/preview) tool.
+3. When you have finished, commit your latest changes and ensure your markdown is correctly formatted and rendering properly using our [markdown preview](https://learn.grassroot.academy/lessons/preview) tool.
 
 4. If the markdown is correctly formatted, you are ready to submit a pull request:
 

@@ -29,5 +29,5 @@ Closes #XXXXX
 -   [ ] The `Because` section summarizes the reason for this PR
 -   [ ] The `This PR` section has a bullet point list describing the changes in this PR
 -   [ ] If this PR addresses an open issue, it is linked in the `Issue` section
--   [ ] If any lesson files are included in this PR, they have been previewed with the [Markdown preview tool](https://www.grassroot.herokuapp.com/lessons/preview) to ensure it is formatted correctly
+-   [ ] If any lesson files are included in this PR, they have been previewed with the [Markdown preview tool](https://learn.grassroot.academy/lessons/preview) to ensure it is formatted correctly
 -   [ ] If any lesson files are included in this PR, they follow the [Layout Style Guide](https://github.com/grassroot-software/grassroot_curriculum/blob/main/LAYOUT_STYLE_GUIDE.md)

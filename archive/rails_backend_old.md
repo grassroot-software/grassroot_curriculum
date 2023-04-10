@@ -6,19 +6,19 @@ While Local Storage is great, it's not ideal: it only stores data on the compute
 
 ### OK, so ... now what?
 
-Where you go from here will depend in part on what you've learned so far. If you are on the [full-stack Ruby on Rails path](https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails), hooray: you already have all of the tools you need to build your own full-fledged web app from scratch!
+Where you go from here will depend in part on what you've learned so far. If you are on the [full-stack Ruby on Rails path](https://learn.grassroot.academy/paths/full-stack-ruby-on-rails), hooray: you already have all of the tools you need to build your own full-fledged web app from scratch!
 
-If not, never fear: you can learn how to build a back-end later using [Node.js](https://www.grassroot.herokuapp.com/paths/full-stack-javascript/courses/nodejs). For now, you can outsource your backend functionality to a Backend-as-a-Service (BaaS) company like [Firebase](https://www.firebase.com/) or [Apigee](http://apigee.com/).
+If not, never fear: you can learn how to build a back-end later using [Node.js](https://learn.grassroot.academy/paths/full-stack-javascript/courses/nodejs). For now, you can outsource your backend functionality to a Backend-as-a-Service (BaaS) company like [Firebase](https://www.firebase.com/) or [Apigee](http://apigee.com/).
 
 #### Building your own backend with Ruby on Rails
 
-For those of you who are on the [full-stack Ruby on Rails path](https://www.grassroot.herokuapp.com/paths/full-stack-ruby-on-rails), the next step is obvious: you get to build your own backend with Rails! In preparation, reread the [Rails lesson on building an API](paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/apis-and-building-your-own) to refresh how to set up a Rails backend that can handle JSON requests.
+For those of you who are on the [full-stack Ruby on Rails path](https://learn.grassroot.academy/paths/full-stack-ruby-on-rails), the next step is obvious: you get to build your own backend with Rails! In preparation, reread the [Rails lesson on building an API](paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/apis-and-building-your-own) to refresh how to set up a Rails backend that can handle JSON requests.
 
 Are you done? Good. Next, it's time to practice allowing your front end JavaScript to talk to your Rails backend using AJAX.  We'll cover some best practices for how to pass data from one to another, but otherwise it's up to you: you've got everything you need to put together those final pieces of the web development puzzle.
 
 #### Outsourcing your backend to Firebase
 
-If you skipped Ruby and/or Ruby on Rails or are on the [full-stack JavaScript path](https://www.grassroot.herokuapp.com/paths/full-stack-javascript), you're not quite ready to build an entire web app from scratch. The good news: you don't have to! We will provide you with resources that guide you through setting up your backend on [Firebase](https://firebase.google.com).
+If you skipped Ruby and/or Ruby on Rails or are on the [full-stack JavaScript path](https://learn.grassroot.academy/paths/full-stack-javascript), you're not quite ready to build an entire web app from scratch. The good news: you don't have to! We will provide you with resources that guide you through setting up your backend on [Firebase](https://firebase.google.com).
 
 ### Learning Outcomes
 By the end of this lesson, you should be able to:

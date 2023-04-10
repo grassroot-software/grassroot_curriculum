@@ -1,6 +1,6 @@
 ### Warmup: Installations and Blogger
 
-To do this course, you've got to have Rails and several other technologies [properly installed on your computer](https://www.grassroot.herokuapp.com/courses/foundations/lessons/your-first-rails-application).  That will be the first task if you haven't already.
+To do this course, you've got to have Rails and several other technologies [properly installed on your computer](https://learn.grassroot.academy/courses/foundations/lessons/your-first-rails-application).  That will be the first task if you haven't already.
 
 Next comes the [Jumpstart Lab Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html) (which was assigned way back in the Foundations course).  The Blogger tutorial is actually more challenging than the project below, and was assigned to give you a chance to get in over your head a bit so you'd pay attention along the way :)
 
@@ -14,7 +14,7 @@ In this chapter, you'll build a simple scaffolded app on Rails.  It won't be as 
 
 ### Assignment
 <div class="lesson-content__panel" markdown="1">
-1. If you haven't already, do the [your first rails application](https://www.grassroot.herokuapp.com/courses/foundations/lessons/your-first-rails-application).  If you've already got Rails on your system, it's still worth skipping to the bottom and verifying that you've got **Rails 4** (at least) and **Ruby 2** working properly.
+1. If you haven't already, do the [your first rails application](https://learn.grassroot.academy/courses/foundations/lessons/your-first-rails-application).  If you've already got Rails on your system, it's still worth skipping to the bottom and verifying that you've got **Rails 4** (at least) and **Ruby 2** working properly.
 2. If you haven't already, do the [Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html), and chapter 1 of [the Rails Tutorial](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning).
 3. If you haven't done either of these, you should go back to the [Foundations](/courses/foundations) course and at least do the [Web Development Frameworks section](/courses/foundations/#web-development-frameworks).
 

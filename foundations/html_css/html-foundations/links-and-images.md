@@ -43,7 +43,7 @@ You may have noticed that clicking this link doesn't do anything. This is becaus
 Add the following href attribute to the anchor element we created previously and try clicking it again, don't forget to refresh the browser so the new changes can be applied.
 
 ~~~html
-<a href="https://www.grassroot.herokuapp.com/about">click me</a>
+<a href="https://learn.grassroot.academy/about">click me</a>
 ~~~
 
 By default, any text wrapped with an anchor tag without a `href` attribute will look like plain text. If the `href` attribute is present, the browser will give the text a blue color and underline it to signify it is a link.
@@ -63,7 +63,7 @@ Links to pages on other websites on the internet are called absolute links. A ty
 
 We've already seen an absolute link in action. The link we created to The Grassroot Project's About page earlier was an absolute link as it contains the protocol and domain.
 
-`https://www.grassroot.herokuapp.com/about`
+`https://learn.grassroot.academy/about`
 
 #### Relative Links
 
@@ -92,7 +92,7 @@ Back in the index page, add the following anchor element to create a link to the
 ~~~html
 <body>
   <h1>Homepage</h1>
-	<a href="https://www.grassroot.herokuapp.com/about">click me</a>
+	<a href="https://learn.grassroot.academy/about">click me</a>
 
 	<a href="about.html">About</a>
 </body>
@@ -165,7 +165,7 @@ Finally add the image to the `index.html` file:
 ~~~html
 <body>
   <h1>Homepage</h1>
-	<a href="https://www.grassroot.herokuapp.com/about">click me</a>
+	<a href="https://learn.grassroot.academy/about">click me</a>
 
 	<a href="pages/about.html">About</a>
 

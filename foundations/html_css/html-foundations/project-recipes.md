@@ -8,9 +8,9 @@ But it's important to keep in mind that this project is just to build your HTML 
 
 ### Setting Up Your Project's GitHub Repository
 
-As mentioned in the [introduction to Git](https://www.grassroot.herokuapp.com/paths/foundations/courses/foundations/lessons/introduction-to-git), you'll want to organize all your projects like a portfolio and link them to GitHub so it can be seen by others.
+As mentioned in the [introduction to Git](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/introduction-to-git), you'll want to organize all your projects like a portfolio and link them to GitHub so it can be seen by others.
 
-If you do not know how to set up a repository, follow the instructions found in [Git Basics](https://www.grassroot.herokuapp.com/paths/foundations/courses/foundations/lessons/git-basics) to learn how.
+If you do not know how to set up a repository, follow the instructions found in [Git Basics](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/git-basics) to learn how.
 
 1.  Create a new repo for this project on GitHub.com and call it `Grassroot-recipes`.
 
@@ -26,10 +26,10 @@ If you are having trouble:
 
 -   Ensure you followed the steps [here on Step 2.3](/paths/foundations/courses/foundations/lessons/setting-up-git#step-2-configure-git-and-github) to clone from GitHub with SSH.
 
--   Refer to the [workflow](https://www.grassroot.herokuapp.com/paths/foundations/courses/foundations/lessons/git-basics) in the Git Basics Lesson.
+-   Refer to the [workflow](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/git-basics) in the Git Basics Lesson.
 
 #### Tips on When to Commit
-Don't forget everything we went over in the [previous lesson](https://www.grassroot.herokuapp.com/paths/foundations/courses/foundations/lessons/commit-messages) about commit messages!
+Don't forget everything we went over in the [previous lesson](https://learn.grassroot.academy/paths/foundations/courses/foundations/lessons/commit-messages) about commit messages!
 
 When you're building your project, you will probably end up doing several `git add` + `git commit` cycles before being ready to push it up to GitHub with `git push origin main`.
 

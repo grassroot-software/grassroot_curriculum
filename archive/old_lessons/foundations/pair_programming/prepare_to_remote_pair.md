@@ -16,7 +16,7 @@ As you learned in the last lesson, pairing in person is the best option, but if 
 
   To use Live Share for Visual Studio Code, you open up Visual Studio Code and then launch VSCode Quick Open using the command `Ctrl+P`. In there, paste the following command: `ext install MS-vsliveshare.vsliveshare-pack`. Hit `Enter` to install the free plugin. Live Share should show up as an icon on your left-hand menu bar. From there, you can start or join a collaboration session easily.
 
-  If you're interested in using Teletype for Atom instead, you must first install [Atom](https://atom.io) (you can learn more about this text editor in the [Text Editors](https://www.grassroot.herokuapp.com/courses/foundations/lessons/text-editors) section).
+  If you're interested in using Teletype for Atom instead, you must first install [Atom](https://atom.io) (you can learn more about this text editor in the [Text Editors](https://learn.grassroot.academy/courses/foundations/lessons/text-editors) section).
 
   With Atom installed, go to `Settings > Install`, and search for `Teletype`. In the search results, click on the `Install` button. More detailed instructions on package installation in Atom for your OS can be [found here](https://flight-manual.atom.io/using-atom/sections/atom-packages/) if you run into trouble.
 
