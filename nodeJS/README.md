@@ -51,5 +51,5 @@ instead.
 
 ### FINAL PROJECT
 
-1. [**Project: Grassroot Book**](./final_project/project_odin_book.md)
+1. [**Project: Grassroot Book**](./final_project/project_grassroot_book.md)
 2. [Conclusion](./final_project/conclusion.md)

@@ -29,7 +29,7 @@ In this project we will fork The Grassroot Project's curriculum repository to ad
 6. Now you can see, (using `git remote -v`) there are four remote branches. We can `fetch` and `push` to both `origin` and `upstream`. Though if you try to change the grassroot-softwares repository and `git push upstream main` you will see that it's not permitted:
   ```language-bash
   curriculum$ git push upstream main
-  remote: Permission to grassroot.herokuapp/curriculum.git denied to odin-student.
+  remote: Permission to grassroot.herokuapp/curriculum.git denied to grasroot-student.
   fatal: unable to access 'https://github.com/grassroot.herokuapp/curriculum.git/': The requested URL returned error: 403
   ```
 7. The response error 403 is the HTTP status code which basically means that you don't have access. The creator of the repository can assign who has admin and write access. grassroot-software/grassroot_curriculum is set up so you can still `fetch` and `pull`, just not `push`. So how do you make changes?
@@ -67,7 +67,7 @@ then save the file.
   curriculum$ git push origin new-student
   Counting objects: 7, done.
   << Truncated >>
-  To https://github.com/odin-student/curriculum.git
+  To https://github.com/grassroot-student/curriculum.git
     d4aed63..72afe28 new-student -> new-student
   ```
 Success!
