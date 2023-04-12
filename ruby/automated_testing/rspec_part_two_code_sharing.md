@@ -2,7 +2,7 @@
 
 In this lesson we will be exploring some of the tools RSpec provides for sharing code among multiple tests. Specifically, we will be looking at hook, let and subject helper methods. These methods are frequently used in RSpec test suites so it's important to know how they work and when to use them.
 
-We will once again be working from the `odin_rspec` project we set up in the previous lesson. To get the most out this lesson, please follow along with all the examples.
+We will once again be working from the `grassroot_rspec` project we set up in the previous lesson. To get the most out this lesson, please follow along with all the examples.
 
 ### Learning Outcomes
 
@@ -19,7 +19,7 @@ We will often have the same arrange, act and teardown code in multiple test case
 
 Before hooks run **before** the tests are executed. We could put any code we wished into them, but they are best used to share the same arrange phase and on some occasions the same act phase code between multiple tests.
 
-To see this in action, create a new file in the lib directory of your `odin_rspec` project named `user.rb` and paste the following code into it:
+To see this in action, create a new file in the lib directory of your `grassroot_rspec` project named `user.rb` and paste the following code into it:
 
 ~~~ruby
 # lib/user.rb

@@ -55,7 +55,7 @@ body:
     attributes:
       label: (Optional) Discord Name
       description: Optionally provide your discord name to help coordinate changes there if necessary
-      placeholder: ex. odinite#1234
+      placeholder: ex. e#1234
     validations:
       required: false
   - type: textarea

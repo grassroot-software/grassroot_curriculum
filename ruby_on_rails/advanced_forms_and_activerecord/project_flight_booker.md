@@ -21,7 +21,7 @@ This project will require you to seed your database, so use your `db/seeds.rb` f
 #### Setup
 
 1.  Think through the data architecture required to bring this to life.
-2.  Create a new Rails app, e.g. `odin-flight-booker`, and a new Git repo
+2.  Create a new Rails app, e.g. `grassroot-flight-booker`, and a new Git repo
 3.  Modify the README to explain what you're doing and link back to the project here.
 
 #### Screen 1: Search

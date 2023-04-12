@@ -62,7 +62,7 @@ This is a fast and straightforward project where you'll set up a Rails app to be
 
 We'll start by building our Kitten application to work normally in the browser with HTML.
 
-1.  Set up a new Rails application (`odin-kittens`) and Git repo.
+1.  Set up a new Rails application (`grassroot-kittens`) and Git repo.
 1.  Update the README to describe the application and link back to this project.
 1.  Build a Kitten model with attributes of `:name`, `:age`, `:cuteness`, and `:softness`.
 1.  Build a KittensController and `:kittens` routes for all 7 RESTful actions.

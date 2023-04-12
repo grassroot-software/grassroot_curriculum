@@ -13,7 +13,7 @@ Do all this using [jQuery's Validate plugin](http://jqueryvalidation.org/) but t
 <div class="lesson-content__panel" markdown="1">
 1. Set up a GitHub Repo for this project.  Follow the instructions atop the [Google Homepage project](/courses/web-development-101/lessons/html-css) if you need help.
 2. Set up a blank HTML document
-3. Think about how you would set up the different form elements and their accompanying validators.  What objects and functions will you need? A few minutes of thought can save you from wasting an hour of coding.  The best thing you can do is whiteboard the entire solution before even touching the computer.
+3. Think about how you would set up the different form elements and their accompanying validators.  What objects and functions will you need? A few minutes of thought can save you from wasting an hour of cgrassrootg.  The best thing you can do is whiteboard the entire solution before even touching the computer.
 4. Write the simple form elements.  Don't worry about styling them.
 5. Build the validation logic.
 6. Test out all possible cases.
@@ -24,17 +24,17 @@ Do all this using [jQuery's Validate plugin](http://jqueryvalidation.org/) but t
 Submit a link below to the github repo with your files in it by using a pull request.  See the section on [Contributing](http://github.com/grassroot-software/grassroot_curriculum/blob/master/contributing.md) for how.  Please include your partner's github handle somewhere in the description if you had one and they would like attribution.
 
 * Add your solution below this line!
-* [Mateusz's solution](https://github.com/Emnalyeriar/learning_projects/tree/master/the%20odin%20projects/form%20validation) - [View in browser](http://htmlpreview.github.io/?https://github.com/Emnalyeriar/learning_projects/blob/master/the%20odin%20projects/form%20validation/index.html)
-* [jamie's solution](https://github.com/Jberczel/odin-javascript/tree/master/jquery-form) - [View in browser](http://jsfiddle.net/Jberczel/5dAd3/)
-* [Donald's solution](https://github.com/donaldali/odin-js-jquery/tree/master/form_validation) - [View in browser](http://htmlpreview.github.io/?https://github.com/donaldali/odin-js-jquery/blob/master/form_validation/index.html "Form Validation")
+* [Mateusz's solution](https://github.com/Emnalyeriar/learning_projects/tree/master/the%20grassroot%20projects/form%20validation) - [View in browser](http://htmlpreview.github.io/?https://github.com/Emnalyeriar/learning_projects/blob/master/the%20grassroot%20projects/form%20validation/index.html)
+* [jamie's solution](https://github.com/Jberczel/grassroot-javascript/tree/master/jquery-form) - [View in browser](http://jsfiddle.net/Jberczel/5dAd3/)
+* [Donald's solution](https://github.com/donaldali/grassroot-js-jquery/tree/master/form_validation) - [View in browser](http://htmlpreview.github.io/?https://github.com/donaldali/grassroot-js-jquery/blob/master/form_validation/index.html "Form Validation")
 * [Ryan Jordan's solution](https://github.com/krjordan/HTML-forms) - [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/HTML-forms/blob/master/index.html)
 * [Artur Janik's solution](https://github.com/ArturJanik/The Grassroot ProjectJS/tree/master/Project7) - [View in browser](https://rawgit.com/ArturJanik/The Grassroot ProjectJS/master/Project7/index.html)
-* [dchen71's solution (HTML5/jQuery Validation)](https://github.com/dchen71/odin-form_validations) - [View in browser](http://rawgit.com/dchen71/odin-form_validations/master/Index.html)
-* [AtActionPark's solution](https://github.com/AtActionPark/odin_jquery_validating) - [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_jquery_validating/blob/master/index.html)
+* [dchen71's solution (HTML5/jQuery Validation)](https://github.com/dchen71/grassroot-form_validations) - [View in browser](http://rawgit.com/dchen71/grassroot-form_validations/master/Index.html)
+* [AtActionPark's solution](https://github.com/AtActionPark/grassroot_jquery_validating) - [View in browser](http://htmlpreview.github.io/?https://github.com/AtActionPark/grassroot_jquery_validating/blob/master/index.html)
 * [Yoshua Elmaryono's solution](https://github.com/dotm/signup) - [View in browser](http://dotm.github.io/signup/)
-* [Luke Walker's solution](https://github.com/ubershibs/odin-js-course/tree/master/mint) - [View in browser](http://htmlpreview.github.io/?https://github.com/ubershibs/odin-js-course/blob/master/mint/index.html)
+* [Luke Walker's solution](https://github.com/ubershibs/grassroot-js-course/tree/master/mint) - [View in browser](http://htmlpreview.github.io/?https://github.com/ubershibs/grassroot-js-course/blob/master/mint/index.html)
 * [Miguel Herrera's solution](https://github.com/migueloherrera/js-mint) - [View in browser](http://htmlpreview.github.io/?https://github.com/migueloherrera/js-mint/blob/master/index.html)
-* [David Chapman's solution](https://github.com/davidchappy/odin_training_projects/tree/master/jq-form-validation)
+* [David Chapman's solution](https://github.com/davidchappy/grassroot_training_projects/tree/master/jq-form-validation)
 * [Daunenok's solution](https://github.com/daunenok/form-my-validation) - [View in browser](https://daunenok.github.io/form-my-validation/)
 * [Austin's solution](https://github.com/CouchofTomato/form_validation) - [View in browser](https://couchoftomato.github.io/form_validation/)
 

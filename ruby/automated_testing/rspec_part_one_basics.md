@@ -25,8 +25,8 @@ To kick things off, we need to create a new project where we can install RSpec a
 Fire up a terminal, create a new directory and then navigate into it:
 
 ~~~bash
-$ mkdir odin_rspec
-$ cd odin_rspec
+$ mkdir grassroot_rspec
+$ cd grassroot_rspec
 ~~~
 
 Create a lib directory and `todo_list.rb` file
@@ -78,7 +78,7 @@ class TodoList
 end
 ~~~
 
-Now that we have the code we will write tests for in place, it's time to install and setup RSpec. Back in your terminal, make sure you are in the root directory of the `odin_rspec` project and create a `Gemfile`
+Now that we have the code we will write tests for in place, it's time to install and setup RSpec. Back in your terminal, make sure you are in the root directory of the `grassroot_rspec` project and create a `Gemfile`
 
 ~~~ruby
 $ touch Gemfile
@@ -251,7 +251,7 @@ RSpec.describe TodoList do
 end
 ~~~
 
-To see all the structuring we have been doing in action we need to execute our tests. To execute the tests, open the terminal and run the `$ rspec` command from the root directory of the `odin_rspec` project directory.
+To see all the structuring we have been doing in action we need to execute our tests. To execute the tests, open the terminal and run the `$ rspec` command from the root directory of the `grassroot_rspec` project directory.
 
 The output, as shown in the code snippet below uses the arguments we passed to our example groups and `it` blocks to output the structure of our tests to the terminal.
 
@@ -808,7 +808,7 @@ We've covered a lot of ground here, you now know all of the basic building block
 
 But before that, in the next lesson we will explore a few more RSpec features that allow us to share common code between our tests.
 
-We will once again be using the `odin_rspec` project we set up in this lesson to demonstrate those features so make sure to keep that project around.
+We will once again be using the `grassroot_rspec` project we set up in this lesson to demonstrate those features so make sure to keep that project around.
 
 ### Assignment
 <div class="lesson-content__panel" markdown="1">

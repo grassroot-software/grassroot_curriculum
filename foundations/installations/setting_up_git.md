@@ -125,7 +125,7 @@ git config --global user.email "yourname@example.com"
 If you opted to use the private GitHub email address, the second command will look something like this:
 
 ~~~bash
-git config --global user.email "123456789+odin@users.noreply.github.com" # Remember to use your own private GitHub email here.
+git config --global user.email "123456789+grassroot@users.noreply.github.com" # Remember to use your own private GitHub email here.
 ~~~
 
 GitHub recently changed the default branch on new repositories from `master` to `main`. Change the default branch for Git using this command:
@@ -174,7 +174,7 @@ If a message appears in the console containing the text "No such file or directo
 
 To create a new SSH key, run the following command inside your terminal. The `-C` flag followed by your email address ensures that GitHub knows who you are.
 
-**Note:** The angle brackets (`< >`) in the code snippet below indicate that you should replace that part of the command with the appropriate information. Do not include the brackets themselves in your command. For example, if your email address is `odin@grassroot.herokuapp.com`, then you would type `ssh-keygen -t ed25519 -C odin@grassroot.herokuapp.com`. You will see this convention of using angle brackets to indicate placeholder text used throughout The Grassroot Project's curriculum and other coding websites, so it's good to be familiar with what it means.
+**Note:** The angle brackets (`< >`) in the code snippet below indicate that you should replace that part of the command with the appropriate information. Do not include the brackets themselves in your command. For example, if your email address is `grassroot@grassroot.herokuapp.com`, then you would type `ssh-keygen -t ed25519 -C grassroot@grassroot.herokuapp.com`. You will see this convention of using angle brackets to indicate placeholder text used throughout The Grassroot Project's curriculum and other coding websites, so it's good to be familiar with what it means.
 
 ~~~bash
 ssh-keygen -t ed25519 -C <youremail>

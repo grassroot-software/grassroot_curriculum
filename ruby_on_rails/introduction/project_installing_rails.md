@@ -60,7 +60,7 @@ This is where it might start to be difficult to follow just what is happening. I
 We're going to start by navigating to the directory that you house your projects in, then telling Rails to initialize the application for us.
 
 ~~~bash
-cd ~/your_odin_project_directory
+cd ~/your_grassroot_project_directory
 rails new my_first_rails_app
 ~~~
 
