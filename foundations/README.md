@@ -11,8 +11,6 @@ This is where it all begins! A hands-on introduction to all of the essential too
 - Prerequisites
   - Computer Basics - [lesson](installations/computer_basics.md)
   - How Does the Web Work? - [lesson](installations/how_does_the_web_work.md)
-  - Installation Overview - [lesson](installations/installation_overview.md)
-  - Installations - [lesson](installations/installations.md)
   - Text Editors - [lesson](installations/text_editors.md)
   - Command Line Basics - [lesson](installations/command_line_basics.md)
   - Setting Up Git - [lesson](installations/setting_up_git.md)
