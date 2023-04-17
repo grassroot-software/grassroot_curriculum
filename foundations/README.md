@@ -12,7 +12,7 @@ This is where it all begins! A hands-on introduction to all of the essential too
   - Computer Basics - [lesson](installations/computer_basics.md)
   - How Does the Web Work? - [lesson](installations/how_does_the_web_work.md)
   - Text Editors - [lesson](installations/text_editors.md)
-  - Command Line Basics - [lesson](installations/command_line_basics.md)
+  <!-- - Command Line Basics - [lesson](installations/command_line_basics.md) -->
   <!-- - Setting Up Git - [lesson](installations/setting_up_git.md) -->
 - HTML Foundations
   - Introduction to HTML and CSS - [lesson](html_css/intro-to-html-css.md)
