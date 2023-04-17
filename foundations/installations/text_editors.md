@@ -28,18 +28,6 @@ Choose your Operating System:
    - [Check out this tutorial about Vs code set up for windows](https://www.geeksforgeeks.org/how-to-install-visual-studio-code-on-windows/)
    - [Watch this video](https://www.youtube.com/watch?v=ft89u3hcb3c&feature=youtu.be)
 
-
-#### Step 2: Using VSCode
-   
-You can start VSCode in two ways,
-
-   - Click **Visual Studio Code** from the Applications menu
-   - **Or**, use the `code` command from the terminal
-
-~~~bash
-code
-~~~
-
 </details>
 
 <details markdown="block">
