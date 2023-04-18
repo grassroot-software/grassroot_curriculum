@@ -9,14 +9,14 @@ Lessons are structured through a combination of original written content and a c
 This repository houses the curricular content used in [The Grassroot Project](http://grassroot.herokuapp.com) website. (cf. [this repository](https://github.com/grassroot-software/grassroot.herokuapp) which houses the front-end and back-end code.)
 
 
-The The Grassroot Project community can be found in our [Discord chat rooms](https://discord.gg/tnztvakSka).
+The The Grassroot Project community can be found in our [Discord chat rooms](https://discord.gg/gHmmTe9JfFa).
 
 ## Contributing
 
 The Grassroot Project depends on open-source contributions to improve, grow, and thrive. We welcome contributors of all experience levels and backgrounds to help maintain this awesome curriculum and community.
 
 ### Lessons/Courses in Development
-We are constantly making improvements to the curriculum, and new lessons are always in the works. However, writing new lessons is very time consuming and is done for free. If you would like to know specifics about work on new lessons, ask in the [Discord chat](https://discord.gg/tnztvakSka), or keep an eye on this repo.
+We are constantly making improvements to the curriculum, and new lessons are always in the works. However, writing new lessons is very time consuming and is done for free. If you would like to know specifics about work on new lessons, ask in the [Discord chat](https://discord.gg/gHmmTe9JfFa), or keep an eye on this repo.
 
 ### In flight curriculum initiatives
 
@@ -61,4 +61,4 @@ Additionally, we have made our learning materials completely open source.  This 
 
 ## Contributing
 
-If you would like to contribute to this project, [please contact us here](https://discord.gg/tnztvakSka).
+If you would like to contribute to this project, [please contact us here](https://discord.gg/gHmmTe9JfFa).

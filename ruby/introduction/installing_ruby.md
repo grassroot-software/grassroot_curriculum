@@ -92,7 +92,7 @@ rbenv -v
 rbenv 1.2.0-14-gc6cc0a1
 ~~~
 
-If you do not get a version number at all (anything not starting with `rbenv 1...`), please ask for help in the [Grassroot Project Chat Room](https://discord.gg/https://discord.gg/tnztvakSka).
+If you do not get a version number at all (anything not starting with `rbenv 1...`), please ask for help in the [Grassroot Project Chat Room](https://discord.gg/https://discord.gg/gHmmTe9JfFa).
 
 #### Step 2.2: Install Ruby
 

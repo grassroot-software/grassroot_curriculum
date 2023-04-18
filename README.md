@@ -6,7 +6,7 @@ Lessons are structured through a combination of original written content and a c
 
 This repo contains the actual lesson files used on our website. For the actual The Grassroot Project app that pulls in this lesson content and contains our front-end and back-end code, please go to the [main The Grassroot Project repo](https://github.com/grassroot-software/grassroot.herokuapp).
 
-Our community can be found on the [The Grassroot Project Discord server](https://discord.gg/https://discord.gg/tnztvakSka).
+Our community can be found on the [The Grassroot Project Discord server](https://discord.gg/https://discord.gg/gHmmTe9JfFa).
 
 ## Contributing
 
