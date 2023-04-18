@@ -28,6 +28,18 @@ This section contains a general overview of topics that you will learn in this l
  -   Describe the differences between Git and a text editor in terms of what they save and their record keeping.
  -   Describe why Git is useful for an individual developer and a team of developers.
 
+
+### Setting up Git:
+
+Head to [github.com](https://github.com) and create an account.
+
+Ensure you save  your username and password as it will be needed in subsequent lessons. 
+
+- [Click here to Learn how to create your first Git repository](https://www.dailymotion.com/video/k1yHA56ht7qBzwz1WRD)
+
+- [Learn how to  connect VS code with your Git repository](https://www.dailymotion.com/video/k5XEdZYW0W8WVBz1WXa)
+
+
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
