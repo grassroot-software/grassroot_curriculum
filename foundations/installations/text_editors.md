@@ -23,7 +23,7 @@ Choose your Operating System:
 <details markdown="block">
 <summary class="dropDown-header">Windows</summary>
 
-#### Step 1: Download and Install VSCode
+#### Download and Install VSCode
 
    - [Check out this tutorial about Vs code set up for windows](https://www.geeksforgeeks.org/how-to-install-visual-studio-code-on-windows/)
    - [Watch this video](https://www.youtube.com/watch?v=ft89u3hcb3c&feature=youtu.be)
