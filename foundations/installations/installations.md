@@ -155,7 +155,7 @@ sudo apt upgrade
 
 You will be asked for your password after using the first one - type it in and use <kbd>Enter</kbd> to provide your terminal with the password. There is no visual feedback about what you're typing in but you are indeed doing so.
 
-After `sudo apt upgrade` runs for a while you will be asked whether you want to install things - do so to update your machine. If you have any issues, do not hesitate to come over to our [Discord server](https://discord.gg/V75WSQG) and ask for help in the `#virtualbox-help` channel.
+After `sudo apt upgrade` runs for a while you will be asked whether you want to install things - do so to update your machine. If you have any issues, do not hesitate to come over to our [Discord server](https://discord.com/invite/gHmmTe9JfF) and ask for help in the `#virtualbox-help` channel.
 
 ### Step 4: Understand Your New VM
 
@@ -176,7 +176,7 @@ Here are some tips to help you get started in a virtual environment:
 #### Frequent Issues/Questions:
 
 -   If upon trying to start the VM you only get a black screen, close and `power off` the VM, click **Settings -> Display** and make sure **Enable 3D Acceleration** is UNCHECKED, and Video memory is set to **AT LEAST 128MB**.
--   Running out of space? Look at [these instructions on our Discord](https://discord.com/channels/505093832157691914/690588860085960734/1015965403572351047).
+-   Running out of space? Look at [these instructions on our Discord](https://discord.com/invite/gHmmTe9JfF).
 -   Are you using a touchscreen? [Here's a video](https://www.youtube.com/watch?v=hW-iyHHoDy4) on how to enable touchscreen controls for VirtualBox.
 -   **VM performance tips**:
     -   When running the VM, minimize your Windows activity. You probably want to be plugged into power as well if you're using a laptop.
