@@ -35,9 +35,11 @@ Head to [github.com](https://github.com) and create an account.
 
 Ensure you save  your username and password as it will be needed in subsequent lessons. 
 
-- [Click here to Learn how to create your first Git repository](https://www.dailymotion.com/video/k1yHA56ht7qBzwz1WRD)
+- [Click here to watch how our student installed Git on his windows PC](https://youtu.be/ofHjDdvaNPM)
 
-- [Learn how to  connect VS code with your Git repository](https://www.dailymotion.com/video/k5XEdZYW0W8WVBz1WXa)
+- [Watch this video to learn how to create your first Git repository](https://youtu.be/re7sJTcoBYI)
+
+- [Clone your Git repository to vs code on windows PC](https://youtu.be/ergOzhsdMKI)
 
 
 ### Assignment
