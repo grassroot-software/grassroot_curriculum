@@ -10,8 +10,6 @@ But it's important to keep in mind that this project is just to build your HTML 
 
 As mentioned in the [introduction to Git](https://learn.grassroot.academy/lessons/foundations-introduction-to-git), you'll want to organize all your projects like a portfolio and link them to GitHub so it can be seen by others.
 
-If you do not know how to set up a repository, follow the instructions found in [Git Basics](https://learn.grassroot.academy/lessons/foundations-git-basics) to learn how.
-
 1.  Create a new repo for this project on GitHub.com and call it `Grassroot-recipes`.
 
 2.  Move that repository onto your local machine, inside the `repos` folder that you previously created in the Git Basics lesson. The command should look like `git clone git@github.com:username/Grassroot-recipes.git` (use SSH).
@@ -20,13 +18,6 @@ If you do not know how to set up a repository, follow the instructions found in 
 
 4.  Set up your `README.md` file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
 
-If you are having trouble:
-
--   All Git commands need to be run from inside your project's folder (did you forget to `cd` into the `Grassroot-recipes` folder?).
-
--   Ensure you followed the steps [here on Step 2.3](/lessons/foundations-setting-up-git#step-2-configure-git-and-github) to clone from GitHub with SSH.
-
--   Refer to the [workflow](https://learn.grassroot.academy/lessons/foundations-git-basics) in the Git Basics Lesson.
 
 #### Tips on When to Commit
 Don't forget everything we went over in the [previous lesson](https://learn.grassroot.academy/lessons/foundations-commit-messages) about commit messages!
