@@ -10,15 +10,11 @@ But it's important to keep in mind that this project is just to build your HTML 
 
 As mentioned in the [introduction to Git](https://learn.grassroot.academy/lessons/foundations-introduction-to-git), you'll want to organize all your projects like a portfolio and link them to GitHub so it can be seen by others.
 
-1.  Create a new repository for this project on GitHub and call it grassroot-recipe.
+1.  Create a new repository for this project on GitHub and call it grassroot-recipe. [Click here to watch a video how our student did it. ](https://youtu.be/re7sJTcoBYI)
 
-[Click here to watch a video how our student did it. ](https://youtu.be/re7sJTcoBYI)
+2.  Clone the Grassroot recipe repository into vs code. [Watch this video](https://youtu.be/ergOzhsdMKI)
 
-2.  Clone the Grassroot recipe repository into vs code. 
-
-[Watch this video](https://youtu.be/ergOzhsdMKI)
-
-3.  If you did everything properly you should see your Grassroot recipe repository from inside vs code , on the left hand side there should be the readme.md file.
+3. If you did everything properly you should see your Grassroot recipe repository from inside vs code , on the left hand side there should be the readme.md file.
 
 
 
