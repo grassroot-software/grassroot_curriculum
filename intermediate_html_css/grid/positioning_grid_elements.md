@@ -150,7 +150,7 @@ As you go through the assignments you will come across more terminology like `sp
 
 > When doing the following exercises, please use all the documentation and resources you need to accomplish them. You are _not_ intended to have any of this stuff memorized at this point. Check the docs, use google, do what you need to do (besides checking the solutions) to get them done.
 
-Go back to our [CSS exercises repository](https://github.com/grassroot-software/css-exercises) (you've done these previously, but don't forget that the instructions are in the README). Do the first exercise in the 'grid' directory:
+Go back to our [CSS exercises repository](https://github.com/histo-ry/css-exercises) (you've done these previously, but don't forget that the instructions are in the README). Do the first exercise in the 'grid' directory:
 
 1. grid-layout-1
 

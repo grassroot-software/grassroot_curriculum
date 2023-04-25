@@ -537,7 +537,7 @@ If you need to add a *unique* style for a *single* element, this method can work
 
 <div class="lesson-content__panel" markdown="1">
 
-1.  Go to our [CSS exercises repository](https://github.com/grassroot-software/css-exercises), read the README, and only do the exercises in the `foundations` directory in the order they're listed, starting with `01-css-methods` and ending with `06-cascade-fix`.
+1.  Go to our [CSS exercises repository](https://github.com/histo-ry/css-exercises), read the README, and only do the exercises in the `foundations` directory in the order they're listed, starting with `01-css-methods` and ending with `06-cascade-fix`.
 
 2.  Remember the Recipe page you created as practice from the previous lesson? Well, it's rather *plain* looking, isn't it? Let's fix that by adding some CSS to it!
 

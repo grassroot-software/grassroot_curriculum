@@ -121,7 +121,7 @@ Hopefully this gives you a glimpse into the power the `@keyframes` syntax provid
 
 ### Practice
 
-Now let's make some cool animations! Go to the [CSS exercises repository](https://github.com/grassroot-software/css-exercises) and do the exercises in the 'animation' folder in this order:
+Now let's make some cool animations! Go to the [CSS exercises repository](https://github.com/histo-ry/css-exercises) and do the exercises in the 'animation' folder in this order:
 
 1. button-hover
 2. pop-up
